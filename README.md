@@ -27,7 +27,11 @@ Every row is a construction (in a loose, non-theoretical sense), and most constr
 | int_disc_misc | clause-internal, discourse, miscellaneous |
 | indepCla | independent clause constructions |
 
-`r_overview` Contextual overview of marker within construction (with label). Unlike in the constructional schemas, `[X_]` here refers to information in another clause. For example, `[perc_V]:SIMULT` would refer to a 'simultaneous' verb inflection in the presence of a 'perception' verb in the other clause.
+`r_overview` Contextual overview of marker within construction (with label). `Item` is always unbracketed, `gloss` is always in `''`. Additionally, the metalanguage used here differs slightly from the constructional schemas described in the thesis, summarised as such:
+
+- `[]` describes contextual information, e.g. `[V:INFL]-SUB` describes a 'subordinate' marker attached to an inflected verb; `[+X-DAT]` is dative marking on another argument. 
+- `()` describes an optional feature, e.g. `[V](:AP):PURP` describes a purposive inflection on a verb optionally in the antipassive.
+- `_` denotes a clausal boundary, e.g. `[perc_V]:SIMULT` describes a 'simultaneous' verb inflection in the presence of a 'perception' verb in the other clause.
 
 `item` Marker, in language.
 
