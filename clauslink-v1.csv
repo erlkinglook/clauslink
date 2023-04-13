@@ -1,0 +1,1191 @@
+INCL,LNG,MS,MS_subtype,r_overview,item,gloss,function_classes,clacomb_sem,notes,cxn_related,piv_sens,pro_null,mainCla_pro,cpxPreds,locii,source,examples
+sample,LML,int_disc_misc,,"di-ya-lakgarni 'DEF-IV=LOC""",di-ya-lakgarni,DEF-IV-LOC,t_result_purp,'then',,,,,,,,?,(texts)
+sample,MUP,cjxCla,right-edge,-yi 'and',-yi,and,t_prior_cause,,,,,,,,,?,"[W1976]""T1-076""_""T1-100""_""T1-103"""
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:rlu 'ERG',:rlu,ERG,compar_manner,,,,,yes,,,,?,"[S1983]""47"", ""198"", [S1991]""72b"""
+sample,WAP,int_disc_misc,,[X]-yijala 'ALSO',-yijala,ALSO,"addit, t_result_purp",,,,,,,,,?,"[S1991]""118"", ""364a"""
+sample,WAP,int_disc_misc,,ngari 'JUST',ngari,JUST,contr_advers,,,,,,,,,?,"[S1980_44]""2"", [S1983]""22'"", ""80"", ""97"", ""108"", [S1991]""268b"""
+sample,JLU,nfin,sV-RECO,(auxiliary omission),(auxiliary omission),(auxiliary omission),t_result_purp,,,,,yes,,,,(none?),"""4-61e"", ""4-62g"":4-62i"""
+sample,GGL,cjxCla,left-edge,(interrogatives),(interrogatives),(interrogatives),complement,,,,,,,,,(none),"[K1983]""246"", [R2014]""54"", ""73"""
+sample,GGL,int_disc_misc,,gada 'again',gada,again,t_result_purp,,,,,,,,,(none),"[K1983]""243"""
+sample,GGL,nfin,sV-RECO (sui generis),(^PRO),(^PRO),(^PRO),t_result_purp,temp-future,imperatives,,SS,yes,,,,(none),"[K1983]""242"", ""T2-19"""
+sample,GUG,int_disc_misc,,geno 'when',geno,when/time,t_simult_circ,"""that is the time""",,,,,,,,(none),"""2-074a"", ""T1-18"""
+sample,GUG,int_disc_misc,,djapu 'like',djapu,like,compar_manner,,"N-compar, adverbial?",,,,,,,(none),"""3-1g"", ""3-1h"", ""3-29"", ""5-157"", ""5-216"""
+sample,GWA,int_disc_misc,?,but 'but',but,but,contr_advers,,,,,,,,,(none),"""6-153"""
+sample,NGM,nfin,converb,[V]:nguu 'ABL',:nguu,ABL,t_result_purp,,very marginally attested,,,,,,,(none),"""T6-13"""
+sample,KRL,cjxCla,left-edge,ba/bla 'DAT>PURP',ba/bla,DAT>PURP,t_result_purp,"indirsp, jussive",object purpose,,,,,,,Angelo2018_11-14,"[Angelo2018]""9"":""13"""
+sample,KRL,cjxCla,left-edge,fo 'DAT',fo,DAT,t_result_purp,,object purpose,,,,,,,Angelo2018_13,"[Angelo2018]""12"", ""13"""
+sample,KRL,int_disc_misc,,laigijad/latha/laad/la 'thus' [_dirsp],laigijad/latha/laad/la,thus,complement,,demonstrative,_dirsp,,,,,,Angelo2018_16,"[Angelo2018]""18B"""
+sample,KRL,cjxCla,left-edge,we(ya) 'SUB',we(ya),SUB,reference,,interrogative,,,,,,,"Angelo2018_17, Phillips2011_App12-13","[Angelo2018]""20"", ""21"""
+sample,KRL,cjxCla,left-edge,dumaji 'too.much>because',dumaji,too.much>because,t_prior_cause,cause,,,,,,,,"Angelo2018_20, SchultzeBerndt&Meakins2013_17-18","[S&M2013]""27"", [Angelo2018]""21"", [Phillips2011]""4-10"""
+sample,KRL,cjxCla,left-edge,buji 'suppose>if',buji,suppose>if,cond,,,,,,,,,"Angelo2018_20, SchultzeBerndt&Meakins2013_17-18","[Sandefur1981_61]""L31"", [_65]""L33"", [SB2013]""58"", [Rumsey1983_179]""3"""
+sample,DIY,cjxPbo,external,[V:INFL]-yari 'like',-yari,like,compar_manner,,,,,,,,,Austin2011,"""455"", ""457"""
+sample,DJN,nfin,sV-RECO,(bare preverbs),(bare preverbs),(bare preverbs),t_result_purp,"temp-future, temp-prior",,,,yes,,,,Austin2011,"""123"", ""127"""
+sample,DIY,nfin,converb,[V]:rnanthu/yani 'implDS',:rnanthu/yani,implDS,t_result_purp,,"[Diyeri] -rna PTCP + -nthu PROP, [Thirrari] ?",,DS,,,,,Austin2011_191-206,
+sample,DIY,nfin,converb,[V]:lha/lhali 'implSS',:lha/lhalhi,implSS,t_result_purp,,"[Diyeri] FUT, [Thirrari] FUT-ERG",,SS,,,,,Austin2011_191-206,
+sample,DIY,nfin,converb,[V]:rnanhi/rnda~rdanhi 'imperfDS',:rnanhi,imperfDS,"cond, t_simult_circ, reference",,PTCP + -nhi LOC,,DS,,,,,Austin2011_206-223,
+sample,DIY,nfin,converb,[V]:rna/rnda~rda 'imperfSS',:rna/rnda~rda,imperfSS,"cond, t_simult_circ, reference",,PTCP,,SS,,,,,Austin2011_206-223,
+sample,DIY,int_disc_misc,,karha 'maybe' [+V:imperfSS/DS],karha,maybe,cond,,epistemic,[+V:imperfSS/DS],,,,,,Austin2011_214,"""551"""
+sample,DIY,cjxCla,left-edge,wintha 'when',wintha,when,t_simult_circ,,interrogative,,,,,,,Austin2011_216,"""558"""
+sample,DIY,cjxCla,left-edge,[perc/cog/utter_](interrogatives/indefinites),(interrogatives/indefinites),(interrogatives/indefinites),complement,,interrogative,,,,,,,Austin2011_217-218,"""561"":""564"""
+sample,DIY,int_disc_misc,[Diyeri/Thirrari],ngarda(-nhi) 'then(-LOC)',ngarda(-nhi),then(-LOC),t_result_purp,,next + LOC,,,,,,,Austin2011_218-219,"""57"", ""469"", ""472"""
+sample,DIY,nfin,converb,[V]:ni(ngura) 'perfDS',:ni(ngura),perfDS,"t_prior_cause, reference",,NMZ + -ngura (ABL in other Karnic lngs? e.g. ARW),,DS,,,,,Austin2011_223-226,
+sample,DIY,nfin,converb,[V]:rnandru/rndanhi~rdandru 'perfSS',:rnandru/rndanhi~rdandru,perfSS,"t_prior_cause, reference",,PTCP + ABL,,SS,,,,,Austin2011_223-226,
+sample,DIY,nfin,converb,[V]:yathi 'lest',:yathi,lest,appreh,,,,,,,,,Austin2011_226-230,
+sample,DIY,cjxCla,left-edge,ya 'and',ya,and,addit,,,,,,,,,Austin2011_230-235,"""612"":""618"""
+sample,DIY,int_disc_misc,,karha 'maybe',karha,maybe,disjunct,,mod-epist,,,,,,,Austin2011_236,"""624"":""626"""
+sample,NGI,cjxCla,interstitial,ungu 'when',ungu,when,t_simult_circ,,,,,,,,,Bannister2004_23_57,"""3a"", ""68"""
+sample,NGI,int_disc_misc,left-edge,wonj/wunj 'then',wonj/wunj,then,t_result_purp,,,,,,,,,"Bannister2004_23, BerndtBerndt1993","[Bannister2004]""3b"""
+sample,NGI,cjxCla,interstitial,mand 'because',manda,because,t_prior_cause,,,,,,,,,Bannister2004_77,"[Bannister2004]""57"""
+sample,NGI,cjxCla,interstitial,lambula 'for/so',lambula,for/so,t_result_purp,,,,,,,,,"Bannister2004_86, BerndtBerndt1993","[Bannister2004]""101"", [Cerin2004]""254"""
+sample,NGI,int_disc_misc,modal,[V]:ildal 'COND',:ildal,COND,cond,,(only one example),,,,,,,Bannister2004_96,"[Bannister2004]""79"""
+sample,NGI,int_disc_misc,,e/a 'and/until',e/a,and/until,t_result_purp,endpoint,,,,,,,,"Bannister2004_96, BerndtBerndt1993","[Bannister2004]""80"""
+sample,NGI,nfin,converb,[V(:AP)]:ambe 'OPT>PURP',:ambe,OPT>PURP,t_result_purp,,,[^PRO],,yes,,,,Bannister2004_98-103,"[Bannister2004]""84"", ""86"":""89"""
+sample,ALY,cjxPbo,external,[V:INFL]-wiya 'QUANT',-wiya,QUANT,t_simult_circ,,,,,,,,,Bednall2020_276-278,"""8.23"":""8.29"""
+sample,ALY,cjxPbo,external,[V:INFL]-lhangwiya 'PERL',-lhangwiya,PERL,t_simult_circ,,,,,,,,,Bednall2020_281-284,"""8.35"""
+sample,ALY,indepCla,,MOD+SBJ+OBJ-V-TAM,,,mod-indic,,,,,,head,no,,Bednall2020_29-30,
+sample,ALY,indepCla,,NEG.NPST-V-NEG.NPST,,,"mod-indic, mod-imper, neg",,negative non-past (incl. imperatives),,,,head,no,,Bednall2020_29-30_82-84,"""3.59"""
+sample,ALY,int_disc_misc,mood,dhuk/dhukwa 'maybe',dhuk/dhukwa,maybe,disjunct,,mod-epist (one example),,,,,,,Bednall2020_320_326,"""9.61"""
+sample,ALY,cjxCla,left-edge,if 'if',if,if,cond,,<Eng (one example in B2019),,,,,,,Bednall2020_357,"""10.4"""
+sample,ALY,int_disc_misc,"mood, attitude",[V:unr]-maka 'EVIT',-maka,EVIT,cond,,"epistemic, avertive",,,,,,,Bednall2020_385-386_393-394,
+sample,ALY,int_disc_misc,"mood, attitude",['fear'_V:IRR^PST]-maka 'EVIT',-maka,EVIT,complement,,,,,,,,,Bednall2020_389-390,"""10.77"", ""10.87"""
+sample,ALY,int_disc_misc,,ekena/akena 'then/but',ekena/akena,then,contr_advers,,,,,,,,,Bednall2020_426,"""9.76"", ""G-3.44"""
+sample,ALY,int_disc_misc,,biya 'and.then',biya,and.then,t_result_purp,,,,,,,,,Bednall2020_426,"""5.6"""
+sample,ALY,int_disc_misc,,kemba 'then',kemba,then,t_result_purp,,,,,,,,,Bednall2020_426,
+sample,ALY,int_disc_misc,,akwa 'and',akwa,and,"t_result_purp, addit",,,,,,,,,Bednall2020_426,"""3.92"", ""3.95"", ""5.8"""
+sample,ALY,cjxCla,left-edge,yendhi-lhangwa 'until',yendhi-lhangwa,until,t_result_purp,endpoint,,,,,,,,"Bednall2020_426, Leeding1989_205","[Bednall2020]""6-76d"""
+sample,ALY,cjxCla,left-edge,mena(-baba) 'because',mena(-baba),because,"t_prior_cause, appreh",,,,,,,,,Bednall2020_427,"[Bednall2020]""3.88"", ""9.123"""
+sample,ALY,cjxCla,left-edge,kajungwa 'so that',kajungwa,so that,t_result_purp,,,,,,,,,Bednall2020_427,"[Bednall2020]""3.85"", ""6.53"""
+sample,ALY,cjxCla,left-edge,nara-wiya 'before',nara-wiya,before,t_result_purp,,,,,,,,,Bednall2020_427,"[Bednall2020]""10.24"""
+sample,ALY,int_disc_misc,,[V:INFL]-ma/m@rra[-CCASE] 'DEP',-ma/m@rra,DEP,reference,,,CCASE,pivot case,,,,,"Bednall2020_57-65_89-93, VanEgmond2012_","""3.67"":""3.77"""
+sample,ALY,nfin,"converb, infin",[V]:k[(-PURP)] 'NSR',:k,NSR,"t_result_purp, complement","purpose, comp-cog, comp-jussive",lexical nominalisation,,,yes,,,R,"Bednall2020_65_86-89, VanEgmond2012_122-125","[VE2012]""60"":""69"", [B2019]""3-60"":""3-62"", [B2019]""3-64"":""3-66"""
+sample,ALY,cjxPbo,external,[V:INFL(-DEP)|V:NSR]-baba 'REAS',-baba,REAS,t_prior_cause,,,,,,,,,Bednall2020_87,"""3.86"", ""9.123"""
+sample,ALY,int_disc_misc,mood,[V:IRR|V:NSR]-yedha/yadha 'PURP',-yedha/yadha,PURP,t_result_purp,,,,,,,,,Bednall2020_87-89_95-96,"""3.8"", ""3.61"", ""3.66"", ""3.82"", ""3.83"", ""6.53"""
+sample,ALY,cjxPbo,external,[V:INFL]-kba 'DZN',-kba,DZN,"appreh, complement",comp-whether,,,,,,,,Bednall2020_94-95,"""3.81"", ""8.11"":""8.13"""
+sample,ALY,cjxPbo,external,[V:INFL-DEP]-lhangwa 'ABL',-lhangwa,ABL,t_prior_cause,,,,,,,,,Bednall2020_94-95,"""3.80"", ""3.87"""
+sample,ALY,cjxPbo,external,[V:INFL-DEP]-wa 'ALL',-wa,ALL,t_result_purp,,,,,,,,,Bednall2020_94-95,"""3.79"""
+sample,ALY,cjxPbo,external,[V:unr]-manja 'LOC',-manja,LOC,"t_simult_circ, cond",,case marker,,,,,,,Bednall2020_94-95,"""3.78"""
+sample,ALY,int_disc_misc,"mood, attitude",[V:IRR^PST]-maka 'EVIT',-maka,EVIT,appreh,,,,,,,,,Bednall2020_97_384-394,
+sample,NGI,int_disc_misc,modal,antha 'perhaps' [+when],antha,perhaps,cond,,epistemic,[+when],,,,,,"BerndtBerndt1993_X, Cerin1994_X",
+sample,NGI,cjxCla,left-edge,luk/lukanth/luk yuman 'like/as.if',luk/lukanth/luk yuman,like/as.if,compar_manner,compar-ctf,< thus,,,,,,,"BerndtBerndt1993_X, Cerin1994_X","[B&B1993]""T82-6, ""T54-65"""
+sample,NGI,cjxCla,left-edge,(demonstratives),(demonstratives),(demonstratives),reference,,,,,,,,,"BerndtBerndt1993_X, Cerin1994_X","[B&B1993]""A-4.4"", [Cerin1994]""317"", ""523"""
+sample,SOC,int_disc_misc,mood?,[V:INFL-PRO]-dha/-ya 'HORT',-dha/-ya,HORT,t_result_purp,,(also as verb infl),,,,,,,Besold2012A_269-272,"""4-149"", ""5-116"", ""5-126"", ""5-128"""
+sample,SOC,int_disc_misc,mood?,[X-THEN_V]:yi 'IF',:yi,IF,cond,,< POT? (Dharumbal) (only one example),,,,,,,"Besold2012A_273, Besold2012B_57","""5-134"""
+sample,SOC,cjxPbo,external,[V:INFL]-ya/dha 'SUB/THEN',-ya/dha,SUB/THEN,"reference, complement",,,,,,,,,Besold2012A_300-301,
+sample,SOC,nfin,converb,[V]:ri[^-PRO] 'PURP',:ri,PURP,t_result_purp,(seems to be nfin in Dharrawal only),soft imperative (insub?),[^-PRO],,yes,,,,Besold2012A_301-302,"""6-63"":""6-64"""
+sample,SOC,cjxCla,left-edge,ba/ya 'and',ba/ya,and,addit,,,,,,,,,Besold2012A_302_305-306,"""417"", ""4-227"", ""680"", ""681"""
+sample,SOC,cjxCla,left-edge,ma(dha) 'because',ma(dha),because,t_prior_cause,,,,,,,,,Besold2012A_306-307,"""4-58"", ""4-154b"", ""6-84"", ""6-86"", ""6-87"""
+sample,SOC,cjxCla,left-edge,yagunja 'then',yagunja,then,t_result_purp,,,,,,,,,Besold2012A_308,"""6-91"""
+sample,SOC,int_disc_misc,,dhadja 'then',dhadja,then,t_result_purp,,< dhadjan 'soon'? (Dharrawal),,,,,,,"Besold2012A_312-313, Besold2012B_248","""5-149"", ""7-5"""
+sample,SOC,int_disc_misc,,yagundu 'then',yagundu,then,t_result_purp,,,,,,,,,Besold2012A_325-327,
+sample,SOC,int_disc_misc,,yagun-gay 'then-?',yagun-gay,then-?,t_simult_circ,,,,,,,,,Besold2012A_325-327,
+sample,MAK,int_disc_misc,mood,[V:PURP+sV]-noh 'intentive/benefactive',-noh,intentive/benefactive,t_result_purp,,,,,yes,,,,Birk1976_107-108,"[Birk1976]""261"", ""349"", ""422"", ""455"", ""457"", ""T1-62_63"", ""T1-108"", ""T2-54"""
+sample,MAK,cjxPbo,"external, sV-CVBZ",[sV(-CONTIN)]-noh(-LOC) 'INTENT/BEN',-noh,INTENT/BEN,t_result_purp,,,,SS (O=S' in the one example with LOC),yes,,,,Birk1976_107-108,"[Birk1976]""261"", ""349"", ""422"", ""455"", ""457"":""458"", ""T1-62_63"", ""T1-108"", ""T2-54"", [Hoffmann2016]""16a"""
+sample,MAK,int_disc_misc,mood,[V]:SJV [_V:FUT/PUNCT/PURP/SJV],:SJV,SJV,cond,,,_V:FUT/PUNCT/PURP/SJV,,,,,,Birk1976_123-124,"[Birk1976]""121"", ""153"", ""184"", ""199"", ""200"", ""219"", ""303"", ""429"":""432"""
+sample,MAK,int_disc_misc,mood,[V]:PURP [_V:PURP],:PURP,PURP,"cond, t_result_purp",,,_V:PURP,,,,,,Birk1976_123-124,"[Birk1976]""115"", ""428"""
+sample,MAK,int_disc_misc,discoSeq,aniny 'then',aniny,then,t_result_purp,,,,,,,,,Birk1976_40,"[Birk1976]""96"""
+sample,MAK,int_disc_misc,discoSeq,yerra 'well/now/then',yerra,well/now/then,t_result_purp,,,,,,,,,Birk1976_40,"[Birk1976]""97"""
+sample,MAK,int_disc_misc,mood,[V:PURP+sV]-telk/puk 'possib',-telk/puk,possib,appreh,,,,,,,,,Birk1976_89,"[Birk1976]""T2-64_65"", ""T1-108_109"", ""T1-196"""
+sample,MAK,int_disc_misc,aspect,[V:INFL+sV]-ali 'participial',-ali,participial,"t_simult_circ, compar_manner",,,,,,,,,Birk1976_91,"[Birk1976]""464"", ""465a"":""465c"", ""469"""
+sample,MAK,cjxPbo,"external, sV-CVBZ",[sV]-ali(-LOC) 'PTCP',-ali,PTCP,"t_simult_circ, compar_manner",,stance/posture,,,yes,,,,Birk1976_91_129-131,"[Birk1976]""T1-104_105"""
+sample,MAK,int_disc_misc,redu-modif,[V:INFL+sV]-many 'ABL/departing from',-many,ABL/departing from,t_prior_cause,,,,,,,,,Birk1976_91-92_114-115,"[Birk1976]""304"":""307"""
+sample,MAK,int_disc_misc,,[sV(-PTCP/INTENT)]-na 'LOC',-na,LOC,?,,,,??,yes,,,,Birk1976-115-116,"[Birk1976]""458"", ""T1-104_105"""
+sample,BGB,cjxPbo,external,[V:INFL]-yi 'SUB',-yi,SUB,"reference, complement, t_simult_circ, t_result_purp, appreh, contr_advers",,,,,,,,,Blake1973_41-44,
+sample,KKT,pivCase,external,[V:PTCP/NOW]-CCASE,-CCASE,CCASE,reference,,,??,pivot case,,,,,Blake2012_?,"[B1979]""5.13"", [B2012]""7.3"", ""7.52"", ""17.29a"""
+sample,KKT,cjxCla,left-edge,puyu 'if',puyu,if,cond,,,,,,,,,Blake2012_107-108,"[B2012]""14.53"""
+sample,KKT,int_disc_misc,,[X]-yana 'and',-yana,and,t_result_purp,temp-future,N-addition,,,,,,,Blake2012_108,"[B2012]""6.27"", ""14.62"":""14.64"", ""T3-4"", ""T4-2"""
+sample,KKT,int_disc_misc,,(same infl),(same infl),(same infl),compar_manner,serial,,,,,,,,Blake2012_119,"[B2012]""17.15"":""17:21"""
+sample,KKT,int_disc_misc,,[V]:mia 'IRR',:mia,IRR,appreh,,"past intentional, past possible",,,,,,,Blake2012_42-43,"[B2012]""6.12"", ""6.13"""
+sample,KKT,int_disc_misc,"tense, aspect",[V:0/PST_V]:mpa 'PERF',:mpa,PERF,t_result_purp,temp-prior,aspect-perfective,V:0/PST_,,,,,,Blake2012_43-44,"[B2012]""6.27"":""6.30"""
+sample,KKT,nfin,converb,[V:IRR/FUT_V]:Cin[(-ta/ka)] 'PTCP'[(-LOC)],:Cin,PTCP,cond,,,"V:IRR/FUT_, (-ta/ka 'LOC')",,,,,,Blake2012_49-53,"[B2012]""4.56"", ""6.13"", ""7.32"", ""7.33"", ""7.36"", ""7.40"""
+sample,KKT,nfin,converb,[V]:Cin 'PTCP',:Cin,PTCP,"reference, t_simult_circ, t_prior_cause",,"""non-TA-specific value"" (insub?)",,,,,,,Blake2012_49-53,"[B2012]""4.53"", ""4.54"""
+sample,KKT,cjxPbo,"external, post-infl",[desid_V:PTCP]-ku 'DAT' [+O-DAT],-ku,DAT,complement,comp-desid,,"desid_, +O-DAT",S=S',,,,,Blake2012_50,"[B2012]""7.16"""
+sample,KKT,cjxPbo,external,[V:PTCP]-ta/ka 'LOC>WHEN',-ta/ka,LOC>WHEN,t_simult_circ,,,V:PTCP,DS,,,,,Blake2012_51-52,"[B2012]""7.27"":""7.35"""
+sample,KKT,int_disc_misc,,[V]:manthi 'NOW',:manthi,NOW,"complement, t_simult_circ",,imperfective contemporary,,,,,,,Blake2012_53-54,"[B2012]""6.19"", ""7.46"""
+sample,KKT,nfin,converb,[V]:manthi-i 'NOW-DAT',:manthi-i,NOW-DAT,complement,,,,,,,,,Blake2012_54,"[B2012]""7.52"""
+sample,KKT,cjxCla,left-edge,a-/lha- 'PURP',a-/lha-,PURP,"complement, t_result_purp",comp-desid,,,,,,,,Blake2012_55-63,"[B2012]""4.125"", ""8.1"":""8.6"", ""8.9"", ""8.12"", ""8.15"", ""8.19"", ""8.22"", ""8.25"":""8.28"", ""8.31"", ""17.14"", ""17.16"""
+sample,KKT,nfin,converb,[V]:ntjaaya 'PURP',:ntjaaya,PURP,"complement, t_result_purp",,"intention, future (insub?)",,,,,,,Blake2012_63-65,"[B2012]""8.65"", ""8.67"", ""8.70"", ""8.73"""
+sample,KKT,cjxCla,left-edge,unu/ana 'LEST',unu/ana,LEST,appreh,,,,,,,,,Blake2012_66-71,"[B2012]""9.1"", ""9.2"", ""9.4"":""9.7"", ""9.37"""
+sample,KKT,cjxPbo,external,[V:FUT]-thi 'LOC' [+REL],-thi,LOC,"t_simult_circ, t_result_purp",,,"V:mi, +REL",not DS,,,,,Blake2012_72-76,"[B2012]""10.16"":""10.24"", ""10.26"", ""10.27"", ""10.30"":""10.35"""
+sample,KKT,cjxCla,left-edge,ngu 'REL',ngu,REL,"reference, t_simult_circ, t_result_purp",,,,,,,,,Blake2012_72-76,"[B2012]""10.7"", ""10.15"":""10.28"", ""10.30"", ""10.31"", ""10.34"", ""10.35"", ""10.38"""
+sample,KKT,cjxCla,left-edge,ngu 'REL' [+V:FUT-LOC],ngu,REL,t_result_purp,,,+V:FUT-LOC,,,,,,Blake2012_72-76,"[B2012]""10.16"":""10.24"", ""10.26"", ""10.27"", ""10.30"":""10.35"""
+sample,NHD,int_disc_misc,,[V]:nda-ndha 'IRR-FUT',:nda-ndha,IRR-FUT,cond,,,,,,,,,Blevins2001_102-103,"""92c"", ""94bc"""
+sample,NHD,nfin,"converb, infin","[V]:jad[-PRES/PST, ^PRO] 'PTCP'",:jad,PTCP,"t_prior_cause, t_simult_circ, complement",,"reciprocal deriv, nominalisation",[-PRES/PST] (not dependent) [^PRO],x,maybe,,,,Blevins2001_111,"""99c"", ""105a"":""105e"", ""106a"":""106c"", ""132a"", ""134bb"""
+sample,NHD,int_disc_misc,,[V]:ndha 'FUT',:nhaa,FUT,t_result_purp,,,,,,,,,Blevins2001_113-114,"""79bb"", ""110""a:""110c"""
+sample,NHD,cjxPbo,external,[V:PST]-wu 'CAUS',-wu,CAUS,t_prior_cause,,,[V:PST],,,,,,Blevins2001_114,"""111a"":""111b"""
+sample,NHD,int_disc_misc,,urdamundi 'then',urdamundi,then,t_result_purp,,,,,,,,,Blevins2001_116,"""71g"", ""92c"""
+sample,NHD,cjxCla,left-edge,wutkatpacadi 'meanwhile',wutkatpacadi,meanwhile,t_simult_circ,,,,,,,,,Blevins2001_116_131-132,"""94aa"", ""114e"", ""133i"":""133k"""
+sample,NHD,int_disc_misc,,(relative tense),relative tense,relative tense,t_result_purp,,,,,,,,,Blevins2001_123,"""121b"", ""133b"""
+sample,NHD,cjxCla,left-edge,kala 'and',kala,and,t_result_purp,,,,,,,,,Blevins2001_134,"""136a"":""136c"""
+sample,WAP,cjxCla,interstitial,manu 'and',manu,and,addit,,nom/verb conjunction,,,,,,,Bowler2014,"[B2014]""17"""
+sample,WAP,int_disc_misc,,marda 'maybe',marda,maybe,disjunct,,mod-epist,,,,,,,Bowler2014_13-18_42-49,
+sample,WAP,cjxCla,left-edge,kaji 'IF/POT',kaji,IF/POT,"cond, t_result_purp, t_simult_circ",,,,,,,,,Bowler2014_7-9,"[S1983]""417"", [S1991]""289"", [S1991]""328"", [B2014]""20"":""22"""
+sample,NGM,int_disc_misc,"mood, aspect",pidding 'if' [+V:IRR],pidding,if,cond,,"'always', insub",[+V:IRR],,,,,,Brandenstein1980_110,
+sample,NGM,int_disc_misc,,puddaa 'later/then/soon',puddaa,maybe/as soon as/by-and-by/later,"t_simult_circ, t_prior_cause, t_result_purp, cond",,,,,,,,,Brandenstein1980_111,
+sample,NGM,int_disc_misc,,puddai 'maybe/by-and-by',puddai,maybe/by-and-by,"t_simult_circ, t_result_purp",,,,,,,,,Brandenstein1980_111,
+sample,NGM,int_disc_misc,,[V]:N(u)[(-LOC)] 'PTCP',:N(u),PTCP,"t_simult_circ, t_prior_cause",,,,,,,,,Brandenstein1980_26_28,
+sample,NGM,int_disc_misc,,tjula 'FUT',jula,FUT,t_result_purp,intentional,,,,,,,,Brandenstein1980_26-27,
+sample,NGM,int_disc_misc,"mood, aspect?",[V]:gu-n 'IRR-PTCP',:gu-n,IRR-PTCP,compar_manner,,,,,,,,,Brandenstein1980_27,
+sample,NGM,nfin,converb,[V]:gurdi 'forward',:gurdi,forward,t_result_purp,,,,,,,,,Brandenstein1980_27,"""62-8"", ""62-9"""
+sample,NGM,int_disc_misc,,[V]:gu[(-CASE)] 'ADIT>IRR',:gu,ADIT>IRR,cond,,"epistemic, deontic",,,,,,,Brandenstein1980_27,
+sample,NGM,cjxPbo,external,[V:PTCP/IRR]-Ca 'LOC',-Ca,LOC,"t_simult_circ, t_prior_cause",,,,,,,,,Brandenstein1980_28,
+sample,NGM,cjxCla,left-edge,kuni[-CASE] 'what',kuna,what,reference,,,,,,,,,Brandenstein1980_30-31,"[B1980_30_31]""1"":""12"""
+sample,BGB,cjxCla,left-edge,wanyu [+V:SUB] 'whenever',wanyu,whenever,,,,[+V:SUB],,,,,,Breen1973_112-113,"[43]""6"", [112]""4"""
+sample,BGB,int_disc_misc,,[V]:lgu 'for',:lgu,for,t_result_purp,,,,,,,,,Breen1973_93,"[_93]""1"":""5"""
+sample,BGB,int_disc_misc,,[V]:lgu-wula 'for-was',:lgu-wula,for-was,contr_advers,,,,,,,,,Breen1973_94,"[_94]""2"":""3"""
+sample,BGB,int_disc_misc,,[V]:lgina(-SUB) 'would',:lgina,would,"cond, contr_advers, complement",cond-ctf,,,,,,,,Breen1973_95-96,"[_95]""1"":""2"", [_96]""3"""
+sample,WGA,cjxPbo,"external, converb, post-infl",[V:NOM]-nga 'after' [+O-AFTER],-nga,AFTER,t_prior_cause,,,+O-AFTER,SS,yes,,,,Breen1974_120-121,
+sample,WGA,cjxPbo,"external, converb, post-infl",[V:NOM]-ngi 'CONSEQ' [(+O-ALL)],-ngi,CONSEQ,"t_prior_cause, t_result_purp",,insub,(+O-ALL) (one ex),x,yes,,,,Breen1974_134-135,"""1-92"", ""1-95"", ""4.2-65"":""4.2-67"", ""4.2-77"":""4.2-79"", ""4.2-83b"""
+sample,WGA,nfin,redu-modif,[V:AG]-Vparl 'caus',-Vparl,CAUS,compar_manner,privative?,,,,yes,,,,Breen1974_138,
+sample,WGA,cjxPbo,"external, converb, post-infl",[V:PST/NOM]-(nge)p 'GEN?',-(nge)p,GEN?,t_prior_cause,,"insub, two tenuous examples",,SS/O=S'?,yes,,,,Breen1974_144,"""4.5-2"", ""4.5-4"""
+sample,WGA,int_disc_misc,,piikij 'still',piikij,still,concess,,,,,,,,,Breen1974_148,
+sample,WGA,cjxCla,left-edge,pa 'and',pa,and,,,,,,,,,,Breen1974_15,"""1-61"":""1-65"", ""3.2-23"", ""4.2-65b"", ""5-9"", ""5-16"", ""4.2-65a"""
+sample,WGA,int_disc_misc,,wiy 'question',wiy,QUESTION,cond,cond-hyp,,,,,,,,Breen1974_157-158,
+sample,WGA,int_disc_misc,,welim 'right',welim,right,t_result_purp,,,,,,,,,Breen1974_161-162,
+sample,WGA,int_disc_misc,,[X]-kal 'FIRST',-kal,FIRST,t_simult_circ,,,,,,,,,Breen1974_167,
+sample,WGA,cjxCla,left-edge,but 'but',but,but,contr_advers,,(one example),,,,,,,Breen1974_168,"""7-99"""
+sample,WGA,int_disc_misc,,[X/V:INFL]-ing(-PRO) 'then',-inga,then,"t_result_purp, contrast",,,X/V:INFL,,,,,,Breen1974_170,
+sample,WGA,int_disc_misc,,[X]-kart 'connective?',-kart,connective?,t_simult_circ,,,,,,,,,Breen1974_173,
+sample,WGA,int_disc_misc,,puun 'too',puun,too,addit,,,,,,,,,Breen1974_18_159,"""1-66"", ""6.1-2"""
+sample,WGA,int_disc_misc,mood,[V]:arliy 'PST.PURP/IRR',:arliy,PST.PURP/IRR,cond,cond-ctf,,,,,,,,Breen1974_18-19_116-117,
+sample,WGA,nfin,?converb,[perc_V]:en 'compl',:en,COMPL,complement,,(one example),[perc_,,yes,,,,Breen1974_180,"""4.2-85"""
+sample,WGA,int_disc_misc,,[X]-l 'yet',-l,yet,concess,,,,,,,,,Breen1974_188,"""7-097"", ""7-098"", ""7-100"""
+sample,WGA,cjxCla,left-edge,tha 'but',tha,but,contr_advers,,(one example),,,,,,,Breen1974_19,"""1-67"""
+sample,WGA,cjxPbo,"external, converb, post-infl",[V:NOM]-ngerl 'ERG(OP)/LOC',-ngerl,ERG(OP)/LOC,"t_simult_circ, t_prior_cause",,,,SS,yes,,,,Breen1974_23-24,"""1-87"":""1-88"", ""1-93"", ""4.2-72"""
+sample,WGA,cjxPbo,"external, converb, post-infl",[V:NOM]-ngert 'ALL' [+O-ALL],-ngert,ALL,t_result_purp,,,+O-ALL,O=S',yes,,,,Breen1974_24-27,"""1-89"":""1-92"", ""1-94"", ""1-102"", ""1-110"", ""4.2-68"", ""5-31"""
+sample,WGA,cjxCla,left-edge,il 'REL',il,REL,"reference, complement, t_simult_circ, t_prior_cause",,'like',,,,,,,Breen1974_24-27,
+sample,WGA,cjxCla,left-edge,il 'REL' [+V:POT/IRR],il,REL,cond,cond-hyp,,+V:POT/IRR,,,,,,Breen1974_76_123_139,"""2.3-28"", ""4.2-18a"", ""4.2-63"", ""4.3-2"""
+sample,WGA,cjxPbo,"external, converb, post-infl","[O:PURP, V:NOM]-riy 'PURP' [+O-PURP]",-riy,PURP,t_result_purp,,"desid, oblig",+O-PURP (one ex of ACC),x,yes,,,,Breen1974_80-82,"""1-18"", ""1-70"":""1-71"", ""1-74"", ""1-83"":""1-86"", ""1-89"", ""1-97"", ""1-99"":""1-100"", ""2.3-52"", ""2.3-55"", ""2.3-57"":""2.3-58"", ""2.3-78"", ""4.1-48a"", ""4.2-18b"", ""4.2-65"", ""4.2-67"":""4.2-68"", ""4.2-75"", ""4.2-79"", ""4.3-6"", ""5-14"""
+sample,MAY,nfin,converb,[V]:tu 'PURP' [+X-PURP],:tu,PURP,t_result_purp,+X-PURP,"mod-intent, -hort, -desid",,,,,,,Breen1981_58,"""44"", ""70"", ""113"":""119"", ""194"":""195"""
+sample,MAY,cjxCla,bound,[X]-lu 'REL',-lu,REL,"complement, reference, t_simult_circ",,,,,,,,,Breen1981_71-73,"""191"", ""197"":""201"""
+sample,KRL,cjxCla,left-edge,en 'and',en,and,"addit, t_simult_circ",,,,,,,,,Brown&Ponsonnet2021,"[Brown&Ponsonnet2021]""3"", ""5"", ""10"", ""14"""
+sample,MAW,int_disc_misc,mood,[V]:IRR,:IRR,IRR,t_result_purp,,,,,,,,,Capell&Hinch1970_101,"[C&H1970_101]""5"""
+sample,MAW,cjxCla,left-edge,ta 'land gender' [+V:IRR1/V:FUT],ta,land gender,cond,,,[+V:IRR1/V:FUT],,,,,,"Capell&Hinch1970_102-103, Singer2006_152-153","[S2006]""5-9"":""5:10"""
+sample,MAW,int_disc_misc,mood,ungburun/ngungpurrun 'maybe' [+V:FUT],ungburun/ngungpurrun,maybe,cond,,,[+V:FUT],,,,,,Capell&Hinch1970_91,"[C&H1970_91]""3"":""4"""
+sample,NGI,int_disc_misc,right-edge,[tell_]luku 'thus',luku,thus,complement,,,,,,,,,Cerin1994_101-102,"[Cerin1994]""521"""
+sample,NGI,cjxCla,left-edge,[(thus)_]il 'that>if',il,that>if,"purpose, complement, t_simult_circ",whether-comps,< 3sgERG / interrogative,(thus)_,,,,,,Cerin1994_103,"[B&B1993]""T111B-6"", [Cerin1994]""526"""
+sample,NGI,cjxCla,left-edge,(3rd person pronouns),(3rd person pronouns),(3rd person pronouns),reference,,,,,,,,,Cerin1994_146-147,"[Cerin1994]""624"":""629"""
+sample,NGI,cjxCla,interstitial,inandja 'because/on account of',inandja,because/on account of,"t_prior_cause, appreh",,< 3sg+ABL+...,,,,,,,Cerin1994_68,"[Cerin1994]""417"":""419"""
+sample,NGI,cjxCla,bound,[X]-uk 'while',-uk,while,t_simult_circ,,,X,,,,,,Cerin1994_82-84,"[Cerin1994]""453"":""457"""
+sample,WOA,int_disc_misc,,ba:[V] 'CTF',ba:,CTF,"cond, appreh, t_result_purp",,,,,,,,,Clendon2014_194-201,"""8.29"", ""8.45"", ""15.35b"", ""17.25a"""
+sample,WOA,cjxCla,left-edge,ngamba 'when',ngamba,when,t_simult_circ,,"< now, soon, later",,,,,,,Clendon2014_253-255,"""10.47"":""10""50"""
+sample,WOA,cjxPbo,external,-ngarri 'REL',-ngarri,REL,"reference, ?",,,,,,,,,Clendon2014_262,"""7.13f"", ""10.17a"""
+sample,WOA,nfin,sV-RECO,(inflecting verb omission),(bare/serial preverbs),(bare/serial preverbs),"t_simult_circ, t_result_purp",,,,,yes,,,,Clendon2014_275-277,"""11.5"":""11.7"""
+sample,WOA,cjxPbo,"external, sV-CVBZ",[sV]-kwunya(_ASP)(_DEM) 'PURP',-kwunya,PURP,t_result_purp,,,,,yes,,,,Clendon2014_277,"""11.8a-c"":""11.09"""
+sample,WOA,nfin,"sV-CVBZ, ptcp",(substantive preverbs),(substantive preverbs),(substantive preverbs),"complement, reference",,,,,yes,,,,Clendon2014_278-279,"""11.10"":""11.12"""
+sample,WOA,int_disc_misc,,[V]:ngun 'SJV',:ngun,SJV,"t_simult_circ, cond",,,,,,,,,Clendon2014_387-404,"""5.41"", ""5.43c"", ""8.15b"", ""8.22c"", ""8.30"", ""8.42b"", ""15.39f"", ""17.17c"""
+sample,WAG,int_disc_misc,mood,menuny 'maybe',menuny,maybe,disjunct,,mod-epist,,,,,,,Cook1987_149,"[C1987]""6-75"""
+sample,WAG,nfin,sV-RECO,[sV]-0 'PUNCT/PFV',-0,PUNCT/PFV,t_prior_cause,,,,,yes,,,,Cook1987_258-259,"[C1987]""T3-9"", ""T4-17"", [W1999]""4-36"":""4-37"""
+sample,WAG,int_disc_misc,,[sV]-wi 'SEQ',-wi,SEQ,t_result_purp,,,,,,,,,Cook1987_259-260,"[C1987]""11-25"", ""11-36"":""11-37"", ""11-42"""
+sample,WAG,cjxPbo,"external, sV-CVBZ",[sV(-ASP)]-gunda 'ABL',-gunda,ABL,t_prior_cause,,,,,yes,,,,"Cook1987_260-261, Wilson1999_85-86","[A1987]""9-48"":""9-49"", [W1999]""4-71"", ""4-73"":""4-75"""
+sample,WAG,cjxPbo,"external, sV-CVBZ",[sV(-ASP)]-gu 'DAT',-gu,DAT,"t_result_purp, complement, reference",comp-purpose,,,,yes,,,,"Cook1987_261, Wilson2006_14","[C1987]""9-50"":""9-52"", ""T3-1"", [W1999]""4-72"", ""4-76"":""4-78"", ""4-81"":""4-82"", [W2006]""19"""
+sample,WAG,cjxPbo,"external, sV-CVBZ",[sV(-ASP)]-ga 'ALL',-ga,ALL,t_result_purp,intention,,,,yes,,,,Cook1987_262-263_309,"[C1987]""9-53"":""9-56"", ""11-32b"", ""T5-24"", [W1999]""4-79"":""4-80"""
+sample,URI,int_disc_misc,relative-tense,(relative tense),(relative tense),(relative tense),"t_simult_circ, t_result_purp",,,,,,,,,Crowley1983_363,"""T2-56"", ""T3-20"""
+sample,URI,nfin,converb,[V]:nhu 'NMZ(ABS)',:nhu,NMZ(ABS),"t_simult_circ, complement",,,,,,,,,Crowley1983_372-373_378,"""136"""
+sample,URI,cjxPbo,"external, converb, post-infl",[V:NMZ]-:nhamu 'GEN',-:nhamu,GEN,complement,,,,,,,,,Crowley1983_373,"""108"", ""109"""
+sample,URI,cjxPbo,"external, converb, post-infl",[V:NMZ]-mun 'ABL',-mun,ABL,t_prior_cause,pivot needed?,,,,,,,,Crowley1983_378-379,"""106"", ""107"", ""137"""
+sample,URI,cjxPbo,"external, converb, post-infl",[V:NMZ]-ghu/ku 'DAT',-ghu/ku,DAT,t_result_purp,pivot needed?,"intentive, hortative (insub)",,,,,,,Crowley1983_379-380,"""138"":""143"""
+sample,URI,int_disc_misc,,untu-:pun 'there-ABL',untu-:pun,there-ABL,t_result_purp,,,,,,,,,Crowley1983_401,"""T3-14_16_18_30_31"""
+sample,DAL,cjxCla,"left-edge, free",kanh/kanunh 'DEM',kanh/kanunh,DEM,"reference, complement, t_simult_circ",,,,,,,,,Cutfield2011_140-150,
+sample,DAL,cjxCla,left-edge,nunh 'DEM',nunh (kanunh),D.UNF (D.ID),"t_prior_cause, t_simult_circ, cond",,demonstrative,,,,,,,Cutfield2011_150-152_375-376,
+sample,MTH,cjxCla,free,yirla 'until' [+V:PURP-ACC/+'cease':FUT],yirla,until,t_result_purp,endpoint,,[+V:PURP-ACC/+'cease':FUT],,,,,,Dench1994_177-178,
+sample,MTH,cjxCla,"left-edge, free",(wayil) wii 'maybe>if',(wayil) wii,if,cond,,epistemic,,,,,,,Dench1994_179-181,
+sample,MTH,int_disc_misc,discoStructure,[X]-l 'THEN',-l,THEN,t_result_purp,,,,,,,,,Dench1994_181-182,
+sample,MTH,nfin,converb,[V]:rnura/nyila[(-CCASE)] 'PRES.REL',:rnura/nyila,PRES.REL,"reference, t_prior_cause, t_simult_circ",,,(CCASE),,,,,,Dench1994_241-247,
+sample,MTH,pivCase,external,[V:INFL]-CCASE,-CCASE,CCASE,reference,,,,pivot case,,,,,Dench1994_241-247,
+sample,MTH,cjxPbo,external,[V:PST]-nguru 'ABL',-nguru,ABL,t_prior_cause,,,,,,,,,Dench1994_243-244,
+sample,MTH,nfin,converb,[V]:(l.ya)rra 'CTEMP',:(l.ya)rra,CTEMP,t_simult_circ,,,,"SS, one DS ex",,,,,Dench1994_247-248,
+sample,MTH,nfin,converb,[V]:(l.ya)rrawaara 'SEQ',:(l.ya)rrawaara,SEQ,t_result_purp,,,,SS,,,,,Dench1994_248-249,
+sample,MTH,nfin,converb,[V]:l.wirri/yirri(-CASE) 'APPR',:l.wirri/yirri(-CASE),APPR,appreh,,,,,,,,,Dench1994_249_251,
+sample,MTH,nfin,converb,[V]:lu/wa(-CASE) 'PURP',:lu/wa(-CASE),PURP,t_result_purp,,,,,,,,,Dench1994_251-255,
+sample,MTH,cjxPbo,external,[jussive/'show'/desid_V:PURP]-a 'ACC',-a,ACC,complement,,,,O=S',,,,,Dench1994_251-255,
+sample,MTH,cjxPbo,external,[cog/perc/utter/ability_V:PrREL]-a 'ACC',-a,ACC,complement,,,,O=S',,,,,Dench1994_255_257,
+sample,MTH,cjxPbo,external,[V:INFL]-la 'LOC',-la,LOC,t_simult_circ,,,,DS,,,,,Dench1994_76-77_241-243,
+sample,MTH,int_disc_misc,,[X]-purtu 'COMPL',-purtu,COMPL,"t_result_purp, contr_advers",,,,,,,,,Dench2009_280-281,
+sample,MTH,int_disc_misc,?,yimpalaa 'like that',yimpalaa,like that,compar_manner,,,,,,,,,Dench2009_282,"[Dench2009]""51"":""52"""
+sample,DYB,cjxPbo,external,[V:UNM]-mi(-CCASE) 'REL',-mi(-CASE),REL,"reference, t_prior_cause",priority,,(CCASE),pivot case,,,,,Dixon1972_103-104,"""300"", ""302"""
+sample,DYB,nfin,converb,[V]:bila(-gu) 'LEST(-PURP)',:bila(-gu),LEST(-PURP),appreh,,,,SS,,,,,Dixon1972_112-113,"""346"":""349"""
+sample,DYB,int_disc_misc,discourse,anydya 'NEW',anydya,NEW,t_result_purp,,new topic,,,,,,,Dixon1972_117,"""T15-9"", ""-10"", ""-35"", ""-43"", ""-45"", ""-55"", ""-66"", ""-82"""
+sample,DYB,int_disc_misc,N-marking,nguri 'in turn',nguri,in turn,t_result_purp,,,,,,,,,Dixon1972_120-121_361-362,"""685"""
+sample,DYB,nfin,converb,[V:FUT_V]:ngu[(-CASE)] 'REL',:ngu,REL,cond,cond-hyp,,,,,,,,Dixon1972_362-363,"""686"":""687"", ""689"":""691"""
+sample,DYB,int_disc_misc,,wiyama-ngu 'do.what-REL' [+V:REL] [+V:FUT],wiyama-ngu,do.what-REL,cond,cond-ctf,interrogative,[+V:REL] [+V:FUT],,,,,,Dixon1972_363,"""692"""
+sample,DYB,int_disc_misc,mood,yamba 'maybe',yamba,maybe,disjunct,,mod-epist,,,,,,,Dixon1972_363-364,"""693"""
+sample,DYB,int_disc_misc,"mood, tense",[V]:gu/:li 'PURP',:gu/:li,PURP,t_result_purp,,,,,,,,,Dixon1972_73-74_74-77,"""127"":""129"", ""133"", ""136"""
+sample,DYB,cjxPbo,external,[^X-LOC_V:REL]-ra 'LOC',-ra,LOC,"t_simult_circ, t_result_purp",,,[^X-LOC_] [V:REL],DS,,,,,Dixon1972_77-79,"""147"", ""149"", ""150"", ""152"", ""153"""
+sample,DYB,nfin,"converb, ptcp",[X-CCASE_V]:ngu[-CCASE] 'REL',:ngu,REL,reference,,,CCASE,pivot case,,,,,Dixon1972_99-105,"""290"":""305"""
+sample,DYB,pivCase,external,[V:UNM-mi/V:REL]-CCASE,-CCASE,CCASE,reference,,,,pivot case,,,,,Dixon1972_99-105,
+sample,YNY,nfin,converb,[V]:nyunda 'DAT.SUB',:nyunda,DAT.SUB,"reference, complement, t_simult_circ",,,,x,,,,,Dixon1977_323-333,
+sample,YNY,nfin,converb,[V]:nyum 'CAU.SUB',:nyum,CAU.SUB,"reference, complement, t_simult_circ, cond, t_prior_cause",,,,"O=S', S=S'",,,,,Dixon1977_334-341,[S2005_76
+sample,YNY,nfin,converb,[V]:na 'PURP' [+O-PURP],:na,PURP,t_result_purp,n,"insub: deontic, dynamic",[+O-PURP],"SS, O=S', DS",,,,,Dixon1977_342-349,
+sample,YNY,nfin,converb,[V]:dyi[(-ERG)] 'LEST' [+X-FEAR],:dyi,LEST,"reference, complement, t_simult_circ, t_prior_cause, appreh",,insub,[+X-FEAR],"ERG for SS, ABS for DS",,,,,Dixon1977_350-357,
+sample,NGY,cjxPbo,"external, converb, post-infl, infin",[desid_V:PURP]-nginda 'CARIT',-nginda,CARIT,complement,comp-desid,,,,,,,,Donaldson1980_113-116_,"""10-5"", ""10-6"", ""T8-16"""
+sample,NGY,int_disc_misc,discoStructure,[X]-la/langa 'THEN',-la/langa,THEN,t_result_purp,,,,,,,,,Donaldson1980_161-162,
+sample,NGY,int_disc_misc,N-marking,[X]-buwala 'CONTRAST.TOPIC',-buwala,CONTRAST.TOPIC,contr_advers,contrast,,,,,,,,Donaldson1980_247,
+sample,NGY,cjxCla,"bound, free",[X/V:INFL]-yanbii 'ADD.TOP',-yanbii,ADD.TOP,addit,,,,,,,,,Donaldson1980_247-249,"""9-32"":""9-36"""
+sample,NGY,int_disc_misc,,[V:INFL]-gulaay 'LIKE,-gulaay,LIKE,compar_manner,,,,,,,,,Donaldson1980_249-250,
+sample,NGY,int_disc_misc,mood,[X]-ma 'CTF',-ma,CTF,cond,,counterfactual,,,,,,,Donaldson1980_251-253,
+sample,NGY,nfin,converb,[V]:Nara 'CIRCUM' [+X-CF],:Nara,CIRCUM,cond,cond-ctf,,,,yes,,,,Donaldson1980_252,"""9-56"""
+sample,NGY,nfin,converb,[V]:i/giri 'PURP' [+X-L.EVID],:i/giri,PURP,t_result_purp,purpose,"deontic, hortative, evidential","+X-L.EVID (obligatory, provides intentional value)",x,yes,,,,Donaldson1980_276-278_281-285,"""10-15"":""10-17"", ""T1-53"", ""T1-55"", ""T3-4"", ""T4-4a"""
+sample,NGY,nfin,"converb, infin",[juss/'say'/'know'_V]:i/giri 'PURP',:i/giri,PURP,complement,"jussive, comp-purpose, citation form","deontic, hortative",juss/desid/'know'_,,,,,,Donaldson1980_280-281,"""6-18"", ""6-93"", ""9-30"", ""10-1"":""10-4"", ""T5-5"""
+sample,NGY,nfin,"converb, infin",[V]:i/giri[-DAT] 'PURP',:i/giri,PURP,"t_result_purp, complement","purpose, comp-purpose","deontic, hortative, N-purpose",-DAT (switch ref marker),S/O=S'/A',yes,,,,Donaldson1980_281_283,"""10-7"":""10-14"", ""T1-5"", ""T1-47"", ""T4-5"", ""T5-10a"", ""S5-1b"""
+sample,NGY,nfin,converb,[appreh_V]:waadji 'FEAR',:waadji,FEAR,complement,appreh-timit,,appreh_,x,yes,,,,Donaldson1980_285-286,"""10-18"", ""10-22"":""10-23"""
+sample,NGY,nfin,converb,[V]:waadji 'FEAR' (+X-L.EVID),:waadji,FEAR,appreh,,,+X-L.EVID (one example),x,yes,,,,Donaldson1980_285-286,"""10-19"":""10-21"", ""10-24"""
+sample,NGY,nfin,converb,[V]:Nara 'CIRCUM',:Nara,CIRCUM,"t_simult_circ, cond, t_prior_cause, complement",,,,,yes,,,,Donaldson1980_287-291,"""10-25"":""10-28"", ""10-32"":""10-34"", ""10-37"":""10-39"""
+sample,NGY,cjxPbo,external,[V:INFL]-ba 'SUB',-ba,SUB,"t_simult_circ, concess",,,,,,,,,Donaldson1980_291-294,
+sample,NGY,cjxPbo,external,[V:INFL]-ba 'SUB' [(+dem)],-ba,SUB,reference,,,(+dem),,,,,,Donaldson1980_294-301,
+sample,NGY,cjxCla,left-edge,yaay 'thus',yaay,thus,compar_manner,,,,,,,,,Donaldson1980_295-296,"""10-49"":""10-52"""
+sample,NGY,cjxCla,left-edge,yinggal 'same' [+V:INFL-SUB/+V:CIRCUM],yinggal,same,compar_manner,,,+V:INFL-SUB/+V:CIRCUM,,,,,,Donaldson1980_295-296,"""10-53"""
+sample,NGY,cjxCla,left-edge,yinggal[-CASE] 'same',yinggal,same,reference,,,,,,,,,Donaldson1980_295-296,"""10-54"""
+sample,NGY,cjxPbo,external,[speech/thought/perc/emotion_V:INFL]-ba 'SUB',-ba,SUB,complement,,,speech/thought/perc/emotion_,,,,,,Donaldson1980_301-304,
+sample,NGY,cjxPbo,"external, converb, post-infl, infin",[perc_V:CIRC]-DHi 'CIRC',-DHi,CIRC,complement,abstract stimuli,N-case,perc_V:CIRC,,,,,,Donaldson1980_91-93_96-99_287-291,"""10-26"", ""10-27"""
+sample,GUB,cjxPbo,external,[V:PRES-gam]-ba 'LOC',-ba,LOC,t_simult_circ,,,,,,,,,Eades1979_287,"[E1979]""50"""
+sample,GUB,cjxPbo,external,[V:PRES]-gam 'NMLSR',-gam,NMLSR,reference,,,,,,,,,Eades1979_287_324,"[E1979]""45"":""51"""
+sample,GUB,cjxCla,left-edge,baya 'FAC.CONJ' [+V:IMP],baya,FAC.CONJ,t_result_purp,,hortative with IMPER,+V:IMP,,,,,,Eades1979_321-322,"[E1979]""169"":""171"", [WWM2016]""9"""
+sample,GUB,cjxCla,left-edge,[tell_]baya 'FAC.CONJ',baya,FAC.CONJ,complement,,hortative with IMPER,,,,,,,Eades1979_322,"[E1979]""172"""
+sample,GUB,cjxCla,"fluid, bound, external",[X/V:INFL]-ndi,-ndi,ndi,"reference, t_simult_circ, cond",,,,,,,,,Eades1979_322-328,"[E1979]""173"":""178"", ""185"", ""188"""
+sample,GUB,cjxCla,"fluid, bound, external",[perc_X/V:INFL]-ndi,-ndi,ndi,complement,,,,,,,,,Eades1979_323-328,"[E1979]""183"", ""186"", ""187"""
+sample,GUB,pivCase,external,[V:INFL-NDI/NMLSR]-CCASE,-CCASE,CCASE,reference,"(rare, only one example)",,,pivot case,,,,,Eades1979_324,"[E1979]""179b"""
+sample,GUB,int_disc_misc,,yila: 'LOC.DEIC',yila:,LOC.DEIC,reference,ref-loc,one example,,,,,,,Eades1979_324,"[E1979]""180"""
+sample,GUB,nfin,converb,[V]:ygu 'PURP',:ygu,PURP,t_result_purp,,same as FUT (insub),,,,,,,Eades1979_328-329,"[E1979]""190"":""196"""
+sample,GUB,int_disc_misc,,[desid/jussive_V]:ygu 'PURP',:ygu,PURP,complement,"desid, jussive",same as FUT,,,,,,,Eades1979_329,"[E1979]""200"""
+sample,GUB,int_disc_misc,,gala 'and',gala,and,"t_result_purp, contr_advers, concess",,,,,,,,,Eades1979_331-332,"[E1979]""207"""
+sample,GUB,int_disc_misc,,waw 'also',waw,also,addit,,,,,,,,,Eades1979_332,"[E1979]""209"""
+sample,GUB,int_disc_misc,,djawgar 'so/then',djawgar,so/then,t_result_purp,,,,,,,,,Eades1979_332,"[E1979]""208"""
+sample,KYD,nfin,derivation,[V:Nz]-marii[:INFL] 'verbal translative',-marii,verbal translative,t_result_purp,bound,,:INFL,,,,,,Evans1995_170-171,"""4-120"""
+sample,KYD,int_disc_misc,"mood, attitude",['fear'_V]:Narra(-CCASE) 'APPR',:Narra(-CCASE),APPR,complement,,,(CCASE),,,,,,Evans1995_212,"""5-51"""
+sample,KYD,int_disc_misc,,[V]:THi/nangkiya 'SUPP/NEG.SUPP',:THi/nangkiya,SUPP/NEG.SUPP,cond,,proto-Tangkic hortative/polite imperative,,,,,,,Evans1995_257-258,"""7-9"":""7-10"""
+sample,KYD,nfin,converb,[V]:jarrb[^-CCASE] 'PRECON',:jarrb,PRECON,"t_simult_circ, cond, reference",,INSUB?,^CCASE,,,,,,Evans1995_261-262_508-509,"""12-47"":""12-50"", ""12-34"""
+sample,KYD,int_disc_misc,mood,[jussive_V]:d 'DES',:d,DES,complement,comp-jussive,,,,,,,,Evans1995_262-263_506-508,"""12:44"", ""12:46"""
+sample,KYD,int_disc_misc,mood,[V]:d 'DES',:d,DES,"cond, t_result_purp",,mod-deontic,,,,,,,Evans1995_262-263_519,"""7-34"":""7-35"", ""12-83"""
+sample,KYD,int_disc_misc,mood,[jussive_V]: 'HORT/NEG.HORT',:THinja/nangija,HORT/NEG.HORT,complement,,,,,,,,,Evans1995_263_506-508,"""12-45"""
+sample,KYD,int_disc_misc,"tense, mood",[jussive_V]:juru/nangku(-CCASE) 'POT/NEG.POT',:juru/nangku(-CCASE),POT/NEG.POT,complement,comp-jussive,,(CCASE),,,,,,Evans1995_263_506-508,"""12-41"":""12-43"""
+sample,KYD,int_disc_misc,mood,[V]:THinja/nangija 'HORT/NEG.HORT',:THinja/nangija,HORT/NEG.HORT,t_result_purp,,,,,,,,,Evans1995_263-264,"""7-40"":""7-41"""
+sample,KYD,int_disc_misc,"mood, attitude",[V]:Narra(-CCASE) 'APPR',:Narra(-CCASE),APPR,appreh,,,(CCASE),,,,,,Evans1995_264-265_509-511,"""7-44"", ""12-51"":""12-58"""
+sample,KYD,nfin,,[V]:THiri[-MCASE] 'DIR',:THiri,DIR,t_result_purp,motion purpose,direction towards speaker,-MCASE,,,,,,Evans1995_265-266_453_486-487,"""7-45"":""7-50"", ""11-8"", ""11-82"":""11-85"""
+sample,KYD,nfin,converb,[perc_V]:n(:CASE) 'Nz' [+X-AOBL],:n,Nz,complement,,"aspect-impf, habitual","(:CASE), '+X-AOBL",,,,,,Evans1995_266,"""11-28"":""11-30"""
+sample,KYD,nfin,converb,[V]:n(:CASE) 'Nz' [+X-AOBL],:n,Nz,"reference, t_simult_circ",,"aspect-impf, habitual","(:CASE), '+X-AOBL",,,,,,Evans1995_266_472-474,"""11-36"":""11-37"""
+sample,KYD,cjxPbo,"internal, converb, post-infl",[V]-thirri[:Nz]([-CASE]) 'RES',-thirri,RES,"reference, t_prior_cause",,resultative nominalisations,":Nz, (-CASE)",,,,,,Evans1995_266-267_478-480,"""11-60"":""11-64"""
+sample,KYD,int_disc_misc,mood,maraka 'CTFACT',maraka,CTFACT,compar_manner,,,,,,,,,Evans1995_378-382,"""9-254"""
+sample,KYD,int_disc_misc,mood,['pretend'/'lie'_]maraka 'CTFACT',maraka,CTFACT,complement,,,,,,,,,Evans1995_378-382,"""9-255"""
+sample,KYD,int_disc_misc,discoStructure,bana 'and',bana,and,"t_result_purp, addit, contr_advers",,,,,,,,,"Evans1995_395, Round2013_204","""9-333"", [R2013]""10-6"""
+sample,KYD,nfin,derivation,[V:Nz]-maru[:INFL] 'verbal dative',-maru,verbal dative,t_result_purp,"""use""",,:INFL,,,,,,Evans1995_474,"""11-38"""
+sample,KYD,pivCase,external,[perc/utter_V:INFL]-CCASE,-CCASE,CCASE,complement,,,,(pivot case),,,,,Evans1995_474_513-514_516,"""12:62"":""12:67"", ""12-72"":""12-73"", ""12-74"":""12-76"""
+sample,KYD,cjxPbo,"external, converb, post-infl",[V:Nz]-marri(-CCASE) 'PRIV' [+X-PRIV],-marri,PRIV,compar_manner,,negation,"(-CCASE), +X-PRIV",,,,,,Evans1995_475-476,"""11-40"":""11-43"", ""12-75a"""
+sample,KYD,cjxPbo,"external, converb, post-infl",[perc_V:Nz]-marri(-MCASE) 'PRIV',-marri,PRIV,complement,,,(-MCASE),,,,,,Evans1995_476,"""11-44"":""11-45"""
+sample,KYD,cjxPbo,"external, converb, post-infl",[V:Nz]-ngarrba(-MCASE) 'CONS' [+X-CONS],-ngarrba,CONS,"reference, t_prior_cause",,,"(-MCASE), +X-CONS",,,,,,Evans1995_480-483,"""11-66"":""11-67"", ""11-70"":""11-76"""
+periph,GII,,,,,,,,,,,,,,,Campbell2006,
+periph,GLM,,,,,,,,,,,,,,,Capell1984,
+sample,KYD,pivCase,external,[V:INFL]-CCASE,-CCASE,CCASE,"reference, t_simult_circ, t_result_purp, contr_advers",,,,(pivot case),,,,,"Evans1995_489-513, 517-518, 518-522, 533-537","""12-77"":""12-78"", ""12-81""-""12-86"", ""12-87"":""12-89"", ""12-90-12-93"", ""12-123"":""12-127"""
+sample,KYD,pivCase,external,[Vperc:INFL]-CCASE,-CCASE,CCASE,?,"""parenthetical"", reason clause",,,,,,,,Evans1995_514,"""12-68"":""12-71"""
+sample,KYD,int_disc_misc,mood,[V]:juru/nangku(-CCASE) 'POT/NEG.POT',:juru/nangku(-CCASE),POT/NEG.POT,"complement, t_result_purp",,,(CCASE),,,,,,Evans1995_518-519,"""12-81"":""12-82"", ""12-84"":""12-85"""
+sample,BKW,cjxPbo,external,gu-[V:INFL],gu-,LOC,t_simult_circ,,< gure 'LOC',,,,,,,Evans2003_122-124_159,"""5.140"", ""14.141"""
+sample,BKW,cjxPbo,external,[V:INFL]-keno 'when',-keno,when,t_simult_circ,,,,,,,,,Evans2003_153-154_323_631,"""8.99"""
+sample,BKW,cjxCla,left-edge,yiman 'like',yiman,like,compar_manner,,,,,,,,,Evans2003_255-256,"""6.103"", ""6.104"""
+sample,BKW,int_disc_misc,N-marking,[X]-wali 'in turn',-wali,in turn,t_result_purp,,,,,,,,,Evans2003_258,"""6.116"""
+sample,BKW,cjxPbo,external,[V:INFL]-keno 'GEN',-ken,GEN,t_result_purp,,,,,,,,,Evans2003_323_631,"""14.18"", ""5.114"""
+sample,BKW,cjxPbo,external,[V:INFL]-kah 'LOC',-kah,LOC,t_simult_circ,,,,,,,,,Evans2003_323_631,"""14.19"""
+sample,BKW,int_disc_misc,mood,wardi 'maybe' [+V:IRR/NP],wardi,maybe,appreh,,,[+V:IRR/NP],,,,,,Evans2003_366_656,"""9.32"":""9.33"", ""14.158"""
+sample,BKW,int_disc_misc,,[desid/juss_V]:yi 'IRR',:yi,IRR,complement,,,,,,,,,Evans2003_374-375_640-642,"""14.71"":""14.78"""
+sample,BKW,int_disc_misc,mood,[V]:yi 'IRR',:yi,IRR,cond,,epistemic,,,,,,,Evans2003_376,
+sample,BKW,int_disc_misc,,yiga 'some',yiga,some,disjunct,,partitive,,,,,,,Evans2003_466_617-618,"""10.308"""
+sample,BKW,int_disc_misc,aspect,h:[V:INFL] 'IMM',h:,IMM,t_simult_circ,,,,,,,,,Evans2003_524-525,
+sample,BKW,int_disc_misc,aspect,[perc]h:[_V:INFL] 'IMM',h:,IMM,complement,,,,,,,,,Evans2003_524-525_636,"""14.42"""
+sample,BKW,int_disc_misc,,weleng-[V:INFL] 'then',weleng-,then,t_result_purp,,,,,,,,,Evans2003_526,"""6.82"", ""8.10"", ""11.184"":""11.186"""
+sample,BKW,int_disc_misc,N-marking,[N]-warridj 'also',-warridj,also,addit,,,,,,,,,Evans2003_602,"""13.268"":""13.272"""
+sample,BKW,int_disc_misc,,wanjh 'then',wanjh,then,t_result_purp,,,,,,,,,Evans2003_623-627,"""12.33"", ""12.48"", ""13.188"""
+sample,BKW,cjxCla,left-edge,bonj 'finished' [_V:just],bonj,finished,concess,,,,,,,,,Evans2003_624,"""13.359"", ""13.360"""
+sample,BKW,int_disc_misc,relative-tense,(relative tense),(relative tense),(relative tense),"t_simult_circ, complement",,,,,,,,,Evans2003_633-640,"""14.33"":""14.38"""
+sample,BKW,cjxCla,left-edge,(demonstratives),(demonstratives),(demonstratives),"reference, complement",,,,,,,,,Evans2003_642-645_662,"""14.79"":""14.99"", ""14.186"":""14.189"""
+sample,BKW,int_disc_misc,mood,gare 'maybe',gare,maybe,cond,,epistemic,,,,,,,Evans2003_646,"""14.175"""
+sample,BKW,int_disc_misc,,yerre 'after/later/before',yerre,after/later/before,"t_prior_cause, t_result_purp",,,,,,,,,Evans2003_646,"""14.16"", ""14.151"""
+sample,BKW,cjxCla,left-edge,la 'CONJ',la,CONJ,"t_prior_cause, addit, contr_advers",,,,,,,,,Evans2003_646_649-650,"""14.119"", ""14.120"""
+sample,BKW,cjxCla,left-edge,dja 'CONJ',dja,CONJ,"t_prior_cause, t_result_purp, addit, contr_advers",,,,,,,,,Evans2003_646_649-650,"""14.121"":""14.124"""
+sample,BKW,cjxCla,"left-edge, free",ba (bu) 'CONJ',ba (bu),so,"t_result_purp, contr_advers",,,,,,,,,Evans2003_647-648,"""14.102"":""14.108"""
+sample,BKW,cjxCla,left-edge,because 'CONJ',because,CONJ,"t_prior_cause, contr_advers",,,,,,,,,Evans2003_651-652,"""14.127"":""14.129"""
+sample,BKW,cjxCla,"left-edge, free",bu 'SUB',bu,SUB,"reference, t_simult_circ, cond",,"topic, focus, demonstrative",,,,,,,Evans2003_652-654_656-658,"""14.116"", ""14.117"""
+sample,BKW,cjxCla,"left-edge, free",andu/ngandud 'once',andu/ngandud,once,t_simult_circ,,,,,,,,,Evans2003_654,"""14.142"":""14.144"""
+sample,BKW,cjxCla,"left-edge, free",med 'wait',med,wait,t_simult_circ,,<INTJ,,,,,,,Evans2003_654,"""14.145"""
+sample,DAL,cjxPbo,internal,buh-[V:INFL] 'because',buh-,because,t_prior_cause,,,,,,,,,Evans2006_36,
+sample,DAL,int_disc_misc,timeAdverbial,yelvng-[V:INFL] 'SEQ',yelvng-,SEQ,t_result_purp,,,,,,,,,"Evans2006_38-39, Cutfield2011_135-140","""6"":""7"""
+sample,DAL,int_disc_misc,mood,wu:[V:INFL] 'APPR',wu:,APPR,"appreh, cond",,,,,,,,,Evans2006_42,
+sample,DAL,int_disc_misc,"mood, attitude",[juss/fear]wu:[_V:INFL] 'APPR',wu:,APPR,complement,,,,,,,,,Evans2006_42,
+sample,DAL,nfin,converb,ku:[V:INFL] 'PURP',ku:,PURP,t_result_purp,,,,,,,,,Evans2006_42-44,"""16"":""18"""
+sample,DAL,nfin,converb,[cog/juss/desid/act_]ku:[V:INFL] 'PURP',ku:,PURP,complement,,,cog/juss/desid/act_,,,,,,Evans2006_43-44,"""19"":""24"""
+sample,DAL,nfin,converb,ye:[V] 'SUB',ye:,SUB,"reference, t_simult_circ",,,,,,,,,Evans2006_44-49,"""2b"", ""8a"", ""9"":""12a"", ""43"""
+sample,DAL,cjxPbo,external,[V:INFL]-kah 'LOC',-kah,LOC,reference,,,,,,,,,Evans2006_51-54,
+sample,DAL,cjxPbo,external,[V:FUT]-kvn 'PURP',-kvn,PURP,t_result_purp,,,,,,,,,Evans2006_51-54,
+sample,DAL,cjxPbo,external,[V:INFL]-kuno 'TEMP',-kuno,TEMP,t_simult_circ,,,,,,,,,Evans2006_51-54,
+sample,DAL,cjxPbo,"external, sV-CVBZ",[V:IVF]-kvn 'PURP',-kvn,PURP,t_result_purp,,,,S/A=S',yes,,,,Evans2006_54-55,
+sample,DAL,nfin,"sV-RECO, sV-INCORP",[V]:i 'incorporating verb form',:i,incorporating verb form,t_result_purp,,,,S/A=S',yes,,,,Evans2006_54-55,"""37"""
+sample,IWA,cjxCla,left-edge,ruka 'there/where',ruka,there/where,reference,ref-loc,"this, here (one example)",,,,,,,Evans2007_281,"""17"""
+sample,DAL,cjxCla,left-edge,kakkarda 'while',kakkarda,while,t_simult_circ,,,,,,,,,EvansMerlanTukumba2004_134,
+sample,DAL,int_disc_misc,mood,kardv 'maybe',kardu,maybe,"disjunct, concess",,mod-epist,,,,,,,EvansMerlanTukumba2004_142,
+sample,DAL,int_disc_misc,timeAdverbial,kenbo 'then/after that',kenbo,then/after that,t_result_purp,,,,,,,,,EvansMerlanTukumba2004_152,
+sample,DAL,cjxCla,right-edge,mahkih 'because',mahkih,because,"t_prior_cause, addit",,,,,,,,,EvansMerlanTukumba2004_211,
+sample,DAL,int_disc_misc,,mah 'CONJ',mah,CONJ,"t_prior_cause, addit",,,,,,,,,EvansMerlanTukumba2004_211,
+sample,DAL,cjxCla,free,malung 'before/when',malung,before/when,"t_simult_circ, t_prior_cause",,< 'first',next to SUB-inflected verb,,,,,,EvansMerlanTukumba2004_215,
+sample,DAL,cjxCla,left-edge,kardv marrvh-kvno 'whenever',kardu marrvh-kvno,whenever,t_simult_circ,,,,,,,,,EvansMerlanTukumba2004_232,
+sample,DAL,int_disc_misc,,wirri(mah(kih)) 'maybe/or',wirri(mah(kih)),maybe/or,disjunct,,mod-epist,,,,,,,EvansMerlanTukumba2004_348,
+sample,DAL,cjxPbo,external,bu-[V:INFL] 'when',bu-,when,t_simult_circ,,,,,,,,,EvansMerlanTukumba2004_45,
+sample,DAL,int_disc_misc,,bah 'CONJ',bah,CONJ,"t_result_purp, addit, contr_advers, concess",,,,,,,,,EvansMerlanTukumba2004_5-6,
+sample,DAL,cjxCla,left-edge,bahdi 'CONJ',bahdi,CONJ,contr_advers,,,,,,,,,EvansMerlanTukumba2004_6,
+sample,BTJ,int_disc_misc,,[V:INFL]-coe 'CONT',-coe,CONT,t_simult_circ,,,,,,,,,Ford1990_X,"""44"""
+sample,BTJ,cjxPbo,external,[V:INFL]-nung 'PURP',-nung,PURP,"t_result_purp, complement",comp-action,,,,,,,,Ford1990_144-145,"""184"", ""197"""
+sample,BTJ,nfin,"sV-CVBZ, infin",[sV]-poettung 'GEN',-poettung,GEN,complement,comp-purp,,,,yes,,,,Ford1990_149,"""78"", ""87"", ""216"", ""217"""
+sample,BTJ,int_disc_misc,timeAdverbial,ngarr 'later',ngarr,later,t_result_purp,,,,,,,,,Ford1990_163-164,"""T2-17"""
+sample,BTJ,int_disc_misc,timeAdverbial,nguna 'then',nguna,then,t_result_purp,,,,,,,,,Ford1990_163-164,"""81"""
+sample,BTJ,int_disc_misc,timeAdverbial,[X]-pente/-nte 'now',-pente/-nte,now,t_result_purp,,,,,,,,,Ford1990_170-171,"""81"", ""T2-17"""
+sample,BTJ,int_disc_misc,"N-marking, discoStructure",[X]-kak 'FOC',-kak,FOC,"t_result_purp, addit, contr_advers",,,,,,,,,Ford1990_171,"""T2-62"""
+sample,BTJ,int_disc_misc,timeAdverbial,[X]-mini 'then/at that time',-mini,then/at that time,t_result_purp,,,,,,,,,Ford1990_174-175,"""327"""
+sample,BTJ,cjxCla,left-edge,narra 'but',narra,but,contr_advers,,,,,,,,,Ford1990_X,"""133"", ""174"""
+sample,EMM,cjxCla,left-edge,yene 'LOC',yene,LOC,reference,ref-loc,adposition,,,,,,,Ford1999_113-115_330-331,"""3-52"", ""7-84"", ""8-61"", ""8-98"""
+sample,EMM,int_disc_misc,mood,[V]:IRR(-PERF),IRR,IRR,cond,PERF for cond-ctf,,,,,,,,Ford1999_278_289,"""7-36"", ""7-41"""
+sample,EMM,int_disc_misc,,[X]-nhdheni 'now',-nhdheni,now,t_result_purp,,,,,,,,,Ford1999_286-288,"""7-71"", ""8-99"""
+sample,EMM,int_disc_misc,,(serial constructions),(serial constructions),(serial constructions),t_simult_circ,,aspect,,,,,,,Ford1999_315-330,"""8-92"":""8-95"""
+sample,EMM,cjxCla,left-edge,e 'and',e,and,t_result_purp,,,,,,,,,Ford1999_331-332,"""8-100"", ""T5-69_71"""
+sample,EMM,int_disc_misc,,ngunu 'and then',ngunu,and then,t_result_purp,,,,,,,,,Ford1999_331-332,"""7-61"", ""8-99"", ""T3-89_92"""
+sample,WTS,int_disc_misc,discoSeq,(X-)nge 'then',nge,then,t_result_purp,,,,,,,,,"FordOber1987_11, Mitchell2015_371_421",
+sample,WTS,cjxPbo,"external, converb, post-infl",['fear'_V:INFIN]-le 'ABL',-le,ABL,complement,appreh,,['fear'_][X-TA],,,,,,FordOber1987_14,"""52"", ""53"""
+sample,WTS,cjxCla,"right-edge, free",[(cla-)]a 'and',a,and,addit,,,,,,,,,FordOber1987_18_30,"""79"", ""90"", ""T-12"""
+sample,WTS,int_disc_misc,phoric,[speech_]kedha 'thus',kedha,thus,complement,,,,,,,,,"FordOber1987_19, Michell2015_434","""82"":""86"""
+sample,WTS,cjxCla,"right-edge, free",na/nanga (kedha) 'if/when' [+V:FUT_V:FUT],na/nanga (kedha),when/if,cond,,,[+V:FUT] [_V:FUT],,,,,,FordOber1987_20,"[F&O1987]""90"""
+sample,WTS,cjxCla,free,namuyth 'as soon as',namuyth,as soon as,t_simult_circ,,"temp interrogative, < ?",,,,,,,"FordOber1987_20, Mitchell2015_342_388","""88"""
+sample,WTS,cjxCla,"right-edge, free",na/nanga (kedha) 'if/when',na/nanga (kedha),when/if,t_simult_circ,,,,,,,,,"FordOber1987_20, Mitchell2015_431",
+sample,WTS,cjxCla,free,na/nanga 'REL' [+mi-N],na/nanga,REL,reference,,,[+mi-N],,,,,,FordOber1987_21-22,
+sample,WTS,nfin,participle,[V:INF]:zi 'PTCP',:zi,PTCP,"reference, complement, t_prior_cause",,,,,,,,,FordOber1987_21-22,
+sample,WTS,cjxCla,left edge,se kasa (midh) 'although',se kasa (midh),although,concess,,< 'this' + 'just' (+ interr),,,,,,,FordOber1987_22-23,"""103"""
+sample,WTS,cjxCla,left-edge,kasa-kay (kedha) 'but',kasa-kay (kedha),but,contr_advers,,< 'just' + 'only',,,,,,,FordOber1987_22-23,
+sample,WTS,cjxCla,left-edge,lawnga 'or',lawnga,or,disjunct,,< NEG,,,,,,,FordOber1987_22-23,"""108"""
+sample,WTS,cjxCla,left-edge,kurusipa(-kay) 'until',kurusipa(-kay),until,t_result_purp,endpoint,< ? + 'DAT/to there',,,,,,,"FordOber1987_22-23, Mitchell2015_358_378","""109"""
+sample,WTS,cjxCla,left-edge,wagel(-kay) 'or else',wagel(-kay),or else,appreh,,< 'after/behind/next' + immed.fut,,,,,,,"FordOber1987_22-23, Mitchell2015_379",
+sample,WTS,cjxCla,left-edge,kedhazungu(-kay) (kedha) 'because',kedhazungu(-kay) (kedha),because,t_prior_cause,,< 'thus' + ABL,,,,,,,"FordOber1987_22-23, Mitchell2015_381",
+sample,WTS,int_disc_misc,mood,nay 'CTF',nay,CTF,cond,cond-ctf,,,,,,,,"FordOber1987_22, Mitchell2015_432",
+sample,WTS,cjxPbo,"external, converb, post-infl",[V:INFIN]-pa 'DAT',-pa,DAT,"t_result_purp, complement",,,[X-DAT],,,,,,FordOber1987_7_16,"""8"", ""66"""
+sample,WTS,nfin,infinitive,[V]:y 'INF',:y,INF,complement,,,,,,,,,"FordOber1987_7, Mitchell2015_384-385","""4"""
+sample,KTH,int_disc_misc,,ngul 'then/so/but',ngul,then/so/but,"t_result_purp, contr_advers",,,,,,,,,Gaby2017_172_245_337_460-462,"[G2017]""487"", ""728"", ""1091"":""1095"""
+sample,KTH,cjxCla,"left-edge, free",ngan 'what',ngan,what,"reference, t_simult_circ",,,,,,,,,Gaby2017_172_460,"[G2017]""301"", ""1093"""
+sample,KTH,cjxCla,left-edge,ith 'if',ith,if,cond,,demonstrative,,,,,,,Gaby2017_260_331,"[G2017]""525"", ""705"""
+sample,KTH,int_disc_misc,phoric,['say']yarriy 'thus',yarriy,thus,complement,,,,,,,,,Gaby2017_328_450,"[G2017]""695"", ""1066"""
+sample,KTH,cjxCla,left-edge,kar 'like',kar,like,t_prior_cause,reason,similitive,,,,,,,Gaby2017_328-332,"[G2017]""705"""
+sample,KTH,cjxCla,left-edge,(ith) kar 'like',kar,like,cond,,similitive,(ith),,,,,,Gaby2017_328-332_454-455,"[G2017]""1078"""
+sample,KTH,int_disc_misc,"mood, attitude",pam 'DETR',pam,DETR,appreh,,,,,,,,,Gaby2017_332,"[G2017]""711"":""712"""
+sample,KTH,int_disc_misc,temp_adv,kanpa 'before',kanpa,before,t_prior_cause,prior,"spatial, temporal, ""already""",,,,,,,Gaby2017_351-352,"[H1972]""13-25"", [G2017]""339"", ""451"", ""550"", ""654"""
+sample,KTH,int_disc_misc,,angarr,angarr,angarr,t_result_purp,,,,,,,,,Gaby2017_433-434,"[G2017]""1024"""
+sample,KTH,int_disc_misc,mood,waarr [+V:SJV],waarr,waarr,t_result_purp,,,+V:SJV,,,,,,Gaby2017_434-435,"[G2017]""1026"""
+sample,KTH,int_disc_misc,,ak 'OPT' [+V:NP],ak,OPT,t_result_purp,,,+V:NP,,,,,,Gaby2017_436-437,"[G2017]""1032"":""1034"""
+sample,KTH,nfin,converb,[V]:0 'INFIN',:0,INFIN,"t_simult_circ, t_result_purp",,homoph with NPST in certain conjugations,,,,,,,Gaby2017_445,"[G2017]""993"", ""1053"":""1056"""
+sample,KTH,nfin,converb,[perc_V]:(na)marr 'SBD',:(na)marr,SBD,complement,,,[perc_,,,,,,Gaby2017_446-447,"[G2017]""1058"":""1060"""
+sample,KTH,nfin,converb,[V]:(na)marr 'SBD',:(na)marr,SBD,"reference, t_simult_circ, t_result_purp",,,,,,,,,Gaby2017_446-448,"[G2017]""1061"", ""1062"""
+sample,KTH,int_disc_misc,,wuump 'CONTR',wuump,CONTR,contr_advers,,,,,,,,,Gaby2017_447-448,"[G2017]""1061"":""1062"""
+sample,KTH,nfin,converb,[V]:nhatha 'PURP',:nhatha,PURP,"t_result_purp, complement",,,,,,,,,Gaby2017_456-457,"[G2017]""1082"":""1085"", [H1972]""9-65"":""9-71"""
+sample,KTH,int_disc_misc,phoric,kar 'like',kar,like,disjunct,,analogical,,,,,,,Gaby2017_462,"[G2017]""1095"""
+sample,KTH,cjxCla,left-edge,or 'or',or,or,disjunct,,< Eng,,,,,,,Gaby2017_462-463,"[G2017]""1096"", ""1097"""
+sample,KTH,cjxCla,right-edge,akp 'despite',akp,despite,concess,,,,,,,,,Gaby2017_463,"[G2017]""1099"""
+sample,YWG,int_disc_misc,"infoStructure, timeAdverbial",yalagiirr(-yuu.ma/-mawu) 'then',yalagiirr(-yuu.ma/-mawu),then,t_result_purp,,,,,,,,,Giacon2014_230-232,
+sample,YWG,nfin,converb,[V]:y.gu/li.gu/gi.gu 'PURP',:y.gu/li.gu/gi.gu,PURP,t_result_purp,,deontic (insub),,,,,,,Giacon2014_455-460,
+sample,YWG,nfin,converb,[jussive/'teach'/'know'/desid/fear_V]:y.gu/li.gu/gi.gu 'PURP',:y.gu/li.gu/gi.gu,PURP,complement,,deontic (insub),[jussive/'teach'/'know'/desid/fear,,,,,,Giacon2014_457-459,
+sample,YWG,nfin,converb,[V]:nginda 'WANT',:nginda,WANT,t_result_purp,intentive,"desid, nominal case",,,,,,,Giacon2014_458,"""919"", ""132"", ""920"""
+sample,YWG,nfin,converb,[V]:Daay 'SUB',:Daay,SUB,"reference, t_simult_circ, cond, t_prior_cause",,,,,,,,,Giacon2014_461-471,
+sample,YWG,cjxPbo,"external, converb, post-infl",[V:SUB]-gu 'ALL/PURP',-gu,ALL/PURP,"reference, t_result_purp",,,,,,,,,Giacon2014_464,"""934"", ""935"""
+sample,YWG,cjxCla,left-edge,and 'and',and,and,addit,,,,,,,,,Giacon2014_465,"""938"""
+sample,YWG,nfin,converb,[perc/cog/speech_V]:Daay 'SUB',:Daay,SUB,complement,,,[perc/cog/speech,,,,,,Giacon2014_471-474,
+sample,YWG,int_disc_misc,tense,[X]-ya 'POT',-ya,POT,disjunct,,mod-epist,,,,,,,Giacon2014_528-530,"""1016"""
+sample,YWG,int_disc_misc,quantificational,[X]-bula 'also',-bula,also,addit,,,,,,,,,Giacon2014_547-549,
+sample,YWG,int_disc_misc,timeAdverbial,[X]-nga 'THEN/NOW',-nga,THEN/NOW,"t_simult_circ, t_result_purp",,,,,,,,,Giacon2014_569-572,
+sample,YWG,cjxPbo,"external, converb, post-infl",[V:SUB]-giirr 'LIKE',-giirr,LIKE,compar_manner,,,,,,,,,Giacon2014_85-88_470-471,"""961"""
+sample,YTJ,cjxPbo,"external, converb, post-infl",[V:NOML]-tjiratja(-CCASE) 'DEPRIV',-tjiratja(-CCASE),DEPRIV,compar_manner,privative,,(CCASE),,,,,,Goddard1983_132-133,"""4-113"""
+sample,YTJ,cjxPbo,"external, converb, post-infl",[V:NOML]-tjanu(-CCASE) 'SEQ',-tjanu(-CCASE),SEQ,t_prior_cause,temp-prior (perfective),,(CCASE),,,,,,Goddard1983_133-135,"""4-116"":""4-119i"""
+sample,YTJ,cjxPbo,"external, converb, post-infl",[V:NOML]-nytja-ngka 'ASSOC-LOC',-nytja-ngka,ASSOC-LOC,"complement, t_prior_cause",,,,,,,,,Goddard1983_137-141_171-172,"""5-71"":""5-72"""
+sample,YTJ,nfin,"converb, ptcp",[V]:nytja(-CCASE) 'NOML',:nytja,NOML,reference,,,(CCASE),,,,,,Goddard1983_149-151,
+sample,YTJ,cjxPbo,"external, converb, post-infl",[V:NOML]-ku 'PURP',-ku,PURP,t_result_purp,,,,DS/O=S',,,,,Goddard1983_158-167,
+sample,YTJ,cjxPbo,"external, converb, post-infl",[desid/speech/cog_V:NOML]-kitja 'INTENT',-kitja,INTENT,complement,comp-desid,,[desid/speech/cog_,,,,,,Goddard1983_161,"""T07-02"""
+sample,YTJ,cjxPbo,"external, converb, post-infl",[V:NOML]-la 'LOC',-la,LOC,"t_simult_circ, t_prior_cause",,,,,,,,,Goddard1983_169-171,
+sample,YTJ,cjxPbo,"external, converb, post-infl",[perc_V:NOML]-la 'LOC',-la,LOC,complement,comp-perc,,[perc_,,,,,,Goddard1983_170,
+sample,YTJ,cjxPbo,"external, converb, post-infl",[V:CHAR]-ngka 'LOC',-ngka,LOC,appreh,"avert, incase",CHAR: irrealis (finite),,,,,,,Goddard1983_173-174,
+sample,YTJ,nfin,converb,[V]:rha 'SERIAL',:rha,SERIAL,"t_simult_circ, compar_manner, t_prior_cause, cond",temp-simult (imperfective),,,SS,,,,,Goddard1983_194-212,"""4-119ii"""
+sample,YTJ,int_disc_misc,,munu 'AND',munu,AND,"t_result_purp, addit",,,,SS,,,,,Goddard1983_264-269,
+sample,YTJ,int_disc_misc,,kaa 'CONTRAST',kaa,CONTRAST,"t_result_purp, contr_advers",,,,sometimes DS,,,,,Goddard1983_269-275,
+sample,YTJ,int_disc_misc,,palu 'BUT.OF.COURSE',palu,BUT.OF.COURSE,contr_advers,,,,,,,,,Goddard1983_275-279,
+sample,YTJ,int_disc_misc,,[X]-mpa 'INTEREST' (+V:SER/NMZ),-mpa,INTEREST,cond,,focus?,,,,,,,Goddard1983_280-283,"""7-19"", ""9-38"":""9-40"""
+sample,YTJ,int_disc_misc,discoStructure,[X]-lta 'AND.THEN',-lta,AND.THEN,t_result_purp,,,,,,,,,Goddard1983_284-285,
+sample,YTJ,int_disc_misc,,tjingurhu 'MAYBE',tjingurhu,MAYBE,disjunct,,mod-epist,,,,,,,Goddard1983_287-288,"""9-57"""
+sample,YTJ,pivCase,external,[V:NOML]-CCASE,-CCASE,CCASE,reference,,,,pivot case,,,,,Goddard1983_55-56,
+sample,YTJ,cjxPbo,"external, converb, post-infl",[V:NOML]-kitja 'INTENT',-kitja,INTENT,t_result_purp,intentional,,,SS,,,,,Goddard1983_64-74_129-132_158-161,"""5-25"":'5:37"", ""T10-08"""
+sample,MIY,int_disc_misc,tense,[V]:wa 'FUT',:wa,FUT,t_result_purp,,future/potential,,,,,,,Green1989_151-154,"""4-12"", ""4-156"""
+sample,MIY,int_disc_misc,"mood, attitude",[V]:fang 'APPR',:fang,APPR,appreh,,,,,,,,,Green1989_164-170,"""4-48a"":""4-48c"", ""6-66"", ""6-92"", ""6-114"""
+sample,MIY,int_disc_misc,,[X]-njsjan 'now/then',-njsjan,now/then,t_result_purp,,,,,,,,,Green1989_185-192,"""6-143a"""
+sample,MIY,int_disc_misc,"timeAdverbial, infoStructure",[X]-na 'FIRST',-na,FIRST,t_result_purp,,,,,,,,,Green1989_202-203,"""4-5"""
+sample,MIY,cjxCla,"fluid, bound, internal",[X/V:IRR.FUT]-nganan 'SCE',-nganan,SCE,cond,,,,,,,,,Green1989_202-204,"""4-6"", ""4-15"", ""4-153"""
+sample,MIY,cjxCla,"fluid, bound, internal",[X/V:R]-nganan 'SCE',-nganan,SCE,t_prior_cause,,,,,,,,,Green1989_202-204,"""6-123"", ""6-137"", ""6-158b"""
+sample,MIY,int_disc_misc,,gagan-nganan 'ANAPH-SCE',gagan-nganan,ANAPH-SCE,t_result_purp,,,,,,,,,Green1989_202-204,"""4-156"", ""T-7"""
+sample,MIY,cjxCla,left-edge,ni 'REL',ni,REL,reference,,< LOC,,,,,,,Green1989_300-307,"""5-208"":""5-209"""
+sample,MIY,int_disc_misc,,e 'and',e,and,"t_result_purp, contr_advers",,,,,,,,,Green1989_45,"""4-54"", ""5-51"", ""5-208"", ""6-31"""
+sample,GUG,int_disc_misc,"tense, mood",[V]:Fut,:Fut,Fut,cond,cond-hyp (more certain?),,,,,,,,Green1995_191-192,"""5-247"""
+sample,GUG,int_disc_misc,mood,[V]:rni 'Irr1',:rni,Irr1,cond,cond-ctf,precontemporary irrealis,,,,,,,Green1995_195-198,"""5-203"", ""5-233"", ""5-246"""
+sample,GUG,int_disc_misc,"timeAdverbial, mood, attitude",djaluwu 'again/after/otherwise',djaluwu,again/after/otherwise,"appreh, t_result_purp",,,,,,,,,Green1995_198_200,"""4-37"", ""4-40"", ""5-181"", ""5-250"":""5-252"", ""5-267"""
+sample,GUG,int_disc_misc,mood,[V]:0 'Irr2',:0,Irr2,"t_simult_circ, cond",cond-hyp (rare),non-precontemporary irrealis,,,,,,,Green1995_198-200,"""5-1"", ""5-245"""
+sample,GUG,cjxCla,left-edge,arrapu 'and',arrapu,and,addit,,N-add,,,,,,,Green1995_293-295,"""5-1"", ""5-5"", ""5-207"":""5-212"""
+sample,GUG,int_disc_misc,,wurru 'but',wurru,but,contr_advers,,,,,,,,,Green1995_295-296,"""5-2"", ""5-4"", ""5-213"":""5:217"""
+sample,GUG,cjxCla,left-edge,o 'or',o,or,disjunct,,"N-disj, < not Eng",,,,,,,Green1995_297,"""5-218"":""5-220"""
+sample,GUG,int_disc_misc,,wulek 'finish',wulek,finish,t_result_purp,,,,,,,,,Green1995_298,"""5-221"", ""5-222"""
+sample,GUG,cjxCla,left-edge,yandu 'what',yandu,what,"reference, complement, t_simult_circ, t_result_purp",,,,,,,,,Green1995_299-300,"""2-96"", ""2-169"", ""4-41"", ""5-227"":""5-230"", ""5-235"":""5-237"""
+sample,GUG,int_disc_misc,timeAdverbial,weleng 'then',weleng,then,t_result_purp,,,,,,,,,Green1995_299-300,"""5-225"", ""5-226"""
+sample,GUG,cjxCla,left-edge,ngardawa 'because',ngardawa,because,t_prior_cause,cause-motiv,"native (=Burarra), ",,,,,,,Green1995_301,"""5-231"", ""5-239"""
+periph,KRA,,,,,,,,,,,,,,,Parish2008,
+sample,GUG,cjxCla,left-edge,warri 'but/because',warri,but/because,"contr_advers, t_prior_cause","contrast, cause-motiv",< Kuninjku?,,,,,,,Green1995_301,"""5-26"", ""5-153"", ""5-232"""
+sample,GUG,cjxCla,left-edge,njan 'if',njan,if,cond,,epistemic,,,,,,,Green1995_302,"""5-233"", ""5-234"""
+sample,GUG,cjxCla,left-edge,"yandu 'what' [""so that""]",yandu,what,t_result_purp,,,,,,,,,Green1995_302-303,"""5-235"":""5:237"""
+sample,GUG,cjxCla,left-edge,waypu 'until',waypu,until,t_result_purp,endpoint,,,,,,,,Green1995_303,"""5-238"""
+sample,GUG,int_disc_misc,,[V:INFL]-pu 'immediate?',-pu,immediate?,t_simult_circ,"""as soon as""",aspect,,,,,,,Green1995_38-40,"""1-13"":""1-15"""
+sample,GUG,int_disc_misc,,gelepu 'otherwise',gelepu,otherwise,appreh,,one example,,,,,,,Green1995_89,"""2-109"""
+sample,WAP,int_disc_misc,,kuja 'thus/COMP',kuja,thus/COMP,"t_simult_circ, reference",,topicalisation?,,,,,,,Hale1976_78-93,"[S1983]""91"", ""94"", [S1991]""2c"", ""3d"", ""3e"", ""15"", ""22d"", [S1991]""268a"""
+sample,KTH,nfin,converb,[V]:(m)am 'ABL',:(m)am,ABL,t_prior_cause,"mostly prior, some cause",,,,,,,,Hall1972_399,"[H1972]""9-72"":""9-78"""
+sample,WAY,int_disc_misc,,[POT:V:ncPOT_POT:V]:ncPOT,:ncPOT,ncPOT,cond,,counterfactual,,,,,,,Harvey1986_143-148,"[H1986_18]""1"""
+sample,WAY,cjxPbo,external,[V:INFL]-lik 'LOC/ALL',-lik,LOC/ALL,reference,ref-loc,,,,,,,,Harvey1986_223-224,"[H1986_223]""7"":""8"""
+sample,WAY,cjxPbo,external,[V:INFL]-yang 'OR',-yang,OR,t_prior_cause,,,,,,,,,Harvey1986_225-226,"[H1986_225-226]""1"":""5"""
+sample,WAY,nfin,"external, converb, post-infl",[V(^PRO):IRR]-u 'DAT',-u,DAT,"complement, t_result_purp",,,,,yes,,,,Harvey1986_229-231,"[H1986_229-231]""1"":""8"""
+sample,WAY,cjxPbo,external,[V:INFL-DAT]-n 'CONS',-n,CONS,"reference, t_prior_cause",ref-loc,,,,,,,,Harvey1986_234,"[H1986_225]""4"""
+sample,WAY,cjxPbo,external,[V:POT]-u 'DAT',-u,DAT,cond,,,,,,,,,Harvey1986_234-237,"[H1986_15]""2"""
+sample,WAY,cjxPbo,external,[V:INFL]-u[(-n)] 'DAT[(-CONS)]',-u,DAT,"reference, t_simult_circ, t_prior_cause",,,,,,,,,Harvey1986_234-242,"[H1986_225]""4"""
+sample,WAY,cjxPbo,external,[V{:IRR:POT|:NC:IRR}-DAT]-n 'CONS',-n,CONS,cond,cond-ctf,,,,,,,,Harvey1986_239-241,"[H1986_239-240]""4"":""13"", [_241]""1"":""5"""
+sample,WAY,int_disc_misc,,kak:u/kak:wuy(-yu-n) 'after(-DAT-CONS)',kak:u/kak:wuy(-yu-n),after(-DAT-CONS),"t_prior_cause, appreh",,,,,,,,,Harvey1986_264-265,"[H1986_264-265]""1"":""4"""
+sample,WAY,cjxCla,left-edge,pin 'but',pin,but,contr_advers,,,,,,,,,Harvey1986_266-267,"[H1986_67]""1"", [_68]""3"", [_79]""7"""
+sample,WAY,int_disc_misc,,katji-yang 'DEM-ORIGIN',katji-yang,DEM-ORIGIN,t_result_purp,,,,,,,,,Harvey1986_267,"[H1986_267]""1"":""3"""
+sample,WAY,int_disc_misc,,amala-wu-n 'NEG-DAT-CONS',amala-wu-n,NEG-DAT-CONS,disjunct,,< NEG + two conjunctions,,,,,,,Harvey1986_50,"[H1986_50]""2"""
+sample,KAM,cjxCla,left-edge,nang.ga 'but',nang.ga,but,contr_advers,,?expectation denial?,,,,,,,Harvey1990_100,"""3.04.03-06"", ""3.04.09-08"", ""3.04.10-03"", ""3.10.04-05"":""06"", ""4.07.02-04"":""05"", ""4.09-06"", ""5.04.03-11"""
+sample,KAM,nfin,sV-CVBZ,[sV]:ma 'NMZ',:ma,NMZ,reference,,"one example; IMPF inflection for sV, prominence suffix in imperatives",,,yes,,,,Harvey1990_30,"""3.04.02-04"""
+sample,KAM,int_disc_misc,,[DEM_DEM]-(ag)am 'INTENS',-(ag)am,INTENS,reference,,attaches to DEM and sV imperatives,,,,,,,Harvey1990_38,"""5.15-05"", ""5.16-09"""
+sample,KAM,int_disc_misc,mood,[V:SBJV_V]:SBJV,:SBJV,SBJV,cond,cond-ctf,past/failed intention,,,,,,,Harvey1990_78_98-100,"""5.16-08"""
+sample,KAM,int_disc_misc,mood,[V]:COND,:COND,COND,"cond, appreh",cond-hyp,"imperative, negation (+NEG)",,,,,,,Harvey1990_80,"""5.16-06"", ""4.08.04-03"""
+sample,KAM,cjxPbo,"external, sV-CVBZ",[sV(:NMZ)]-rdiyn 'ABL',-rdiyn,ABL,t_prior_cause,,,,,yes,,,,Harvey1990_98-100,"""5.16-01"", ""5.16-03"""
+sample,KAM,cjxPbo,"external, sV-CVBZ",[sV(:NMZ)]-rnung 'DAT',-rnung,DAT,t_result_purp,,,,,yes,,,,Harvey1990_98-100,"""5.16-04"", ""5.16-05"""
+sample,KAM,cjxPbo,external,[V:INFL]-rdiyn 'ABL',-rdiyn,ABL,t_prior_cause,,,,,,,,,Harvey1990_98-100,"""5.16-02"""
+sample,KAM,int_disc_misc,,[V:FUT_V]:FUT,:FUT,FUT,"t_simult_circ, cond","cond-hyp, temp-circ",,,,,,,,Harvey1990_99-100,"""5.16-07b"""
+sample,KAM,int_disc_misc,,[V:FUT/COND/SBJV]-ma 'PROM',-ma,PROM,cond,,"""not topic or focus, as in common usage""",,,,,,,Harvey1990_99-100,"""5.16-06"", ""5.16-08"", ""4.09-11"""
+sample,LML,cjxCla,left-edge,di-ya-k=ulang 'DEF-IV-DIST=SOU',di-ya-k=ulang,DEF-IV-DIST=SOU,t_result_purp,,,,,,,,,Harvey2001_115,"""5-66"", ""5-67"""
+sample,LML,int_disc_misc,,di-ya-k=bungan 'DEF-IV-DIST-OBL',ji-ya-k=bungan,DEF-IV-DIST-OBL,t_result_purp,'because of this',,,,,,,,Harvey2001_115-116,"""5-68_69"""
+sample,LML,int_disc_misc,mood,a:[V]:yi 'IRR...EV',a:...:yi,IRR...EV,appreh,,,,,,,,,Harvey2001_116,"""5-71"""
+sample,LML,int_disc_misc,,lakgarni 'LOC',lakgarni,LOC,reference,ref-loc,,,,,,,,Harvey2001_72-75,"""T7-40"""
+sample,GAA,int_disc_misc,prominence,[N]-ma 'PRM',-ma,PRM,"t_simult_circ, contr_advers","temp-circ, contrast",N-prominence,,,,,,,Harvey2002_161-162,"""5-66"", ""7-246"""
+sample,GAA,int_disc_misc,"mood, attitude",[V]:EVIT,:EVIT,EVIT,"cond, appreh",cond-hyp(appreh),,,,,,,,Harvey2002_250-252,"""6-169"""
+sample,GAA,int_disc_misc,tense,[V]:FU(-SUB),:FU,FU,cond,,,,,,,,,Harvey2002_250-252_371,"""5-90"", ""5-91"", ""7-202"":""7:204"""
+sample,GAA,int_disc_misc,mood,[V]:IRR,:IRR,IRR,cond,,,,,,,,,Harvey2002_371,"""7-201"""
+sample,GAA,cjxPbo,external,[V:INFL]-ma 'SUB',-ma,SUB,"reference, t_simult_circ","ref-nom, ref-loc, temp-circ",,,,,,,,Harvey2002_371-373,"""4-146"", ""5-46"", ""5-66"", ""7-207"":""7-210"""
+sample,GAA,int_disc_misc,timeAdverbial,baleeru 'later>lest',baleeru,later>lest,t_result_purp,temp-fut,simple future,,,,,,,Harvey2002_373-376,"""6-31"", ""7-214"""
+sample,GAA,int_disc_misc,"timeAdverbial, mood, attitude",baleeru 'later>lest' [+V:EV],baleeru,later>lest,appreh,,,[+V:EV],,,,,,Harvey2002_373-376,"""6-42"", ""6-65"", ""6-116"", ""6-127"", ""6-164"", ""6-168"", ""7-222"", ""7-237"""
+sample,GAA,int_disc_misc,timeAdverbial,garrmaarna 'after',garrmaarna,after,t_result_purp,,,,,,,,,Harvey2002_374,"""7-212"", ""7-213"""
+sample,GAA,cjxCla,left-edge,mananggarr (gu-djiinba) 'that:IV (IV-reason)',mananggarr,that:IV,t_result_purp,,,(gu-djiinba) 'IV-reason',,,,,,Harvey2002_376-377,"""7-222"":""7-225"""
+sample,GAA,int_disc_misc,timeAdverbial,bardába 'later',bardaba,later,t_result_purp,,,,,,,,,Harvey2002_376-379,"""7-230"""
+sample,GAA,int_disc_misc,,gaala 'okay',gaala,okay,t_result_purp,,,,,,,,,Harvey2002_380-381,"""7-238"""
+sample,GAA,int_disc_misc,,gada 'EXP',gada,EXP,"t_result_purp, contr_advers",,,,,,,,,Harvey2002_381-382,"""5-82"", ""7-239"":""7:243"", ""7:249"""
+sample,GAA,cjxCla,left-edge,gooro 'like',gooro,like,compar_manner,,,,,,,,,Harvey2002_383,"""7-245"""
+sample,MAR,int_disc_misc,,wa-ni-ngga-yani 'from there',wa-ni-ngga-yani,from there,t_result_purp,,,,,,,,,Heath1981_160_298,"""T3-2"", ""T5-5"", ""T8-1"", ""T10-4"", ""T13-6"", ""T14-4"", ""T15-2"", ""T20-2"", ""T21-3"", ""T25-5"", ""T37-2"", ""T40-6"""
+sample,MAR,cjxPbo,"external, sV-CVBZ",[sV:manjarr]-i 'PURP',-i,PURP,t_result_purp,,,,SS,yes,,,,Heath1981_282-283,"[_282]""1"", ""2"""
+sample,MAR,nfin,sV-CVBZ,(OBL-)[sV]-manggirri(-PURP),-manggiri,manggiri,"complement, t_result_purp",to the point of ..ing',,,,yes,,,,Heath1981_282-283,"[_283]""4"""
+sample,MAR,nfin,sV-CVBZ,[sV]-manjarr,-manjar,manjar,t_result_purp,,,,,yes,,,,Heath1981_282-283,"[_283]""1"":""2"""
+sample,MAR,cjxCla,left-edge,ga-na 'ART',ga-na,ART,"reference, t_simult_circ, cond",,,,,,,,,Heath1981_291-292_294-295,"[_294]""1"":""4"""
+sample,MAR,int_disc_misc,,ga 'as for',ga,as for,contr_advers,,,,,,,,,Heath1981_292,"[_292]""3"", ""T42-3a"""
+sample,MAR,cjxCla,left-edge,bigana 'because',bigana,because,t_prior_cause,"reason, conseq",,,,,,,,Heath1981_295-296,"[_295]""2"", ""3"""
+sample,MAR,cjxCla,left-edge,bigana 'because' [_V:lest],bigana,because,appreh,,,[_V:lest],,,,,,Heath1981_295-296,"[_296]""1"""
+sample,MAR,cjxCla,left-edge,warnggu 'until<then',warrnggu,until<then,t_result_purp,endpoint?,,,,,,,,Heath1981_296,"[_296]""2"":""3"", ""T39-3c_4a"", ""T39-4b_c"""
+sample,MAR,cjxCla,left-edge,rnungga 'then/so that',rnungga,then/so that,t_result_purp,,,,,,,,,Heath1981_297,"[_297]""1"":""2"", ""T8-3b_c"", ""T29-3e_f"", ""T29-3f_4a"", ""T29-5a_b"", ""T30-4f_g"", ""T30-5c"", ""T38-2a_b"""
+sample,MAR,int_disc_misc,,guda 'that's all/finished',guda,that's all/finished,t_result_purp,,,,,,,,,Heath1981_297-298,"""T26-1e2"""
+sample,MAR,cjxCla,left-edge,ga-na 'ART' [_warnggu],ga-na,ART,"t_simult_circ, cond, t_result_purp",,,[_warnggu],,,,,,Heath1981_298-299,"[_298]""1a"", [_299]""1"":""2"""
+sample,MAR,cjxCla,left-edge,ga-na 'ART' [+V:FUT/IRR],ga-na,ART,cond,,,[+V:FUT/IRR],,,,,,Heath1981_299,"[_299]""1"", ""2"""
+sample,MAR,cjxPbo,"external, sV-CVBZ",[desid_sV:manjarr]-i 'PURP',-i,PURP,complement,,,,,yes,,,,Heath1981_299_301,"[_299]""3"""
+sample,MAR,cjxCla,left-edge,galimba 'and',galimba,and,addit,,,,,,,,,Heath1981_302,"""T19-1a"", ""T19-1b"", ""T33-1d"""
+sample,MAR,cjxCla,left-edge,ngaba 'also',ngaba,also,addit,,,,,,,,,Heath1981_302,"""T23-6d_e"""
+sample,MAR,cjxCla,left-edge,ga (mingi) 'but (then)',ga,but/then,"contr_advers, t_result_purp, addit",,,,,,,,,Heath1981_302-303,"""T23-12b"", ""T25-5a_b"""
+sample,MAR,int_disc_misc,mod,marlana 'possible',marlana,possible,t_result_purp,purp,mod-epist (one example),,,,,,,Heath1981_305,"""T26-1e1"""
+sample,MAR,cjxCla,left-edge,mani 'like',mani,like,compar_manner,compar-real,,,,,,,,Heath1981_306_470,"""T28-3"""
+sample,MAR,cjxCla,left-edge,wuninggi 'further',wuninggi,further,addit,,,,,,,,,Heath1981_308,?
+sample,MAR,cjxCla,left-edge,wuninggi 'further' [_V:lest],wuninggi,further,appreh,,,[_V:lest],,,,,,Heath1981_308,"[_187]""1"":""2"", [_308]""1"""
+sample,MAR,cjxCla,left-edge,wumanyi 'never mind/although',wumanyi,never mind/although,concess,,,,,,,,,Heath1981_308,"""T32-2"""
+sample,PAK,int_disc_misc,,minha(-minha) 'what(-what)',minha(-minha),what(-what),cond,cond-concess-univ,,,,,,,,Hercus1982_167-171,"""440"", ""576"""
+sample,PAK,int_disc_misc,,yunuuna(-mandi) 'thus/in that way>therefore',yunuuna(-mandi),thus/in that way>therefore,t_result_purp,,,,,,,,,Hercus1982_174_302,"""T2-3"", ""T4-6"""
+sample,PAK,int_disc_misc,"aspect, person",[V]:nggu-ru 'PERF-3sg',:nggu-ru,PERF-3sg,t_prior_cause,,,,,,,,,Hercus1982_198-199_201,"""538"", ""539"""
+sample,PAK,nfin,converb,[perc_V:CONT]:ana[^-PRO] 'PTCP/NPST',:ana,PTCP/NPST,complement,,,[^-PRO][perc_,,yes,,,,Hercus1982_212,"""573"":""577"""
+sample,PAK,nfin,converb,[V:CONT]:ana[^-PRO] 'PTCP/NPST',:ana,PTCP/NPST,t_simult_circ,,,[^-PRO],,yes,,,,Hercus1982_213,"""578"""
+sample,PAK,nfin,converb,[V]:la[^-PRO] 'OPT',:la,OPT,t_result_purp,,,[^-PRO],SS,yes,,,,Hercus1982_213-214,"""568"", ""580"":""583"""
+sample,PAK,cjxPbo,external,[V:INFL-PRO]-rhi 'DAT',-rhi,DAT,t_result_purp,,,[-PRO],O=S',,,,,Hercus1982_215,"""584"", ""585"""
+sample,PAK,cjxPbo,external,[V:INFL-PRO]-manda 'PURP',-manda,PURP,t_result_purp,,,[-PRO],O=S',,,,,Hercus1982_216,"""588"", ""589"""
+sample,PAK,cjxPbo,external,[V:INFL]-ambala 'COMIT',-ambala,COMIT,t_prior_cause,,,,,,,,,Hercus1982_216,"""591"""
+sample,PAK,int_disc_misc,,dhuna/wara 'then',dhuna/wara,then,t_result_purp,,,,,,,,,Hercus1982_231-232,"""645"", ""646"""
+sample,PAK,cjxCla,left-edge,dhuna 'then>if' [+V:FUT],dhuna,then>if,cond,,sequential,[+V:FUT],,,,,,Hercus1982_243-244,"""T2-1"":""T2-2"""
+sample,ARW,cjxPbo,left-edge,(ignoratives),(ignoratives),(ignoratives),complement,,,,,,,,,Hercus1994_126-129,"""291"":""293"""
+sample,ARW,int_disc_misc,aspect,[perc_V]:(yi)ngura/:kura 'CONT/CONT.P',:(yi)ngura/:kura,CONT/CONT.P,complement,,,,,,,,,Hercus1994_155_177-178,
+sample,ARW,int_disc_misc,aspect,[V]:(yi)ngura/:kura 'CONT/CONT.P',:(yi)ngura/:kura 'CONT/CONT.P',CONT/CONT.P,t_simult_circ,,,,,,,,,Hercus1994_155_177-178,
+sample,ARW,int_disc_misc,,[V]:limaru/(i)naru/(yi)rinaru/kanharu/yangu 'PLUP',:limaru/(i)naru/(yi)rinaru/kanharu/yangu,PLUP,t_prior_cause,,,,,,,,,Hercus1994_173-175,
+sample,ARW,int_disc_misc,,[V]:rakarna 'PASS',:rakarna,PASS,"t_simult_circ, compar_manner",,,,,,,,,Hercus1994_179,
+sample,ARW,int_disc_misc,"mood, attitude",[V]:iya 'IRR',:iya,IRR,"t_result_purp, appreh",,,,,,,,,Hercus1994_181_187-188,
+sample,ARW,nfin,?converb,[V]:nha 'NP',:nha,NP,"t_simult_circ, t_result_purp",,,,DS,,,,,Hercus1994_184-186_270-271,"""370"", ""549"", ""551"", ""554"", ""687b"", ""980"""
+sample,ARW,nfin,?converb,[perc/desid/cog/juss_V]:nha 'NP',:nha,NP,complement,,,,,,,,,Hercus1994_185,
+sample,ARW,cjxPbo,external,[perc/desid/cog/juss_V:speed:NP]-nga 'LOC',-nga,LOC,complement,,,,DS,,,,,Hercus1994_185-186,
+sample,ARW,cjxPbo,"external, converb, post-infl",[V:NP]-nga 'LOC',-nga,LOC,"t_simult_circ, t_result_purp",,,,DS,,,,,Hercus1994_185-186_197_267-277,
+sample,ARW,int_disc_misc,N-marking,[N]-nyurdu 'too',-nyurdu,too,addit,,,,,,,,,Hercus1994_186_255,"""557"", ""998"""
+sample,ARW,int_disc_misc,,[V]:liya 'LEST',:liya,LEST,appreh,,,,,,,,,Hercus1994_188-189,"""570"":""574"""
+sample,ARW,nfin,"converb, infin",[V]:lhVku 'PURP',:lhVku,PURP,t_result_purp,"purpose, comp-desid, comp-cog, comp-emot, comp-purpose",,,SS,,,,,Hercus1994_189-191_270,"""177b"", ""293c"", ""355"", ""552a"", ""580"":""587"", ""589"":""590"", ""682"", ""804a"", ""905"", ""934a-b"", ""971"", ""974"":""977"", ""979"", ""986a"", ""997"", ""999a"", ""1000"":""1006"", ""1016a"""
+sample,ARW,cjxCla,left-edge,muthili 'same way',muthili,same way,compar_manner,,,,,,,,,Hercus1994_215,"""728"""
+sample,ARW,cjxPbo,external,[V:INFL]-li 'ADV',-li,ADV,compar_manner,,,,,,,,,Hercus1994_216,"""731a"""
+sample,ARW,int_disc_misc,phoric,['say'_]ilinha/ilanha 'thus',ilinha/ilanha,thus,complement,,,,,,,,,Hercus1994_226,
+sample,ARW,int_disc_misc,N-marking,[N]-nu/na 'but',-nu,but,contr_advers,,N-emphasis,,,,,,,Hercus1994_251,"""883"":""885"""
+sample,ARW,cjxPbo,external,[V:INFL]-wili 'LIKE',-wili,LIKE,compar_manner,,,,,,,,,Hercus1994_254,"""905"", ""TA1-2a"""
+sample,ARW,cjxCla,"bound, free",[X]-malaru 'however',-malaru,however,contr_advers,,,,,,,,,Hercus1994_258-59,"""932"", ""934b"", ""1074"""
+sample,WIR,nfin,converb,[V]:dyu 'PREP',:dyu,PREP,t_result_purp,intentive,,,,,,,,Hercus1999_119-121,"""5.92"":""5.99"""
+sample,WIR,nfin,converb,[V]:dha 'POT>SER',:dha,POT/SER,"cond, t_simult_circ, t_prior_cause",,POT,,,,,,,Hercus1999_121-125,"""5.100"":""5.115"""
+sample,WIR,int_disc_misc,mood,[V]:la 'IRR',-la,IRR,cond,,?<ARW -la 'IRR',,,,,,,Hercus1999_125,"""5.117"":""5.118"", ""5.119"""
+sample,WIR,cjxPbo,external,[V:INFL]-dhirdi 'APPR',-dhirdi,APPR,appreh,,,,,,,,,Hercus1999_125-126,"""5.120"":""5.125"""
+sample,WIR,cjxPbo,external,[V:INFL]-gu 'PURP',-gu,PURP,t_result_purp,,,,,,,,,Hercus1999_127-128,"""5.128"":""5.133"", ""5.135"""
+sample,WIR,nfin,converb,[V]:nga 'LOC',:nga,LOC,t_result_purp,,(only one example),,SS,,,,,Hercus1999_128,"""5.134"""
+sample,WIR,nfin,converb,[V]:nda 'SWITCH',-nda,SWITCH,"t_simult_circ, t_result_purp",,,,DS,,,,,Hercus1999_128-129,"""5.136"":""5.141"""
+sample,WIR,cjxCla,"bound, fluid",[X/V:INFL]-nga 'LOC',-nga,LOC,"t_simult_circ, t_result_purp",,,,,,,,,Hercus1999_53-55_128,"""3.69"""
+sample,MAK,nfin,sV-RECO,(auxiliary omission),(serial verb construction),(serial verb construction),"t_result_purp, t_simult_circ",,,,,yes,,,,"Hoffmann2015, Hoffmann2016","[Birk1976]""427"", ""453"":'456"""
+sample,YAW,int_disc_misc,epistemic,[X]-da 'really',-da,really,cond,,"""surely""",,,,,,,Hosokawa1991_399_476-477,
+sample,YAW,int_disc_misc,,bard 'but',bard,but,contr_advers,,,,,,,,,Hosokawa1991_426_473,"""26"""
+sample,YAW,int_disc_misc,,ngadyi 'whether',ngadyi,whether,"cond, t_simult_circ",,interrogative,,,,,,,Hosokawa1991_453-454,"""135"":""136"", ""235c"""
+sample,YAW,cjxPbo,external,[V:INFL]-dyarri 'SEQ',-dyarri,SEQ,"t_simult_circ, cond, t_prior_cause",,,,,,,,,Hosokawa1991_460-461,"""170"":""173"""
+sample,YAW,cjxPbo,external,[desid/jussive_V:INFL]:dyi/yi 'DAT',:dyi/yi,DAT,complement,,,,,,,,,Hosokawa1991_461-465,"""183"":""184"", ""185"":""187"""
+sample,YAW,cjxPbo,external,[V:INFL]:dyi/yi 'DAT',:dyi/yi,DAT,t_result_purp,,,,,,,,,Hosokawa1991_461-465,"""175"", ""193"""
+sample,YAW,cjxCla,left-edge,marlu-yi 'not-DAT',marlu-yi,not-DAT,appreh,,,,,,,,,Hosokawa1991_465,"""193"", ""194"""
+sample,YAW,cjxCla,left-edge,(interrogatives),(interrogatives),(interrogatives),reference,,,,,,,,,Hosokawa1991_465-467,"""196"":""198"", ""199"":""207"""
+sample,YAW,cjxCla,right-edge,['say'_cla]-gadya 'QUOT',-gadya,QUOT,complement,,,,,,,,,Hosokawa1991_467-468,"""208"":""214"""
+sample,YAW,cjxCla,"fluid, bound, external",[NEG/V:INFL]-yirr 'and',-yirr,and,"t_simult_circ, t_result_purp, addit",,,,,,,,,Hosokawa1991_468-470,"""221"":""223"""
+sample,YAW,cjxCla,left-edge,narli-nyurdany 'true-CAUS',narli-nyurdany,true-CAUS,cond,,,,,,,,,Hosokawa1991_473-475,"""239"":""242"""
+sample,YAW,cjxCla,left-edge,narli-yirr 'true-and',narli-yirr,true-and,cond,,,,,,,,,Hosokawa1991_473-475,"""236"":""238"""
+sample,YAW,cjxCla,left-edge,marlu-nyurdany 'not-CAUS',marlu-nyurdany,not-CAUS,"t_prior_cause, appreh",,,,,,,,,Hosokawa1991_475-476,"""243"":""247"""
+sample,YAW,int_disc_misc,mood,[X]-marda 'perhaps',-marda,perhaps,cond,,,,,,,,,Hosokawa1991_477,"""254"":""255"""
+sample,YAW,int_disc_misc,,[X]-bardu 'still',-bardu,still,cond,,,,,,,,,Hosokawa1991_477,"""256"":""257"""
+sample,YAW,nfin,sV-CVBZ,[X/sV]-ni 'ERG',-ni,ERG,"t_simult_circ, compar_manner",,,,S=A'/S',yes,,,,Hosokawa1991_477-481,"""259"":""269"""
+sample,KRL,cjxCla,left-edge,bat 'but',bat,but,contr_advers,,,,,,,,,Hudson1983_170,"[Hudson1983]""TC-19"""
+sample,WKJ,int_disc_misc,mood,[V]:mara 'HYP',:mara,HYP,cond,,,,,,,,,Jones2011_201-202,"""8.73"", ""8.74"""
+sample,WKJ,int_disc_misc,mood,[V]:ngara 'OBLIG',:ngara,OBLIG,cond,,,,,,,,,Jones2011_202,"""8.75"":""8.77"""
+sample,WKJ,int_disc_misc,,palunyajanulu 'after that',palunyajanulu,after that,t_result_purp,,,,,,,,,Jones2011_262_296,"""11.89"":""11.90"""
+sample,WKJ,int_disc_misc,,palunyangka 'after that',palunyangka,after that,t_result_purp,,,,,,,,,Jones2011_262_296,"""10.163"""
+sample,WKJ,int_disc_misc,,ngaa-yila 'after that',ngaa-yila,after that,t_result_purp,,,,,,,,,Jones2011_270-271,"""10.207"":""10.208"""
+sample,WKJ,nfin,converb,[V]:ra(-INT(-ERG)) 'UNR',:ra(-kija(-lu)),UNR,t_result_purp,,,,,yes,,,,Jones2011_275-276,"""11.1"":""11.5"""
+sample,WKJ,nfin,converb,[V]:raku(-INT(-ERG)) 'PURP' [+O-PURP],:raku(-kija(-lu))),PURP,t_result_purp,,,+O-PURP,,yes,,,,Jones2011_276-278,"""11.6"":""11.12"""
+sample,WKJ,nfin,converb,[V]:kija(-lu) 'INTENT/SS(-ERG)',:kija(-lu),INTENT/SS(-ERG),t_result_purp,,,,SS,yes,,,,Jones2011_278-281,
+sample,WKJ,nfin,converb,[V]:jaku 'ADMON>DS',:jaku,ADMON>DS,appreh,,,,DS,yes,,,,Jones2011_281-282,
+sample,WKJ,nfin,"converb, ptcp",[V]:nja[(-CCASE)] 'NOMZ',:nja,NOMZ,reference,,,(CCASE),,yes,,,,Jones2011_282-283,"""11.33"""
+sample,WKJ,pivCase,external,[V:NOMZ]-CCASE,-CCASE,CCASE,reference,,,,pivot case,yes,,,,Jones2011_282-283_286-287,"""11.48"":""11.53"""
+sample,WKJ,cjxPbo,"external, converb, post-infl",[V:NMZ]-(ja)nu 'ABL>TREL',-(ja)nu,ABL>TREL,"t_simult_circ, t_prior_cause",,,,,yes,,,,Jones2011_283-284,"""11.35"":""11.37"""
+sample,WKJ,nfin,converb,[V]:la/ra 'SER',:la/ra,SER,t_prior_cause,,,,SS,yes,,,,Jones2011_284-285,"""11.40"":""11.42"""
+sample,WKJ,cjxCla,left-edge,kaji 'while/when',kaji,while/when,t_simult_circ,,,,,,,,,Jones2011_285,
+sample,WKJ,cjxCla,bound,[X]-la 'when',-la,when,t_simult_circ,,,,,,,,,Jones2011_285-286,"""11.46"""
+sample,WKJ,cjxCla,left-edge,yangka(-ngula) 'DEM(-REL)',yangka(-ngula),DEM(-REL),reference,,,,,,,,,Jones2011_287-289,"""7.51"", ""11.54"":""11.59"""
+sample,WKJ,int_disc_misc,,ngula 'later/REL',ngula,later/REL,t_result_purp,,,,,,,,,Jones2011_287-289,"""7.51"""
+sample,WKJ,cjxCla,left-edge,yangka 'DEM' [+V:FUT/HYP],yangka,DEM,"cond, t_simult_circ",,,[+V:FUT/HYP],,,,,,Jones2011_289-290,"""11.50"", ""11.60"":""11.62"""
+sample,WKJ,cjxCla,left-edge,yangka 'DEM' [+V:OBLIG],yangka,DEM,t_result_purp,,,[+V:OBLIG],,,,,,Jones2011_290,"""11.63"""
+sample,WKJ,cjxPbo,"external, converb, post-infl",[V:DS]-ngkamarra 'AVOID',-ngkamarra,AVOID,appreh,,,,,yes,,,,Jones2011_290_291,
+sample,WKJ,cjxCla,left-edge,kamu 'CONJ',kamu,CONJ,addit,,,,,,,,,Jones2011_292-293,"""3.2"""
+sample,WKJ,cjxCla,left-edge,ka 'CONJ',ka,CONJ,addit,,,,,,,,,Jones2011_293-294,"""11-79"":""11-82"""
+sample,WKJ,cjxCla,left-edge,an 'CONJ',an,CONJ,addit,,,,,,,,,Jones2011_294-295,"""11:83"", ""11.87"", ""11.88"""
+sample,WKJ,int_disc_misc,infoStructure,[X]-nga/nguninji 'focus',-nga/nguninji,focus,contr_advers,,,,,,,,,Jones2011_308-309,"""12.23"":""12.24"", ""12.27"""
+sample,GGL,cjxCla,left-edge,gamu 'CONJ',kamu,CONJ,"t_simult_circ, t_result_purp, contr_advers",,N-add,,,,,,,"Keen1983_202_251, Round2014_37","[K1983]""17"":""18"", ""31"", ""241b"", ""249"":""252"", ""T1-01"", [R2014]""58"":""59"""
+sample,GGL,cjxPbo,external,[X]-ma(ngala) 'if',-ma(ngala),if,cond,,-ma 'STATE(>INTERR)' + -ngala 'when',,,,,,,"Keen1983_204_228_236-237_242_244-245, Round2014_38-39","[K1983]""156"", ""204"":""206"", ""251"", [E1995]""12-146"", [R2014]""62"":""63"""
+sample,GGL,nfin,converb,[V]:irlu 'ALL' [+O-ALL],:irlu,ALL,t_result_purp,motion purpose,,+O-ALL,only SS attested,yes,,,,"Keen1983_233, Round2014_40","[K1983]""46"", ""143"":""144"", [R2014]""70"""
+sample,GGL,int_disc_misc,,[V]:da 'DES' [+PRO],:da,DES,t_result_purp,,desid,+PRO,,,,,,"Keen1983_238-239, Round2014_37","[K1983]""170"":""171"", [R2014]""56"":""57"""
+sample,GGL,int_disc_misc,,[V]:Ci 'HORT' [^PRO],:Ci,HORT,t_result_purp,,one example,^PRO,,,,,,Keen1983_240-241,"[K1983]""181"":""183"", ""244"", [R2014]""36"":""38"""
+sample,GGL,cjxCla,bound,[X]-(a)ga 'because',-(a)ga,because,t_prior_cause,,,,,,,,,"Keen1983_243, Round2014_38","[K1983]""202"", ""203"", ""253b"", ""T2-35"", [R2014]""60"":""61"""
+sample,GGL,cjxCla,"bound, free",(X-)ngala 'REL',ngala,REL,"reference, t_circ_simult, cond",,,,,,,,,"Keen1983_244-245, Round2014_39","[K1983]""156"", ""204"", ""207"", ""213"", ""251"", ""T1-5"", [R2014]""62"", ""64"":""69"""
+sample,GGL,nfin,converb,"[V]:arrba 'PRIOR' [+O-ABL, +S-DAT]",:arrba,PRIOR,"complement, t_prior_cause, t_simult_circ, reference",,,"+O-ABL, +S-DAT (without DAT)","SS, O=S'",yes,,,,"Keen1983_245-247, Round2014_40-43","[K1983]""157"", [R2014]""72"", ""76"":""77"""
+sample,GGL,nfin,converb,"[V]:i/urrga 'LOC/LOC.DAT' [+O-LOC(DAT), +S/A-DAT]",:i/urrga,LOC/LOC.DAT,"complement, t_simult_circ",,,"+O-LOC, +S/A-DAT","SS, O=S' (without DAT)",yes,,,,"Keen1983_245-247, Round2014_40-43","[K1983]""79"", ""214"", ""215a"", ""216"", ""217"", ""220a"", ""220b"", [R2014]""71"", ""79"""
+sample,GGL,pivCase,external,[V:INFL]-CCASE,-CCASE,CCASE,reference,,"ERG(instrumental), DAT",,pivot case,,,,,"Keen1983_245-248, Round2014_40-43","[K1983]""77"":""78"", ""219b"", ""227"", [R2014]""76"", [E1995]""12-146"""
+sample,GGL,nfin,converb,[V]:ntha 'DAT' [+O-DAT],:ntha,DAT,t_result_purp,purpose,one example,+O-DAT,only example is SS,yes,,,,Keen1983_247,"[K1983]""225"""
+sample,GGL,nfin,converb,[V]:manymara[-CCASE] 'LEST' [+O-DAT],:manymara,LEST,appreh,,,+O-DAT,only SS attested,yes,,,,Keen1983_247,"[K1983]""226"":""227"""
+sample,GGL,nfin,converb,"[V]:urlu 'PROP' [+X-PROP, +S-DAT]",:urlu,PROP,"complement, t_result_purp",comp-jussive,desid (insub),+nS-PROP,SS,yes,,,,"Keen1983_247, Round2014_41","[K1983]""221"", ""224"", ""T1-2_3"", [R2014]""73"":""75"". ""78"""
+sample,YWA,cjxCla,left-edge,kangka 'because',kangka,because,t_prior_cause,,,,,,,,,KirtonCharlie1996_018,"""8.73"""
+sample,YWA,cjxCla,left-edge,barra-DEMLOC 'like',barra-DEMLOC,like,compar_manner,,,,,,,,,KirtonCharlie1996_032_192-193_211,"""9.18"", ""9.34"":""9.35"""
+sample,YWA,cjxCla,left-edge,baki 'and',baki,and,addit,,,,,,,,,KirtonCharlie1996_039,"""5.12"", ""8.711"", ""9.31"""
+sample,YWA,int_disc_misc,quantificational,marda 'also',marda,also,addit,,,,,,,,,KirtonCharlie1996_039_210,"""5.13"", ""5.15"""
+sample,YWA,cjxCla,left-edge,nyala 'INDEF>to' [+V:PT-PURP],nyala,INDEF>to,t_result_purp,,,[+V:PT-PURP],,,,,,KirtonCharlie1996_059_173,"""8.68"", ""8.426"""
+sample,YWA,int_disc_misc,aspAdverbial,bawuji 'finished/so',bawuji,finished/so,t_result_purp,disco-seq,,,,,,,,KirtonCharlie1996_085-086,"""8.111"":""8.113"""
+sample,YWA,cjxPbo,"external, converb, post-infl",[V:PTCP]-lu 'ERG/ALL>PURP',-lu,ERG/ALL>PURP,t_result_purp,,,^PRO,SS/O=S' (one ex),yes,,,,KirtonCharlie1996_132-135_,"""8.422"":""8.435"""
+sample,YWA,nfin,converb,"[(NEG, RR-)V]:ntha(-TNS) 'PTCP'",:ntha,PTCP,"reference, t_simult_circ, t_result_purp",,insub uses,^PRO,,yes,,,,KirtonCharlie1996_135_173-178,"""8.436"":""8.437"", ""8.693"":""8.695"", ""8.714"":""8.717"""
+sample,YWA,int_disc_misc,mood,[V]:yima 'HYP',:yima,HYP,cond,,,,,,,,,KirtonCharlie1996_165,"""8.650"""
+sample,YWA,cjxPbo,"external, converb, post-infl",[V:PTCP]-wu 'DAT' (+O-DAT),-wu,DAT,"t_simult_circ, compar_manner, t_result_purp",,,"^PRO, (O-DAT)",SS/DS?/O=S',yes,,,,KirtonCharlie1996_167-174_178,"""8.661"":""8.662""_""8.716"":""8.717"""
+sample,YWA,nfin,converb,"[perc_(NEG, RR-)V]:ntha(-TNS) 'PTCP'",:ntha,PTCP,complement,,insub uses,"^PRO, perc_",,yes,,,,KirtonCharlie1996_173-174,"""8.696"":""8.699"""
+sample,YWA,cjxCla,left-edge,ngal(-PRO) 'when',ngal,when,t_simult_circ,,,,,,,,,KirtonCharlie1996_175-176,"""8.704"":""8.709"""
+sample,YWA,cjxCla,left-edge,namba 'if/therefore',namba,if/therefore,cond,,,,,,,,,KirtonCharlie1996_176_209-210,"""8.710"":""8.711"", ""9.90"":""9.91"""
+sample,YWA,int_disc_misc,timeAdverbial,kulu 'then',kulu,then,t_result_purp,,,,,,,,,KirtonCharlie1996_177,"""8.712"""
+sample,YWA,int_disc_misc,timeAdverbial,barra 'now/then',barra,now/then,t_result_purp,,,,,,,,,"KirtonCharlie1996_190-192_203-206, BradleyKirton1992_136","""9.24"":""9.31"""
+sample,YWA,int_disc_misc,phoric,ngan+DEMLOC 'like',ngan+DEMLOC,like,"complement, compar_manner",,,,,,,,,KirtonCharlie1996_196,"""9.45"""
+sample,YWA,int_disc_misc,quantificational,mili 'more',mili,more,t_result_purp,,,,,,,,,KirtonCharlie1996_201-205,"""9.67"""
+sample,YWA,int_disc_misc,mood,nungka 'maybe',nungka,maybe,disjunct,,mod-epist,,,,,,,KirtonCharlie1996_202,"""9.69"""
+sample,YWA,int_disc_misc,"mood, attitude",[V]:nma 'DUB',:nma,DUB,appreh,,,,,,,,,KirtonCharlie1996_202,"""9.70"""
+sample,YWA,cjxPbo,"external, converb, post-infl",['think'_V:PTCP]-wu 'DAT',-wu,DAT,complement,,,"^PRO, 'think'_",,,,,,KirtonCharlie1996_205,"""9.76a"":""9.76c"""
+sample,YWA,cjxCla,left-edge,ngala 'then/but',ngala,then/but,"t_result_purp, concess",,,,,,,,,KirtonCharlie1996_208-209,"""5.14"", ""8.73"", ""8.704"":""8.709"""
+sample,YWA,cjxCla,left-edge,namba-lu 'until',namba-lu,until,t_result_purp,bound,< there.INDEF-to,,,,,,,KirtonCharlie1996_47-48,"""6-3"""
+sample,DUU,int_disc_misc,timeAdverbial,"guwe 'then, later, again'",guwe,"then, later, again",t_result_purp,,,,,,,,,KiteWurm2004_101_112,"""4"", ""291"", ""408"":""411"", ""491"":""496"""
+sample,DUU,cjxCla,left-edge,nga 'and',nga,and,addit,,NP coord,,,,,,,KiteWurm2004_101-102,"""412"", ""413"""
+sample,DUU,pivCase,external,[V:INFL]-CCASE_[X-CASE],-CCASE,CCASE,reference,,,,"pivot case: ERG, ACC",,,,,KiteWurm2004_103-104,"""425"":""431"""
+sample,DUU,cjxCla,left-edge,(demonstratives),(demonstratives),(demonstratives),reference,,,,,,,,,KiteWurm2004_103-104,"""425"", ""427"", ""T7-21"""
+sample,DUU,cjxCla,left-edge,wanja 'INTERR',wanja,INTERR,"t_simult_circ, cond",ref-loc,,,,,,,,KiteWurm2004_104-105,"""432"":""436"""
+sample,DUU,int_disc_misc,infoStructure,gari-ngira 'DEM-TIME',gari-ngira,DEM-TIME,t_result_purp,,,,,,,,,KiteWurm2004_105,"""440"""
+sample,DUU,cjxCla,left-edge,wanja guwe 'INTERR then',wanja guwe,INTERR then,"t_simult_circ, t_result_purp","temp-future, bound","INTERR + then ""what now"" in questions",,,,,,,KiteWurm2004_105,"""254"", ""255"", ""437"", ""T6(1)-21"", ""T6(2)-30"", ""T7-15"", ""T8-49"", ""T15-71"", ""T18-22"""
+sample,DUU,cjxPbo,"external, nmz",[V:PFV/PST]-wa 'NMLSR',-wa {2,NMLSR,"reference, t_prior_cause",,,,,,,,,KiteWurm2004_43-44,"""118:"":""120"""
+sample,DUU,cjxPbo,"external, nmz",[V:INFL]-nda/-nde 'NMLSR',-nda/-nde,NMLSR,reference,,,,,,,,,KiteWurm2004_44,"""121"":""122"""
+sample,DUU,indepCla,,V:0 'GENRL',-0,GENRL,t_simult_circ,,"imperative, hortative",,,,,no,,KiteWurm2004_70_81-82,
+sample,DUU,cjxPbo,external,[V:FUT]-wa 'PURP',-wa {1,PURP,t_result_purp,,,,,,,,,KiteWurm2004_83-84,"""296"":""298"""
+sample,DUU,cjxPbo,external,[V:INFL]-nda 'SIMULT',-nda,SIMULT,t_simult_circ,,,,,,,,,KiteWurm2004_84,"""299"":""301"", ""438"", ""439"""
+sample,MRW,int_disc_misc,discoStructure,[X]-a 'optional suffix',-a,optional suffix,contr_advers,,,,,,,,,Kofod1978_130-133,
+sample,MRW,int_disc_misc,,djerrawuma 'otherwise',djerrawuma,otherwise,appreh,,,,,,,,,Kofod1978_135,
+sample,MRW,cjxPbo,external,[V:INFL-SUB]-binj 'LOC>in.that.way',-binj,LOC>in.that.way,"t_simult_circ, compar_manner",,,,,,,,,Kofod1978_136,"[K1978_136]""5""_""6"""
+sample,MRW,nfin,sV-RECO,(inflecting verb omission),(inflecting verb omission),(inflecting verb omission),"complement, t_simult_circ, t_result_purp",,,,"O=S', SS",yes,,,,Kofod1978_230-231,
+sample,MRW,int_disc_misc,discoStructure,[X]-ra 'SEQ',-ra,SEQ,t_result_purp,,,,SS,,,,,Kofod1978_232-233,
+sample,MRW,cjxPbo,"external, sV-CVBZ",[sV]-gering 'PURP',-gering,PURP,t_result_purp,,,,SS,yes,,,,Kofod1978_233-234,
+sample,MRW,cjxPbo,external,[V:INFL]-gering 'PURP',-gering,PURP,t_result_purp,,,,SS,,,,,Kofod1978_233-234,
+sample,MRW,cjxPbo,external,[V:INFL]-nging 'SUB',-nging,SUB,"t_prior_cause, t_simult_circ",,,,,,,,,Kofod1978_233-235,
+sample,MRW,cjxPbo,"external, sV-CVBZ",[sV]-nging 'SUB',-nging,SUB,"t_prior_cause, t_simult_circ",,,,,yes,,,,Kofod1978_235,
+sample,MRW,cjxPbo,"external, sV-CVBZ",[sV]-bandjilng 'ELLAT',-bandjilng,ELLAT,t_prior_cause,,,,SS,yes,,,,Kofod1978_236,
+sample,MRW,cjxPbo,external,[V:INFL]-bandjilng 'ELLAT',-bandjilng,ELLAT,t_prior_cause,,,,SS,,,,,Kofod1978_236,
+sample,MRW,int_disc_misc,mood,wandja 'maybe',wandja,maybe,cond,,epistemic,,,,,,,Kofod1978_77,
+sample,MRW,int_disc_misc,mood,waning 'maybe/must be',waning,maybe/must be,cond,,epistemic,,,,,,,Kofod1978_77,
+sample,MRW,cjxPbo,external,[V:FUT]-nging 'SUB',-nging,SUB,cond,,,,,,,,,Kofod1978_77_79_232_233-235,"[K1978_77]""4"", [K1978_79]""2"", [K1978_232]""2"""
+sample,MRW,int_disc_misc,,biya 'also',biya,also,"t_result_purp, addit",,,,,,,,,Kofod1978_79_90,
+sample,MRW,int_disc_misc,"adv-temp, left-edge",wanim 'when/then',wanim,when/then,t_result_purp,,,,,,,,,Kofod1978_79-80,
+sample,MRW,int_disc_misc,,wanigam 'because (of that)',wanigam,because (of that),t_prior_cause,,,,,,,,,Kofod1978_80,
+sample,MRW,int_disc_misc,,dhuwayinjdja 'in turn',dhuwayinjdja,in turn,t_result_purp,,,,,,,,,Kofod1978_92_237,
+sample,TIW,nfin,sV-RECO,(verbal incorporation),(verbal incorporation),(verbal incorporation),t_simult_circ,no common pivot as well,,,,yes,,,,"Lee1987_163, Wilson2013_159","[L]""4-24"", [W]""344"""
+sample,TIW,cjxCla,left-edge,ngini 'COMPR' [+V:IRR],ngini,COMPR,appreh,,,[+V:IRR],,,,,,Lee1987_205,
+sample,TIW,cjxCla,left-edge,(locative prepositions),(locative prepositions),(locative prepositions),reference,,,,,,,,,Lee1987_236_298-299,
+sample,TIW,cjxCla,left-edge,nginingaji 'like',nginingaji,like,compar_manner,,,,,,,,,Lee1987_241_300-301,
+sample,TIW,cjxCla,left-edge,ngintiwu/ngintuwu 'like',ngintuwu,like,compar_manner,,,,,,,,,Lee1987_241_300-301,
+sample,TIW,cjxCla,left-edge,pili 'because/so that',pili,because/so that,"t_prior_cause, t_result_purp",,,,,,,,,"Lee1987_241_301-302, Wilson2013_137","[W]""303"""
+sample,TIW,int_disc_misc,,ninkiyi/kiyi 'then/and',ninkiyi/kiyi,then/and,"t_result_purp, addit, contr_advers",,,,,,,,,"Lee1987_292, Wilson2013_137","[L]""4-112b"", [L]""6-102"", [W]""302"""
+sample,TIW,cjxCla,left-edge,karri 'when',karri,when,t_simult_circ,,,,,,,,,"Lee1987_299-300, Wilson2013_160","[W]""345"""
+sample,TIW,nfin,sV-RECO,(orphaned preverbs),(orphaned preverbs),(orphaned preverbs),"complement, t_simult_circ, t_result_purp",,,,,yes,,,,"Lee1987_303_305, Wilson2013_160","[L]""6-127"", ""6-135"", [W]""343"""
+sample,WAP,int_disc_misc,,kajika 'POT',kajika,POT,appreh,,,,,,,,,Legate2003,"[S1988]""18"", [S1991]""106"", ""107"", ""207"", [L2003]""5a"":""6b"""
+sample,DHG,int_disc_misc,,[V]:ya/:da 'SUB'_[V:SUB],:ya/:da,SUB(<LOC?),cond,cond-ctf,locative case?,,,,,,,Lissarrague2000_150,"[2000]""4-53"""
+sample,DHG,nfin,"converb, post-infl",[V](:ni/ti)-kayi [_V:FUT/HORT] 'NMZ-SUB',(:ni/ti)-kayi,NMZ-SUB,cond,"cond-hyp, ...","ablative case, prohibitive with wanha",,,,,,,"Lissarrague2000_177-179, Lissarrague2007_67","[2000]""3-115"", [2000]""4-20"", [2000]""4-53"", [2000]""4-73"", [2000]""4-119"", [2000]""5-30"", [2000]""5-32"":""5-33"", [2000]""5-126"":""5-127"", [2007]""322"":""324"""
+sample,DHG,int_disc_misc,,[V]:linj 'FUT',:linj,FUT,appreh,,,,,,,,,Lissarrague2007_44-45,[2000]5-129b
+sample,DHG,indepCla,disco-seq,V(:ni/ti)-kal/-tayi/-bukayi/-karrung 'NMLZR',(-ti/ni)-kal,NMLZR,"nominalisations, asp-habit",,,,,,,no,,Lissarrague2007_62-65,"[2007]""297"":""311"""
+sample,DHG,cjxPbo,external,[V:TAM]-i 'SIM',-i,SIM,"t_simult_circ, reference, complement",,,,,,,,,Lissarrague2007_65-67,"[2007]""312"":""321"""
+sample,DHG,nfin,"converb, post-infl",[V](:ni/ti)-kayi [_V:NFUT] 'NMZ-SUB',(:ni/ti)-kayi,NMZ-SUB,"t_simult_circ, t_prior_cause, reference",,"ablative case, prohibitive with wanha",,,,,,,Lissarrague2007_67-70,"[2007]""330"":""332"", [2007]""333:334"", [2007]""337:341"""
+sample,DHG,nfin,"converb, post-infl",[perc/juss_V](:ni/ti)-kayi 'NMZ-SUB',(:ni/ti)-kayi,NMZ-SUB,complement,,"ablative case, prohibitive with wanha",,,,,,,Lissarrague2007_69,"[2007]""335"":""336"""
+sample,DHG,nfin,"converb, post-infl",[V](:ni/ti)-gurayi 'NMZ-PURP',(:ni/ti)-gurayi,NMZ-PURP,purpose,,,,,,,,,Lissarrague2007_70-72,"[2007]""342"":""356"""
+sample,DHG,cjxCla,"left-edge, fluid",(PRO_)ban 'then/but',ban,then/but,"contr_advers, t_result_purp",,"""then"", ""but"", INSUB",,,,,,,Lissarrague2007_77,"[2007]""393"":""395"""
+sample,DHG,cjxCla,"left-edge, fluid",(X_)wa 'and',wa,and,t_result_purp,,"""and"", ""then""",,,,,,,Lissarrague2007_77,"[2007]""396"":""397"""
+sample,MUP,nfin,sV-RECO,(inflecting verb omission),(inflecting verb omission),(inflecting verb omission),"t_simult_circ, t_result_phys, complement","comp-perc, temp-simult result-phys",rarer in older people's speech (Mansfield),,,yes,,,,Mansfield2016_416,"[M2016]""40"":""43"", ""51"""
+sample,MUP,cjxPbo,external,[V:INFL]-re 'TEMP',-re,TEMP,t_simult_circ,,"temporal phrases (""essive"")",,,,,,,Mansfield2019_181-182,
+sample,MUP,int_disc_misc,,=ka 'FOC',=ka,FOC,t_simult_circ,,"focus, ""constituent ending, hesitation marker"" (Mansfield)",,,,,,,Mansfield2019_226,
+sample,MUP,cjxCla,left-edge,ngarra 'REL.PRO',ngarra,REL.PRO,"reference, t_simult_circ",,locative phrases,,,,,,,Mansfield2019_3-4,"[M2019]""1-13"""
+sample,WAI,nfin,converb,[V]:nyu(-lu) 'SS(-ERG)',:nyu(-lu),SS(-ERG),t_simult_circ,"temp-simult, cause-phys, ref-nom",,,SS,,,,R,Marmion_103-105,"""3-77"", ""3-151"", ""4-75"":""4-77"", ""4-113"""
+sample,WAI,nfin,converb,[V]:(rna)ntha(-gi) 'DS(-ALL)',:(rna)ntha(-gi),DS(-ALL),"complement, t_simult_circ, reference","temp-simult, temp-prior, comp-perc, cause-phys, ref-nom",,,DS,,,,R,Marmion_105-109,"""3-49"", ""4-79"":""4-90"""
+sample,WAI,nfin,converb,[V]:Cgu 'PURP',:Cgu,PURP,t_result_purp,"purpose, motion, temp-future, result-justif",insub: mod-epist,(O-PURP),x,,,,R,Marmion_109-112,"""3-32"", ""3-35"":""3-36"", ""3-51"", ""4-15"", ""4-19"", ""4-50"", ""4-59"", ""4-91"":""4-100"""
+sample,WAI,nfin,converb,[V]:(l)gurda 'APP',:(l)gurda,APP,appreh,"appreh-avert, appreh-incase, appreh-before",insub: appreh-epist,,x,,,,R,Marmion_112-114,"""4-106"":""4-111"""
+sample,WAI,nfin,converb,[V]:thanu 'CAUS<ORIGIN',:thanu,ABL,t_prior_cause,"temp-prior, cause-phys",,,x,,,,R,Marmion_114-115,"""4-113"":""4-115"""
+sample,GND,int_disc_misc,timeAdverbial,[DEM]-nhingi 'ABL',-nhingi,ABL,"t_result_purp, reference",ref-loc,sentential linker,,,,,,,McGregor1990_145,"""5-129"", ""5-382"", ""5-406"", ""T1-75"""
+sample,GND,int_disc_misc,"mood, attitude",[fear_V:^IRR]-woo 'DEF',-woo,DEF,complement,comp-timit,,,,,,,,McGregor1990_223-224_539-544,"""6-304b"""
+sample,GND,int_disc_misc,"mood, attitude",[V:^IRR]-woo 'DEF',-woo,DEF,appreh,,,,,,,,,McGregor1990_223-224_539-544,
+sample,GND,indepCla,,[sV]:mili 'CHAR',:mili,CHAR,nominalisation,,,,,,head,similar,,McGregor1990_394-395,
+sample,GND,indepCla,,[sV]:gali/wali/yali 'GooD.at',:gali/wali/yali,GooD.at,nominalisation,,,,,,head,similar,,McGregor1990_395,
+sample,GND,nfin,sV-CVBZ (sui generis),[sV]:wa(-ngga) 'MD(-ERG)',:wa(-ngga),MD(-ERG),"t_simult_circ, compar_manner",adv?,,-ngga 'ERG' [S=S'],S/A=S',yes,,,,McGregor1990_396-397,"""5-276"":""5-280"""
+sample,GND,nfin,sV-CVBZ (sui generis),[sV]:wadda(-ngga) 'MNR(-ERG)',:wadda(-ngga),MNR(-ERG),compar_manner,adv?,,-ngga 'ERG' [S=S'],S/G=S',yes,,,,McGregor1990_397,"""5-281"":""5-283"""
+sample,GND,nfin,sV-CVBZ (sui generis),[sV]:nhingi 'ABL1',:nhingi,ABL1,t_prior_cause,,,,S/G=S'/A',yes,,,,McGregor1990_397-398,"""5-284"":""5-285"""
+sample,GND,indepCla,,[sV]:ngaddi 'COMIT',:ngaddi,COMIT,adverbialisation,,,,,,head,similar,,McGregor1990_398,"""5-287"""
+sample,GND,nfin,sV-CVBZ (sui generis),[sV]:jangga 'ABL2',:yangga,ABL2,t_prior_cause,,(one example),,S=G',yes,,,,McGregor1990_398,"""5-286"""
+sample,GND,nfin,sV-CVBZ (sui generis),[sV]:goo/woo 'DAT' [+O/X-DAT],:goo/woo,DAT,"complement, t_result_purp",comp-juss/desid/eval/purpose,insub; mod-ability,+O/X-DAT,"S/A/O=S'/A', one DS example",yes,,,,McGregor1990_399-405,"""5-288"":""5-314"""
+sample,GND,nfin,sV-CVBZ (sui generis),[perc_sV]:goowaya 'PROGLOC',:goowaya,PROGLOC,complement,comp-perc,,[perc_,O=S',yes,,,,McGregor1990_405-407,"""5-317"""
+sample,GND,nfin,sV-CVBZ (sui generis),[sV]:goowaya 'PROGLOC',:goowaya,PROGLOC,t_simult_circ,,,,"S/A/O=S', DS",yes,,,,McGregor1990_405-407,"""5-318"":""5-321"""
+sample,GND,nfin,sV-CVBZ (sui generis),[sV]:ya/ja 'LOC',:ya/ja,LOC,compar_manner,,,,SS,yes,,,,McGregor1990_405-407,"""5-315"":""5-316"""
+sample,GND,nfin,sV-CVBZ (sui generis),[sV]:bari 'INF1',:bari,INF1,"t_simult_circ, compar_manner",,,,S/A/O=S',yes,,,,McGregor1990_407,"""5-322"":""5-324"", ""5-335"""
+sample,GND,nfin,sV-CVBZ (sui generis),[sV]:mawoo(-ngga) 'INF2(-ERG)',:mawoo(-ngga),INF2(-ERG),"t_simult_circ, compar_manner","""accomplishment"" clauses",,-ngga 'ERG' [S=,S/G=A'/O',yes,,,,McGregor1990_408-411,"""5-325"":""5-334"""
+sample,GND,int_disc_misc,,miga(-ya) 'like.that(-LOC)',miga,like.that(-LOC),"compar_manner, t_simult_circ",,,(-ya 'LOC'),,,,,,McGregor1990_429,"""5-386"", ""5-407"""
+sample,GND,int_disc_misc,mood,[(V:IRR-POT)_sV]:ja[:PRES/FUT/IRR] 'SJV',:ja,SJV,cond,,,,,,,,,McGregor1990_431-435_555-554,
+sample,GND,cjxCla,left-edge,booji 'if',booji,if,cond,,(rare),,,,,,,McGregor1990_432,"""5-399"""
+sample,GND,int_disc_misc,mood,[sV]:ala/gila 'FACT',:ala/gila,FACT,"reference, t_simult_circ",,,,,,,,,McGregor1990_437-442_554-556,
+sample,GND,int_disc_misc,timeAdverbial,[X]-rni 'SEQ',-rni,SEQ,t_result_purp,,,,,,,,,McGregor1990_457-459,"""5-383"", ""5-384"", ""5-393"""
+sample,GND,cjxCla,left-edge,jaddi 'if',jaddi,if,cond,,(two non-clausal examples with marlami 'nothing'; 'if not'),,,,,,,McGregor1990_492_547,"""6-129"", ""6-299"""
+sample,GND,int_disc_misc,mood,[V:FUT]-nyji 'DESID',-nyji,DESID,t_result_purp,,desid,,,,,,,McGregor1990_530-532,
+sample,GND,int_disc_misc,mood,[V:IRR]-rni 'POT',-rni,POT,?,,,,,,,,,McGregor1990_532-539,
+sample,NYL,cjxCla,left-edge,(interrogatives),(interrogatives),(interrogatives),complement,,,,,,,,,McGregor2011_138_657,"""4-60"":""4-63"""
+sample,NYL,int_disc_misc,external,ngka:[V] 'FUT',ngka:,FUT,cond,,,,,,,,,McGregor2011_283-291,"""7-45"", ""7-46"", ""7-48"", ""13-44"""
+sample,NYL,int_disc_misc,,nyanangkarr 'maybe',nyanangkarr,maybe,disjunct,,mod-epist,,,,,,,McGregor2011_362-363,"""9-89"""
+sample,NYL,int_disc_misc,,aa 'and',aa,and,addit,,,,,,,,,McGregor2011_393-395,"""9-218"":""9-220"""
+sample,NYL,int_disc_misc,,aa-kung 'and-ABL3',aa-kung,and-ABL3,t_result_purp,,,,,,,,,McGregor2011_395,"""9-224"""
+sample,NYL,int_disc_misc,,akal 'and',akal,and,addit,,,,,,,,,McGregor2011_395-396,
+sample,NYL,int_disc_misc,,man 'but',man,but,"t_result_purp, contr_advers",,,,,,,,,McGregor2011_396-397,"""9-230"":""9-232"", ""9-233"":""9-235"", ""9-236"", ""13-10"""
+sample,NYL,cjxPbo,"external, sV-CVBZ",[desid_V:infin]-uk 'LOC',-uk,LOC,complement,,,,x,yes,,,,McGregor2011_645-648,
+sample,NYL,cjxPbo,"external, sV-CVBZ",[sV|V:INFIN]-ngga 'ERG',-ngga,ERG,t_simult_circ,,,,SS,yes,,,,McGregor2011_645-648_650,"""13-1"", ""13-2"""
+sample,NYL,cjxPbo,"external, sV-CVBZ",[sV|V:INFIN]-ung 'ALL',-ung,ALL,"complement, t_result_purp",,,,"SS, O=S'",yes,,,,McGregor2011_645-648_674-675_698,"""13-119"", ""13-120"""
+sample,NYL,cjxPbo,"external, sV-CVBZ",[sV|V:INFIN]-jun 'ABL1',-jun,ABL1,"t_prior_cause, compar_manner",,,,x,yes,,,,McGregor2011_645-648_675,"""13-69"", ""13-81"""
+sample,NYL,nfin,infinitive,ma:[V]:Vn 'infin',ma::Vn,infin,"reference, complement",,,,"SS, O=S'",yes,,,,McGregor2011_645-648_698,"""13-118"""
+sample,NYL,int_disc_misc,mood,la:[V] 'IRR',la:,IRR,"cond, appreh",,,,,,,,,McGregor2011_658,"""13-25"":""13-26"""
+sample,NYL,cjxPbo,external,[V:INFL]-uk 'LOC',-uk,LOC,"t_simult_circ, t_prior_cause",realised,,,x,,,,,McGregor2011_661-663,"""13-30"":""13-37"", ""13-42"""
+sample,NYL,cjxPbo,external,[V:IRR]-karr 'TEM',-karr,TEM,"cond, appreh","unrealised, less realised",,,x,,,,,McGregor2011_663-666,"""13-38"", ""13-43"":""13-45"", ""13-47"":""13-48"""
+sample,NYL,cjxPbo,external,[V:INFL]-karr 'TEM',-karr,TEM,t_simult_circ,"unrealised, less realised",,,x,,,,,McGregor2011_663-666,"""13-39"":""13-40"", ""13-46"""
+sample,NYL,cjxPbo,external,[V:INFL]-ngirr 'SEM',-ngirr,SEM,compar_manner,,,,?,,,,,McGregor2011_666-667,"""13-49"""
+sample,NYL,cjxPbo,external,[V:INFL]-kung 'ABL3',-kung,ABL3,t_simult_circ,,,,x,,,,,McGregor2011_667,"""13-50"""
+sample,NYL,cjxPbo,external,[V:INFL]-djer 'SUB',-djer,SUB,"reference, t_simult_circ, t_prior_cause",,,,x,,,,,"McGregor2011_667-668, 670","""13-51"":""13-54"", ""13-60"":""13-64"""
+sample,NYL,cjxPbo,external,[V:INFL]-ngirr 'APP',-ang,APP,t_result_purp,,,,SS,,,,,McGregor2011_668-669_675,"""13-55"":""13-57"""
+sample,NYL,cjxPbo,"external, sV-CVBZ",[sV/V:INFIN]-uk 'LOC',-uk,LOC,"t_simult_circ, t_prior_cause",,,,x,yes,,,,McGregor2011_674,"""13-75"", ""13-76"""
+sample,NDJ,cjxCla,left-edge,kómalakka 'otherwise',kómalakka,otherwise,appreh,,,,,,,,,McKay2000_225-226,"""60"""
+sample,NDJ,int_disc_misc,,[V]:AVERS,AVERS,AVERS,"appreh, cond",,"epistemic, avertive",,,,,,,McKay2000_225-226,"""59"":""60"""
+sample,NDJ,cjxCla,left-edge,njana 'and/then/but/because',njana,and/then/but/because,"t_simult_circ, t_prior_cause, t_result_purp, t_result_purp, addit, contr_advers",,,,,,,,,McKay2000_305,"""145"", ""155"", ""173"":""176"""
+sample,NDJ,int_disc_misc,left-edge,yaláwa 'all right/then',yaláwa,then,t_result_purp,,,,,,,,,McKay2000_306,"""175"", ""177"", ""178"", ""179"""
+sample,NDJ,cjxCla,left-edge,karrabba 'and',karrabba,and,addit,,,,,,,,,McKay2000_306-307,"""172"", ""180"":""184"""
+sample,NDJ,cjxPbo,external,[V:INFL]-bba 'EXTENT>HAB',-bba,EXTENT>HAB,t_simult_circ,,,,,,,,,McKay2000_308,"""186"":""188"""
+sample,NDJ,int_disc_misc,,ka:['like'/'show'_V] 'IRR',ka:,IRR,complement,,,,,,,,,McKay2000_309,"""192"":""193"""
+sample,NDJ,int_disc_misc,,ka:[V] 'IRR',ka:,IRR,"cond, t_simult_circ",,,,,,,,,McKay2000_312,"""191"", ""199"":""200"", ""205"":""206"""
+sample,BLN,int_disc_misc,discoStructure,[X]-barla/warla 'FOC',-barla/warla,FOC,t_result_purp,,,,,,,,,MeakinsNordlinger2014_400-403,"""1221"":""1230"""
+sample,BLN,int_disc_misc,discoStructure,na 'FOC',na,FOC,contr_advers,,,,,,,,,MeakinsNordlinger2014_403-405_422-423,"""1238"", ""1315"""
+sample,BLN,int_disc_misc,,marri(ga) 'BUT',marri(ga),BUT,contr_advers,,,,,,,,,MeakinsNordlinger2014_410,"""1263"", ""1264"""
+sample,BLN,cjxCla,left-edge,nyamu 'REL' [+X-DUB+V:POT/PSTIRR],nyamu,REL,cond,,,[+X-DUB+V:POT/PSTIRR],,,,,,MeakinsNordlinger2014_414-417,"""1282"":""1288"""
+sample,BLN,cjxCla,left-edge,nyamu 'REL',nyamu,REL,"reference, t_simult_circ",,,,,,,,,MeakinsNordlinger2014_414-417,"""1288"":""1291"", ""1292"":""1295"""
+sample,BLN,cjxCla,left-edge,bala 'CONS',bala,CONS,t_result_purp,,,,,,,,,MeakinsNordlinger2014_418-419,"""1296"":""1300"""
+sample,BLN,int_disc_misc,"mood, attitude",ngaja 'ADMON' [+V:POT],ngaja,ADMON,appreh,,,[+V:POT],,,,,,MeakinsNordlinger2014_419-422,"""1301"":""1313"""
+sample,BLN,cjxCla,left-edge,jumaji 'CAUS',jumaji,CAUS,t_prior_cause,,,,,,,,,MeakinsNordlinger2014_420-422,"""1309"":""1313"""
+sample,BLN,int_disc_misc,discoStructure,an 'and',an,and,t_result_purp,,,,,,,,,MeakinsNordlinger2014_422,"""1314"""
+sample,BLN,int_disc_misc,mood,[V]:rru/:nggu 'POT',:rru/:nggu,POT,t_result_purp,,,,,,,,,MeakinsNordlinger2014_424,"""1321"", ""1322"""
+sample,BLN,nfin,sV-CVBZ,[sV|V:INFIN]-gu 'DAT>PURP',-gu,DAT>PURP,t_result_purp,,,,"SS, O=S'",yes,,,,MeakinsNordlinger2014_425-432,"""1327"":""1330"""
+sample,BLN,nfin,sV-CVBZ,[perc_sV|V:INFIN]-gula 'LOC',-gula,LOC,complement,,,[perc_,,yes,,,,MeakinsNordlinger2014_425-432,"""1346"",""1349"""
+sample,BLN,nfin,sV-CVBZ,[sV|V:INFIN]-jirri 'ALL',-jirri,ALL,"reference, complement, t_simult_circ, compar_manner",,,,nS=S',yes,,,,MeakinsNordlinger2014_428-430,"""1339"": ""1342"", ""1345"""
+sample,BLN,nfin,sV-CVBZ,[perc_sV|V:INFIN]-jirri 'ALL',-jirri,ALL,complement,,,[perc_,,yes,,,,MeakinsNordlinger2014_428-430,"""1337"", ""1338"", ""1343"", ""1344"""
+sample,BLN,nfin,sV-CVBZ,[sV|V:INFIN]-gula 'LOC',-gula,LOC,"reference, t_simult_circ, compar_manner",,,,"mostly SS, A=S', nS=S' also attested",yes,,,,MeakinsNordlinger2014_430-431,"""1331"":""1336"", ""1347"":""1348"", ""1350"""
+sample,BLN,nfin,sV-CVBZ,[sV|V:INFIN]-nginyi 'SOU',-nginyi,SOU,t_prior_cause,,,,both SS / nS=S',yes,,,,MeakinsNordlinger2014_431-432,"""1351"":""1353"""
+sample,MYI,nfin,sV-CVBZ,[sV/V:NMZ]-wu/gu 'PURP',-wu/gu,PURP,t_result_purp,,,,,yes,,,,Merlan1989_10-11_175-176,
+sample,MYI,nfin,sV-CVBZ,rna-[V:NMZ]-wu/gu 'PURP' [+S/O-PURP],rna--wu/gu,PURP,t_result_purp,,,+S/O-PURP,"O=S', S/A=S/A'",yes,,,,Merlan1989_11,
+sample,MYI,nfin,sV-CVBZ,[sV/V:NMZ]-gana 'ABL',-gana,ABL,t_prior_cause,,,,,yes,,,,Merlan1989_11-12,
+sample,MYI,cjxPbo,"external, sV-CVBZ",[V:NMZ]-gana 'ABL',-gana,ABL,t_prior_cause,,,,,yes,,,,Merlan1989_12,
+sample,MYI,int_disc_misc,,barlaga 'before',barlaga,before,"appreh, t_result_purp",,,,,,,,,Merlan1989_147,
+sample,MYI,int_disc_misc,,wuray 'later',wuray,later,"appreh, t_result_purp",,,,,,,,,Merlan1989_147,
+sample,MYI,cjxPbo,external,wa-[V:INFL] 'Sub',wa-,Sub,"reference, complement, t_simult_circ",,,,,,,,,Merlan1989_15-16_22_100,
+sample,MYI,cjxPbo,external,[V:INFL]-wu 'DESID/INT' [(+X-Foc)],-wu,DESID/INT,cond,,,(+X-Foc),,,,,,Merlan1989_22_100,
+sample,MYI,int_disc_misc,,[V:PNeg_V]:PNeg[-DI],PNeg,PNeg,cond,cond-ctf,"past potential, negative with NEG","V:PNeg_, -DI",,,,,,Merlan1989_23,"[M1989_23]""1"", [M1989_23]""2"""
+sample,MYI,int_disc_misc,,wardij 'too/again',wardij,too/again,addit,,,,,,,,,Merlan1989_31,
+sample,MYI,cjxCla,left-edge,guwaguwa 'just as',guwaguwa,just as,compar_manner,,,,,,,,,Merlan1989_32,
+sample,MYI,cjxCla,left-edge,wiriny 'just as/turn',wiriny,just as/turn,compar_manner,,,,,,,,,Merlan1989_32,
+sample,MYI,cjxCla,"left-edge, free",garlayjmingan 'in turn',garlayjmingan,in turn,"addit, t_result_purp",,,,,,,,,Merlan1989_32_100,
+sample,MYI,int_disc_misc,discoSeq,gana 'so/but',gana,so/but,"t_result_purp, contr_advers",,,,,,,,,Merlan1989_32-33_109,
+sample,MYI,int_disc_misc,,malga 'directly/then',malga,directly/then,"appreh, t_result_purp",,,,,,,,,Merlan1989_33,
+sample,MYI,int_disc_misc,,mamaya 'first',mamaya,first,t_result_purp,,,,,,,,,Merlan1989_34,
+sample,MYI,int_disc_misc,,mayawa 'all.right/now',mayawa,all.right/now,t_result_purp,,,,,,,,,Merlan1989_34,
+sample,MYI,int_disc_misc,,rnanangganawa 'next',rnanangganawa,next,t_result_purp,,,,,,,,,Merlan1989_35,
+sample,MYI,cjxCla,left-edge,warnggu 'because',warnggu,because,t_prior_cause,,,,,,,,,Merlan1989_35,
+sample,MYI,int_disc_misc,,mangaya 'perhaps',mangaya,perhaps,disjunct,,mod-epist,,,,,,,Merlan1989_39,
+sample,MYI,int_disc_misc,infoStructure,[X]-ba(yi) 'Foc',-ba(yi),Foc,contr_advers,,,,,,,,,Merlan1989_47-49,
+sample,WRD,int_disc_misc,"mood, attitude",y:[V] 'IRR',y:,IRR,appreh,,,,,,,,,Merlan1994_184-188,
+sample,WRD,cjxPbo,external,[V:INFL]-ga 'SUB',-ga,SUB,"reference, t_prior_cause",,,,,,,,,Merlan1994_194-198,
+sample,WRD,nfin,sV-RECO,(inflecting verb omission),(inflecting verb omission),(inflecting verb omission),"compar_manner, addit",,,,,yes,,,,Merlan1994_252-258,"""424"", ""618"":""622"", ""624"":""625"""
+sample,WRD,cjxCla,left-edge,yimiyan-barra 'same-ADV',yimiyan-barra,same-ADV,t_simult_circ,,,,,,,,,Merlan1994_265_321,"""819"""
+sample,WRD,cjxPbo,"external, sV-CVBZ",[sV|V:NOM|V:INFL(-SUB)]-warra/barra 'ADV',-warra/barra,ADV,"t_simult_circ, t_result_purp",,,,x,yes,,,,Merlan1994_270-271,
+sample,WRD,nfin,sV-CVBZ,[V]:yi[-CASE] 'NOM',:yi,NOM,"reference, t_simult_circ",,,,,yes,,,,Merlan1994_271-290,
+sample,WRD,cjxPbo,"external, sV-CVBZ",[sV|V:NOM]-wu 'DAT>PURP',-wu,DAT>PURP,t_result_purp,,,,"SS, DAT=S'",yes,,,,Merlan1994_276-281,
+sample,WRD,cjxPbo,"external, sV-CVBZ",[sV|V:NOM]-warr 'ALL',-warr,ALL,t_result_purp,,,,"mostly SS, one O=S'",yes,,,,Merlan1994_281-283,
+sample,WRD,cjxPbo,"external, sV-CVBZ",[sV|V:NOM]-wunba 'SOU',-wunba,SOU,t_prior_cause,,,,SS,yes,,,,Merlan1994_283-284,
+sample,WRD,cjxPbo,"external, sV-CVBZ",[sV|V:NOM]-ba 'ABL',-ba,ABL,t_prior_cause,spatial,,,SS,yes,,,,Merlan1994_285-287,
+sample,WRD,cjxPbo,external,[perc_V:INFL]-warr 'ALL',-warr,ALL,complement,comp-perc,,,,,,,,Merlan1994_287-289,
+sample,WRD,cjxPbo,external,[V:INFL]-warr 'ALL',-warr,ALL,reference,,,,,,,,,Merlan1994_287-289,
+sample,WRD,cjxPbo,"external, sV-CVBZ",[sV]-ya 'LOC',-ya,LOC,t_simult_circ,,one example,,SS,yes,,,,Merlan1994_290,"""710"""
+sample,WRD,cjxCla,left-edge,bajawinyin 'all.right',bajawinyin,all.right,concess,,,,,,,,,Merlan1994_291-293,"""711"":""714"""
+sample,WRD,cjxCla,bound,[X_]marrig 'OK',marrig,OK,contr_advers,,,,,,,,,Merlan1994_292-293,"""715"":""716"""
+sample,WRD,cjxCla,"left-edge, free",bujun 'lest',bujun,if/lest,"cond, appreh",,epistemic-attitudinal,,,,,,,Merlan1994_293-295,"""718"":""720"""
+sample,WRD,cjxCla,left-edge,bujun 'lest' [+V:IRR],bujun,if/lest,appreh,,,[+V:IRR],,,,,,Merlan1994_295,"""723"""
+sample,WRD,int_disc_misc,mood,yilama 'maybe',yilama,maybe,"appreh, t_result_purp",,,,,,,,,Merlan1994_298-300,
+sample,WRD,cjxCla,"left-edge, free",gabarri 'and/in turn',gabarri,and/in.turn,addit,,,,,,,,,Merlan1994_305-308,"""9"", ""769"", ""771"""
+sample,WRD,cjxCla,free,nonggo 'also',nonggo,also,addit,,,,,,,,,Merlan1994_308-309,"""780"":""784"""
+sample,WRD,cjxCla,left-edge,ngala 'contrast',ngala,contrast,contr_advers,,,,,,,,,Merlan1994_309-310,"""786"":""790"""
+sample,WRD,int_disc_misc,quantifier,wangi 'only/except',wangi,only/except,contr_advers,contrast-replace,,,,,,,,Merlan1994_310-311,"""791"":796"""
+sample,WRD,cjxCla,right-edge,(wu)wunyjug 'cause',(wu)wunyjug,cause,t_prior_cause,,,,,,,,,Merlan1994_311-312,"""797"":""799"""
+sample,WRD,cjxCla,left-edge,gija 'as',gija,as,compar_manner,,,,,,,,,Merlan1994_312-313,"""800"":""802"""
+sample,WRD,int_disc_misc,discoStructure,[X]-wan 'DF',-wan,DF,"t_simult_circ, t_result_purp, concess",,,,,,,,,Merlan1994_313-319,"""803"":""815"""
+sample,WRD,cjxCla,left-edge,wagayma 'like',wagayma,like,compar_manner,,,,,,,,,Merlan1994_99-100,"""175"", ""719b"""
+sample,GWA,nfin,sV-CVBZ (sui generis),[V]:ji/nki 'PURP' [^PRO],:ji/nki,PURP,t_result_purp,,?,^PRO,SS only,yes,,,,Mushin2012_191_288-294,"""5-75b"", ""7-129"":""7-133"", ""8-4a"", ""8-77"", ""8-116b"", ""9-135"":""9-136"", ""9-149b"", ""9-153"", ""T3-33"""
+sample,GWA,nfin,sV-CVBZ (sui generis),[V]:jiwa/nkiwa 'SUBSEQ' [^PRO],:jiwa/nkiwa,SUBSEQ,t_result_purp,,?,^PRO,SS only,yes,,,,Mushin2012_192-194_288-294,"""4-118"", ""6-180"", ""7-134b"":""7-143"", ""9-137"", ""9-139"", ""9-156"""
+sample,GWA,nfin,sV-CVBZ (sui generis),[V]:kanyi 'IRR' [^PRO],:kanyi,IRR,"complement, t_result_purp",comp-purpose,-(ka)nyi 'DAT',^PRO,SS/DS,yes,,,,Mushin2012_194-196_288-294,"""4-70"", ""5-117b"", ""7-144"":""7-166"", ""8-182"", ""9-143"":9-144"", ""9-149a"", ""9-151a"""
+sample,GWA,nfin,sV-CVBZ (sui generis),[V]:(j)kurri 'DS' [^PRO],:(j)kurri,DS,"complement, t_simult_circ",,? + rri 'ALL',^PRO,DS only,yes,,,,Mushin2012_196-199_288-294,"""6-30b"", ""6-112"", ""7-157"", ""7-158"":""7-164"", ""8-6b"", ""9-142"", ""9-145"", ""9-147"", ""9-148"", ""9-150b"", ""9-151b"""
+sample,GWA,nfin,sV-CVBZ (sui generis),[V]:ina/jina/nkina 'SS' [^PRO],:ina/jina/nkina,SS,"t_simult_circ, compar_manner",,? + (i)na 'LOC',^PRO,SS only,yes,,,,Mushin2012_196-199_288-294,"""7-156"", ""7-160"", ""7-162"", ""9-140"", ""9-141"", ""9-150a"""
+sample,GWA,int_disc_misc,evidentiality,[X]-wali 'EVID',-wali,EVID,appreh,,,,,,,,,Mushin2012_232-233,"""8.126"", ""T4.6b"""
+sample,GWA,int_disc_misc,,jabarri 'again',jabarri,again,t_result_purp,,,,,,,,,Mushin2012_236-237,
+sample,GWA,int_disc_misc,,ngamungku 'LIKE',ngamungku,LIKE,compar_manner,,,,,,,,,Mushin2012_237,"""8.171"""
+sample,GWA,cjxCla,interstitial,baki 'AND',baki,AND,"addit, t_result_purp",,,,,,,,,Mushin2012_239-242,"""4-73"", ""6-60"", ""6-115"", ""6-144"", ""7-141"":""7-143"", ""8-2"", ""8-116"", ""8-163"":""8-170"", ""9-156"", ""T3-32"":""T3-33"", ""T4-6_7"""
+sample,GWA,int_disc_misc,,mada 'ALSO',mada,ALSO,addit,,N-addit,,,,,,,Mushin2012_242-244,"""8-144"", ""8-172"":""8-179"""
+sample,GWA,cjxCla,interstitial,ngala 'CONTR' [^TNS],ngala,CONTR,"t_simult_circ, contr_advers",,,^TNS,,,,,,Mushin2012_244-249,"""6-25"", ""6-42a"", ""6-113"", ""6-158"", ""7-168"", ""8-13"", ""8-107"", ""8-180"":""8-182"", ""8-187"", ""8-190"", ""8-193"", ""8-197"", ""8-209"", ""T3-29"", ""T4-17b"""
+sample,GWA,cjxCla,left-edge,jala 'REL',jala,REL,"reference, t_simult_circ, t_prior_cause",,,,,,,,,Mushin2012_249-252,"""8-34"", ""8-115"":""8-116a"", ""8-198"":""8-203"", ""T6-24_25"""
+sample,GWA,cjxCla,left-edge,minji 'COND',minji,COND,"t_simult_circ, cond",,,,,,,,,Mushin2012_252-254,"""7-150a"", ""8-35a"", ""8-67"", ""8-204"":""8-205"", ""8-208"""
+sample,GWA,cjxCla,interstitial,(ignoratives),(ignoratives),(ignoratives),reference,,,,,,,,,Mushin2012_286-288,"""9.129"":""9.131"""
+sample,GWA,nfin,sV-RECO,(clause chains),(clause chains),(clause chains),"t_simult_circ, t_result_purp",,,,,yes,,,,Mushin2012_296-298,"""5-83"", ""5-88"", ""6-42b"", ""6-71"", ""6-89"", ""6-114"", ""8-6a"", ""8-35b"", ""8-71"", ""9-165"":""9-168"", ""10-16a"", ""T3-104"", ""T3-106"", ""T3-91b"", ""T4-9"", ""T4-17a"""
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:panu 'EXCESS',:panu,EXCESS,reference,character-NMZ,,,,yes,,,,Nash1980_25,"[S1991]""347"""
+sample,MUP,int_disc_misc,,[V]:FUTIRR [+X-FOC?],FUTIRR,FUTIRR,cond,,,[+X-FOC?],,,,,,Nordlinger&Caudal2012_108,"[N&C2012]""114"""
+sample,WBY,int_disc_misc,"tense, mood",[V]:uda 'NACT.PST',:uda,NACT.PST,cond,,,,,,,,,Nordlinger1998_149-150,
+sample,WBY,int_disc_misc,mood,[V]:agba 'HYP',:agba,HYP,"complement, appreh, cond",,,,,,,,,Nordlinger1998_150-151,
+sample,WBY,cjxCla,left-edge,ngaba 'THEN',ngaba,THEN,"t_simult_circ, compar_manner, t_result_purp",no cond,,,,,,,,Nordlinger1998_208-209_224,"""7-207"":""7-214"", ""8-66"":""8-68"""
+sample,WBY,cjxCla,left-edge,gaji 'LEST',gaji,LEST,appreh,,,,,,,,,Nordlinger1998_209-210,"""7-215"",""7-216"""
+sample,WBY,cjxCla,left-edge,ngabayi 'LEST' [+V:NACT.PST],ngabayi,LEST,cond,cond-ctf,,+V:NACT.PST,,,,,,Nordlinger1998_210,"""7-219"""
+sample,WBY,cjxCla,left-edge,ngabayi 'LEST',ngabayi,LEST,appreh,,,,,,,,,Nordlinger1998_210,"""7-218"""
+sample,WBY,cjxCla,left-edge,marda 'WHEN',marda,WHEN,t_simult_circ,,,,,,,,,Nordlinger1998_210-211,"""7-220"",""7-221"""
+sample,WBY,cjxPbo,"external, sV-CVBZ",[sV]-ngga 'ABL',-ngga,ABL,t_prior_cause,temp-prior,,,only SS attested; DS possible?,yes,,,,Nordlinger1998_212-216,"""8-7"", ""8-8"""
+sample,WBY,cjxPbo,"external, sV-CVBZ",[sV]-ni 'ERG/LOC',-ni,ERG/LOC,"t_simult_circ, compar_manner",temp-simult,,,SS,yes,,,,Nordlinger1998_212-216,"""8-1"", ""8-2"""
+sample,WBY,cjxPbo,"external, sV-CVBZ",[sV]-barda 'INFIN',-barda,INFIN,"reference, t_simult_circ, t_result_purp","temp-prior(SS), purp(SS), temp-simult(DS)",,,"temp-prior(SS), purp(SS), temp-simult(DS)",yes,,,,Nordlinger1998_212-216,"""8-3"":""8-5"""
+sample,WBY,cjxPbo,"external, sV-CVBZ",[sV]-nka 'DAT',-nka,DAT,t_result_purp,purp,,,"SS, O=S'",yes,,,,Nordlinger1998_214-,"""8-9"":""8-13"""
+sample,WBY,nfin,sV-RECO,(auxiliary omission),(orphaned preverb),(orphaned preverb),"t_prior_cause, t_simult_circ, t_result_purp",,,,,yes,,,,Nordlinger2014,
+sample,MUW,int_disc_misc,,[V]:ku(-PRO) 'FUT',:ku,FUT,cond,,,,,,,,,Oates1988_170-172,"""6.36"""
+sample,MUW,int_disc_misc,N-marking,[X]-ki 'EMP',-ki,EMP,contr_advers,,,,,,,,,Oates1988_210-211,"""6.115"""
+sample,MUW,int_disc_misc,,[X]-nji 'IMM',-nji,IMM,t_result_purp,,,,,,,,,Oates1988_211-212,"""6.134"""
+sample,MUW,nfin,converb,[V]:Ra(^-PRO) 'COORD',:Ra,COORD,"addit, t_result_purp, cond,  t_simult_circ, t_result_purp",,,(^?-PRO),,yes,,,,Oates1988_222-223,"""3-16"", ""5-126"", ""5-140"":""5-141"", ""5-307"", ""5-355"", ""5-412"":""5-415"", ""5-429a"", ""6-31"", ""7.28"":""7.32"""
+sample,MUW,cjxPbo,external,[V:INFL](-PRO)-ku 'PURP',-ku,PURP,t_result_purp,,,,,,,,,Oates1988_223-224,
+sample,MUW,nfin,converb,[V]:la(-PRO) 'HAB>SUBORD',:la,HAB>SUBORD,"reference, t_simult_circ, cond",,habitual aspect,(-PRO),,no,,,,Oates1988_224-225,"""3-44"", ""4-32"", ""4-163"", ""4-183"", ""5-22"", ""5-29"", ""5-296a"", ""5-367"", ""5-379"", ""5-416"":""5-424"", ""5-432b"", ""5-441"", ""5-443"", ""6-5"", ""6-154"", ""7-36"":""7-41"". ""7.45b"""
+sample,MUW,int_disc_misc,,[V]:na(-PRO) 'LCL',-na,LCL,"reference, t_simult_circ, complement",comp-utter,,,,,,,,Oates1988_225,"""3-38"", ""3-132"", ""3-193"", ""3-195"", ""4-186"", ""5-313"", ""7.42"", ""7-46"""
+sample,TIW,int_disc_misc,mood,ma/re-[V] 'subjunctive/past.sjv' [+COMPR],ma/re-,sjv/past.sjv,cond,,,[+COMPR],,,,,,Osborne1974_44,
+sample,TIW,cjxCla,left-edge,ngini 'COMPR',ngini,COMPR,"complement, t_simult_circ, cond, compar_manner, t_prior_cause, t_result_purp",comp-perc/cog/utter,,,,,,,,"Osborne1974_44_70-71, Lee1987_295-298",
+sample,TIW,int_disc_misc,"mood, attitude",wa-[V] 'frustrative' [+COMPR],wa-,frustrative,cond,,"past intentional, avertive",[+COMPR],,,,,,"Osborne1974_44, Lee1987_196",
+sample,TIW,int_disc_misc,,apa/api 'CONJ',apa/api,CONJ,"t_result_purp, contr_advers",,,,,,,,,"Osborne1975_70, Wilson2013_59_66","[W]""71"", [W]""93"""
+sample,KYJ,int_disc_misc,timeAdverbial,[V:INFL]-da 'TEMP1',-da,TEMP1,t_result_purp,,,,,,,,,Patz2002_114-115,"""631"""
+sample,KYJ,int_disc_misc,timeAdverbial,[V:INFL]-kuda 'TEMP2',-kuda,TEMP2,t_simult_circ,,,,,,,,,Patz2002_114-115,"""630"""
+sample,KYJ,cjxCla,bound,wawu-[X]-muny 'TEMP4...ABL',wawu--muny,TEMP4...ABL,t_prior_cause,,,,,,,,,Patz2002_114-115_178-179,"""491"":""497"", ""635"":""636"""
+sample,KYJ,int_disc_misc,N-marking,[N]-ji/yijin 'in turn',-ji/yijin,in turn,t_result_purp,,,,,,,,,Patz2002_116-117,"""219"":""221"", ""630"""
+sample,KYJ,int_disc_misc,mood,[V]:nyaku 'IRR',:nyaku,IRR,cond,,ctf,,,,,,,Patz2002_157,"""383"""
+sample,KYJ,cjxCla,left-edge,kunka 'in case',kunka,in case,appreh,,,,,,,,,Patz2002_158-160,"""397"", ""499"":""502"""
+sample,KYJ,cjxCla,left-edge,yamba 'but',yamba,but,concess,,,,,,,,,Patz2002_158-160,"""392"", ""431"", ""656"":""657"""
+sample,KYJ,cjxCla,left-edge,kaki 'if' [V:^PST],kaki,if,cond,,hyp,V:^PST,,,,,,Patz2002_158-160,"""393"":""395"""
+sample,KYJ,cjxCla,left-edge,kari 'but',kari,but,contr_advers,,,,,,,,,Patz2002_158-160,"""388"":""391"", ""654"", ""658"""
+sample,KYJ,nfin,converb,[V]:nka 'PURP',:nka,PURP,"complement, t_result_purp","comp-purpose, comp-jussive, comp-desid, purpose, result-phys","desid, intent, necess (EL: insub)",,,,,,,Patz2002_161-167,"""403"":""412"", ""420"", ""423"", ""425"":""428"""
+sample,KYJ,nfin,converb,[V]:nyji 'PRECAUT',:nyji,PRECAUT,appreh,avertive,"""general warning"" (EL: insub)",,,,,,,Patz2002_167-169,"""432"":""438"", ""443"":""444"", ""511a"""
+sample,KYJ,nfin,converb,[V]:nyjiku 'SUCC',:nyjiku,SUCC,t_result_purp,,,,,,,,,Patz2002_169-171,"""445"", ""446"", ""448"", ""456"", ""511c"""
+sample,KYJ,nfin,converb,[V]:nya 'SUBORD',:nya,SUBORD,"complement, t_prior_cause, t_simult_circ",,,,,,,,,Patz2002_171-176,"""458"":""482"""
+sample,KYJ,pivCase,external,[V:SUB]-CCASE,-CCASE,CCASE,reference,,,,pivot case,,,,,Patz2002_171-176,"""468"", ""470"", ""472"":""474"", ""507"""
+sample,KYJ,cjxPbo,"external, converb, post-infl",[V:SUB]-mun-ku 'DAT',-mun-ku,DAT,appreh,hypothetical reason,,,,,,,,Patz2002_179-180,"""498"":""502"""
+sample,KYJ,int_disc_misc,,nguba 'maybe',nguba,maybe,disjunct,,mod-epist,,,,,,,Patz2002_199-200,"""608"":""610"""
+sample,KYJ,int_disc_misc,timeAdverbial,[X]-(ng)Vrr 'TEMP3',-ngurr,TEMP3,t_prior_cause,prior,,,,,,,,Patz2002_207,"""633"", ""634"""
+sample,JLU,int_disc_misc,relative-tense,(relative tense),(relative tense),(relative tense),"reference, complement, t_simult_circ",,,,,,,,,Pensalfini2003_111_115-124,"""4.62b"":""4.62d"", ""4.62f"":""4.62j"""
+sample,JLU,cjxCla,left-edge,ngamba 'PURP' [+V:FUT],ngamba,PURP,t_result_purp,,,[+V:FUT],,,,,,Pensalfini2003_118-119,"""4.62j"":""4.62n"""
+sample,JLU,cjxCla,left-edge,karningka 'LEST' [+V:PR/IRR],karningka,LEST,appreh,,,[+V:PR/IRR],,,,,,Pensalfini2003_120,"""4.63a"":""4.63d"""
+sample,JLU,cjxCla,left-edge,kurna/kurra(-rni) 'TC-FOC' [+V:FUT],kurna/kurra(-rni),TC(-FOC),cond,cond-hyp,-rni 'ERG>FOC' discourse prominence,[+V:FUT],,,,,,Pensalfini2003_121-122,"""4.64d"":""4.64e"""
+sample,JLU,cjxCla,left-edge,kurna/kurra 'TC',kurna/kurra,TC,"reference, t_simult_circ",,,,,,,,,Pensalfini2003_121-122,"""4.64a"":""4.64c"""
+periph,UGA,,,,,,,,,,,,,,,Davies1989,
+sample,JLU,cjxCla,left-edge,kurna/kurra(-rni) 'TC-FOC',kurna/kurra(-rni),TC(-FOC),t_simult_circ,,,,,,,,,Pensalfini2003_121-122,"""4.64a"":""4.64c"""
+sample,JLU,cjxCla,left-edge,(demonstratives),(demonstratives),(demonstratives),reference,,,,,,,,,Pensalfini2003_122-123,"""4.65a"":""4.65e"""
+sample,JLU,cjxPbo,"external, converb, post-infl","[^PRO, V:TAM/NOML]-ngka 'ALL'",-ngka,ALL,"complement, t_simult_circ",,,,DS,yes,,,,Pensalfini2003_126-128,"""4.69d"":""4.69e"""
+sample,JLU,cjxPbo,"external, converb, post-infl","[^PRO, V:TAM/NOML]-mbili 'LOC'",-mbili,LOC,t_simult_circ,,,,SS,yes,,,,Pensalfini2003_126-128,"""4.69a"":""4.69c"", ""4.69f"":""4.69g"""
+sample,IWA,cjxCla,left-edge,lda 'and',lda,and,"addit, t_result_purp, compar_manner",,N-add,,,,,,,Pym&Larrimore1979_163-168,"[_157]""2"", ""T3-23"", ""T2-61"", ""T9-41"""
+sample,IWA,int_disc_misc,,barduwa '[complete]',barduwa,[complete],t_result_purp,,,,,,,,,Pym&Larrimore1979_47_55_177-178,"""T2-48"", ""T6-6"""
+sample,IWA,cjxCla,left-edge,"jumung 'when, SUB?'",jumung,"when, SUB?","reference, t_simult_circ, t_result_purp, t_prior_cause, compar_manner",,pronoun (dative),,,,,,,Pym&Larrimore1979_48-50,"[_48]""5"", [_49]""4"", ""6"", [_50]""1"", ""6"", [_220]""T2-9"""
+sample,IWA,int_disc_misc,,"barta 'and then, and so'",barta,"and then, and so",t_result_purp,,adverbial 'really',,,,,,,Pym&Larrimore1979_48-50,"""T1-38"", ""T2-29"", ""T4-9_10"", ""T5-05"", ""T7-10_11"", ""T9-36"""
+sample,IWA,cjxCla,left-edge,ba_jumung 'that one which',ba jumung,that one which,reference,,,,,,,,,Pym&Larrimore1979_50,"[_50]""4"":""6"""
+sample,IWA,cjxCla,left-edge,ba/baga 'if',ba/baga,if,cond,,demonstrative,,,,,,,Pym&Larrimore1979_51,"[_51]""1"":""2"""
+sample,NGG,int_disc_misc,infoStructure,[X]-kana 'FOC',-kana,FOC,t_result_purp,,,,,,,,,Reid1990_170-171,
+sample,NGG,int_disc_misc,infoStructure,[X]-nyine 'FOC',-nyine,FOC,t_result_purp,,,,,,,,,Reid1990_170-171,
+sample,NGG,cjxCla,"fluid, bound, external",[V:INFL]-gumu 'WHILE',-gumu,WHILE,t_simult_circ,,,,,,,,,Reid1990_171-173,"""3-202"":""3-204"""
+sample,NGG,cjxPbo,external,[V:INFL]-pefi 'DUR/COTEMP',-pefi,DUR/COTEMP,t_simult_circ,,< asp-durat,,,,,,,Reid1990_174-176,"""3-211"":""3-212"", ""3-219"":""3-220"""
+sample,NGG,cjxCla,bound,(noun class prefixes),(noun class prefixes),(noun class prefixes),reference,,,,,,,,,Reid1990_316-321,"""5-111"":""5-125"""
+sample,NGG,int_disc_misc,N-marking,[N]-ninggi 'CAUS',-ninggi,CAUS,"t_prior_cause, t_result_purp",,,,,,,,,Reid1990_326-328,
+sample,NGG,cjxCla,"fluid, bound, external",[(X/V:INFL)]-nimbi 'CAUS',nimbi,CAUS,t_prior_cause,,case marker,,,,,,,Reid1990_334-337_339-340,"""3-31"", ""3-36"", ""6-58"":""6-60"", ""6-92"", ""6-110"", ""T1-18_19"", ""T1-21a"""
+sample,NGG,cjxPbo,external,[V:IRR]-nimbi 'CAUS' [+V:IRR],nimbi,CAUS,cond,,case marker,[+V:IRR],,,,,,Reid1990_341-342,"""6-62"":""6-64"""
+sample,NGG,int_disc_misc,,nimbi 'CAUS',nimbi,CAUS,disjunct,,N-source,,,,,,,Reid1990_342,
+sample,NGG,int_disc_misc,"mood, attitude",[V:INFL]-merrendi/nana 'LEST/WARN' [+V:IRR],-merrendi/nana,LEST/WARN,appreh,,,[+V:IRR],,,,,,Reid1990_345,
+sample,NGG,cjxPbo,external,ngani-[V:INFL] 'KIND',ngani-,KIND,compar_manner,,,,,,,,,Reid1990_351-353,"""6-106"":""6-107"""
+sample,NGG,cjxPbo,external,[V:INFL]-napa 'UNTIL',-napa,UNTIL,t_result_purp,endpoint,,,,,,,,Reid1990_353-354,"""6-111"""
+sample,NGG,int_disc_misc,,[X]-nawa 'instead',-nawa,instead,contr_advers,,,,,,,,,Reid1990_354,
+sample,NGG,cjxCla,left-edge,ninggi 'despite',ninggi,despite,concess,,,,,,,,,Reid1990_359,"""7-12"", ""7-13"""
+sample,NGG,cjxCla,left-edge,epe 'but',epe,but,contr_advers,,,,,,,,,Reid1990_361,"""3-207"":""3-209"", ""4-258"""
+sample,NGG,int_disc_misc,mood,ep 'GUESS',ep,GUESS,disjunct,,?evidential,,,,,,,Reid1990_362,
+sample,NGG,int_disc_misc,discoStructure,ninde 'and.then',ninde,and.then,t_result_purp,,,,,,,,,Reid1990_363,
+sample,NGG,cjxCla,left-edge,e 'and',e,and,addit,,,,,,,,,Reid1990_363,"""6-112"", ""7-30"""
+sample,NGG,int_disc_misc,,a 'finally',a,finally,t_result_purp,,,,,,,,,Reid1990_364,
+sample,UNG,cjxPbo,external,[V:INFL]-ngarri 'SUB',-ngarri,SUB,"reference, complement, t_simult_circ, cond, t_prior_cause",,,,,,,,,"Rumsey1982_146-155, Spronck2015_66-69","[S2015]""101"":""107"""
+sample,UNG,cjxCla,left-edge,budju 'if',budju,if,cond,,<Kriol,,,,,,,Rumsey1982_154,
+sample,UNG,int_disc_misc,mood,[V]:IRR,:IRR,IRR,cond,cond-ctf,,,,,,,,Rumsey1982_154-155,"[R1982_155]""2"""
+sample,UNG,nfin,sV-CVBZ,[sV]-gu 'PURP',-gu,PURP,t_result_purp,,,,SS,yes,,,,Rumsey1982_155-157,"[R1982_105]""3"":""5"", [S2015]""105ac"""
+sample,UNG,cjxPbo,external,[V:INFL-SUB]-gu 'PURP',-gu,PURP,t_result_purp,,,,,,,,,Rumsey1982_155-157,
+sample,UNG,int_disc_misc,,(ma clauses),(ma clauses),(ma clauses),complement,,,,,,,,,"Rumsey1982_157-166, Spronck2015_82-101",
+sample,UNG,int_disc_misc,"mood, attitude",menja 'too bad',menja,too bad,t_prior_cause,,,,,,,,,Rumsey1982_171-172,
+sample,UNG,int_disc_misc,,[X]-yu 'LATIVE',-yu,LATIVE,t_result_purp,,,,,,,,,"Rumsey1982_64-67, Spronck2015_65-66",
+sample,UNG,nfin,sV-CVBZ,[sV]-yu 'LATIVE',-yu,LATIVE,"t_result_purp, compar_manner",like secondary predicates,< marker of allative nominals?,,,yes,,,,Rumsey1982_66,"[R1982_66]""5"":""7"""
+sample,KRL,int_disc_misc,,wel/wal '(while/well>)then',wal,(while/well>)then,t_result_purp,,,,,,,,,Sandefur1979_127_130,"[Rumsey1983_179]""3"", [Phillips2011]""4-23"", ""4-28"", ""4-42"", ""E-64"""
+sample,KRL,int_disc_misc,,"andi/ani 'WANT' [+if/buji, +PST]",andi/ani,WANT,cond,cond-ctf,"<'want to', desid, 'should have'","+if/buji, +PST",,,,,,Sandefur1979_3,"[SB2013]""30"""
+sample,KRL,cjxCla,left-edge,til/andil 'till',til/andil,till,t_result_purp,int-endpoint,,,,,,,,Sandefur1979_3_122,"[Sandefur1981_69]""L35"""
+sample,KRL,int_disc_misc,,ken 'CAN',ken,CAN,?,,ability,,,,,,,"Sandefur1979_45, Phillips2011_47-48",
+sample,KRL,int_disc_misc,,gona 'FUT' [+if/buji],gona,FUT,cond,,future,+if/buji,,,,,,Sandefur1979_46,
+sample,KRL,int_disc_misc,,maitbi/mairri 'MOD' [+if/buji],maitbi,maybe,cond,cond-hyp,epistemic,+if/buji,,,,,,"Sandefur1979_79, Phillips2011_47-48",
+sample,KRL,cjxCla,left-edge,nomeda 'even.though' [_bat],nomeda,even.though,concess,,,_bat,,,,,,"Sandefur1979_90, Phillips2011_46-47","[Phillips2011]""4-9"""
+sample,KRL,int_disc_misc,,bambai 'APPR',bambai,APPR,appreh,,"later, future",,,,,,,SchultzeBerndt&Angelo2016,"[SB&A2016]""16"", ""21"":""29"""
+sample,KRL,cjxCla,left-edge,if 'if',if,if,cond,,,,,,,,,SchultzeBerndt&Meakins2013_17-18,"[Dickson2015]""3-2"", ""4-8"", ""5-4"", ""5-16"", ""5-20"", ""5-21"", ""5-29"", ""6-17"", ""7-8"", [Hudson1983]""TB-6"", [SB2013]""30"""
+sample,KRL,cjxCla,left-edge,bikos 'because',bikos,because,t_prior_cause,,,,,,,,,SchultzeBerndt&Meakins2013_17-18,[SB&M2013]26a
+sample,KRL,cjxCla,left-edge,wen 'when',wen,when,t_simult_circ,,,,,,,,,SchultzeBerndt&Meakins2013_17-18,"[Hudson1983]""TC-35"", ""TE-18"""
+sample,KRL,cjxCla,left-edge,ani 'only/but',ani,only/but,contr_advers,,<'only',,,,,,,"SchultzeBerndt&Meakins2013_19, SchultzeBerndt2013_12","[SB2013]""28"", [SB&M2013]""T9-10"""
+sample,JNG,int_disc_misc,,yiga 'but',yiga,BUT,contr_advers,,,,,,,,,SchultzeBerndt2000_103,"[SB2000]""2-44"", ""5-93"""
+sample,JNG,int_disc_misc,,[X]=biyang 'NOW',=biyang,NOW,t_result_purp,,,,,,,,,SchultzeBerndt2000_104,"[SB2000]""2-127a"", ""2-128"", ""5-106"", ""5-353"""
+sample,JNG,cjxPbo,external,[V:INFL]=wunthu 'COND',=wunthu,COND,cond,,,,,,,,,SchultzeBerndt2000_105,"[SB2000]""T2-7_8"", ""T3-1_3"", [SB2003_150]""5"""
+sample,JNG,cjxCla,bound,[X]=ma/mang 'SUBORD',=ma/mang,SUBORD,"reference, t_simult_circ",,,,,,,,,SchultzeBerndt2000_110,"[SB2000]""2-117"":""2-118"", ""4-7"", ""4-50"":""4-51"", ""4-72"", ""5-63"", ""5-100a"", ""5-106"", ""5-127"", ""5-175"", ""5-185"", ""5-190"", ""5-193"", ""5-273"", ""5-285b"", ""5-298"", ""5-325"", ""5-352"", ""5-365"", ""6-42a"", ""6-93c"", ""T3-37"", ""T3-6"", ""T4-40"""
+sample,JNG,indepCla,complex verb,[sV]-mayan 'CONTIN' [+BE/GO:INFL],-mayan,CONTIN,asp-progress,,,[+BE/GO:INFL],,,aux,yes,,SchultzeBerndt2000_129-133,"[SB2000]""3-25"":""3-28"""
+sample,JNG,nfin,sV-CVBZ,[sV]-mayan 'CONTIN' [^BE/GO:INFL],-mayan,CONTIN,t_simult_circ,secondary predicate,,[^BE/GO:INFL],,yes,,,,SchultzeBerndt2000_131-133,"[SB2000]""3-25"":""3-28"""
+sample,JNG,indepCla,complex verb,[sV]-Cung 'COTEMP' [+V:INFL],-Cung,COTEMP,manner,,,[+V:INFL],,,aux,yes,,SchultzeBerndt2000_133-135,"[SB2000]""3-29"":""3-30"""
+sample,JNG,cjxPbo,"external, sV-CVBZ",[sV]-gu/wu 'DAT',-gu/wu,DAT,t_result_purp,temporal,,,"SS, O=S'",yes,,,,SchultzeBerndt2000_56_111-112,"[SB2000]""2-40"", ""2-119"", ""2-121"", ""5-143"", ""5-245"", ""T4-10"", ""T4-11"""
+sample,JNG,cjxPbo,"external, sV-CVBZ",[sV]-nyunga 'ORIG',-nyunga,ORIG,t_prior_cause,temporal,,,only SS attested,yes,,,,SchultzeBerndt2000_57-58_113-114,"[SB2000]""2-127a"", ""2-128"", ""2-129"""
+sample,JNG,cjxPbo,"external, sV-CVBZ",[sV]-ngunyi/giyag 'ABL',-ngunyi/giyag,ABL,t_prior_cause,spatial + temporal,,,SS,yes,,,,SchultzeBerndt2000_58-59_114,"[SB2000]""2-86"", ""2-130"", ""2-131"""
+sample,JNG,cjxPbo,"external, sV-CVBZ",[sV]-bina 'ALL',-bina,ALL,t_result_purp,spatial + temporal,,,"SS, O=S', OBL=S'",yes,,,,SchultzeBerndt2000_59_112-113,"[SB2000]""2-122"":""2-127"", ""5-123"", ""5-325"", ""5-364"""
+sample,JNG,cjxPbo,"external, sV-CVBZ",[sV]-mindij 'TIME',-mindij,TIME,t_simult_circ,,,,DS,yes,,,,SchultzeBerndt2000_60_114-115,"[SB2000]""2-132"""
+sample,JNG,cjxPbo,external,[V:INFL]-mindij 'TIME',-mindij,TIME,"t_simult_circ, t_prior_cause",,,,DS,,,,,SchultzeBerndt2000_60_114-115,"[SB2000]""2-133"""
+sample,NYM,cjxPbo,"external, converb, post-infl",[V:NMZ]-ngamarra 'cause',-ngamarra,cause,"t_prior_cause, appreh",,,,,yes,,,,Sharp2004_144-145,
+sample,NYM,cjxPbo,"external, converb, post-infl",[V:NMZ]-marninyju 'as',-marninyju,as,t_simult_circ,,,,,yes,,,,Sharp2004_147-148,
+sample,NYM,cjxCla,"right-edge, fluid",[V:INFL/cla]-pa 'CONJ',-pa,CONJ,addit,,,,,,,,,Sharp2004_156-157_386,"""11.51"""
+sample,NYM,int_disc_misc,"tense, mood",[V]:naka 'PRSCFL',:naka,PRSCFL,cond,,,,,,,,,Sharp2004_181-182,"""5.66a"""
+sample,NYM,int_disc_misc,"tense, mood",[V]:nama 'PSTCFL',:nama,PSTCFL,cond,,,,,,,,,Sharp2004_182-183,"""5.58"":""5.59"", ""5.66b"""
+sample,NYM,cjxCla,bound,pukun/pukurl 'also',pukun/pukurl,also,addit,,,(second position),,,,,,Sharp2004_281,"""8.8"":""8.11"""
+sample,NYM,int_disc_misc,,kala 'EMPH',kala,EMPH,"cond, t_prior_cause, t_result_purp",,,,,,,,,Sharp2004_289-290,"""8-54"":""8-56"""
+sample,NYM,cjxPbo,"external, converb, post-infl",[V:NMZ]-ku 'DAT>PURP',-ku,DAT>PURP,t_result_purp,,,,,yes,,,,Sharp2004_373-377,
+sample,NYM,cjxPbo,"external, converb, post-infl",['know'_V:NMZ]-ku 'DAT>PURP',-ku,DAT>PURP,complement,,,['know'_,,yes,,,,Sharp2004_374-375,
+sample,NYM,cjxPbo,"external, converb, post-infl",[V:NMZ]-ja(-ku/nga) 'ABL(-DAT/LOC)',-ja(-ku/nga),ABL(-DAT/LOC),"complement, t_simult_circ, t_prior_cause",,,,"O=S' (DAT), A=DAT' (LOC)",yes,,,,Sharp2004_377-384,
+sample,NYM,pivCase,external,[V:NMZ-ABL]-CCASE,-CCASE,CCASE,reference,,,,pivot case,yes,,,,Sharp2004_382-384,
+sample,NYM,cjxPbo,"external, converb, post-infl",[V:NMZ]-ja(-lu) 'ABL(-ERG)',-ja(-lu),ABL(-ERG),"reference, t_prior_cause",,,,A=S',yes,,,,Sharp2004_383,
+sample,NYM,cjxPbo,"external, converb, post-infl",[V:NMZ]-kanu 'after',-kanu,after,t_prior_cause,,,,,yes,,,,Sharp2004_389-391,
+sample,YGB,int_disc_misc,"N-marking, timeAdverbial",[N|V:NMZ]-gal 'after',-gal,after,t_prior_cause,,,,,,,,,Sharpe2005_40-41_45,
+sample,YGB,int_disc_misc,,[V]:hn 'IMPF',:hn,IMPF,"complement, t_simult_circ, compar_manner",past imperfective,could be nfin?,,,,,,,Sharpe2005_72-73,
+sample,YGB,pivCase,external,[V:INFL]-CCASE,-CCASE,CCASE,reference,,,,pivot case,,,,,Sharpe2005_74,
+sample,YGB,nfin,converb,[V]:nyun/jin 'SYNC1/2',:nyun/jin,SYNC1/2,"complement, t_simult_circ, compar_manner",,,,,,,,,Sharpe2005_74_79,
+sample,YGB,nfin,converb,[V]:na(h) 'ANTC',:na(h),ANTC,"t_prior_cause, reference","temp-prior, cause-phys, cause-motiv, ref-nom, ref-loc",,,,,,,,Sharpe2005_74-75,"[S2005_74]”7”, [_75]”2”,”3”, [_112]”2”:”6”,”8”:”10”, [_113]”3”,”5”, [_114]”3”, [_115]”4b”"
+sample,YGB,nfin,converb,[V:POT/IMM_V]:na(h) 'ANTC',:na(h),ANTC,cond,"cond-ctf, cond-hyp",,,,,,,,Sharpe2005_75_78,"[S2005_75]""4"", [S2005_75]""7"":""8"""
+sample,YGB,nfin,converb,[V]:yah/bih(-gu) 'PURP-GL',:yah/bih(-gu),PURP-GL,t_result_purp,,,,,,,,,Sharpe2005_77-78,
+sample,YGB,cjxPbo,external,[V:IMM_V:IMM/IMPF]-i/je 'PREC',-i/je,PREC,cond,cond-hyp,,,,,,,,Sharpe2005_80-81,"[S2005_80]”6”,”9”, [_81]”1”,”3”,”4”, “8”,”11”, [_114]”7”,”8”"
+sample,YGB,cjxPbo,external,[V:IMM/IMPF]-i/je 'PREC',-i/je,PREC,"t_simult_circ, t_prior_cause, reference","temp-circ, temp-prior, ref-loc",insub:?,,,,,,,Sharpe2005_80-81,"[S2005_80]”2”, ”3”, ”7”, ”10”, [_81]""9"", [_114]”3”, ”6”,10”, [_115]”1”, ”2”, ”4a”, ”5”, ”6”"
+sample,YGB,int_disc_misc,,[V:IMM-PREC]-jahng 'very',-jahng,very,cond,"cond-hyp, iff",,,,,,,,Sharpe2005_81,"[S2005_81]""1"""
+sample,YGB,cjxCla,left-edge,ngeh 'and',ngeh,and,addit,,N-add,,,,,,,Sharpe2005_90-91,"[S2005_91]""1"", ""3"", [_108]""1"""
+sample,YGB,int_disc_misc,N-marking,[X]-nguy 'NEW',-nguy,NEW,addit,,,,,,,,,Sharpe2005_92,
+sample,YGB,int_disc_misc,N-marking,[X]-wa(:)r 'BUT',-wa(:)r,BUT,contr_advers,,,,,,,,,Sharpe2005_92-93,
+sample,WMU,cjxPbo,external,[V:NMZ-CASE]-njVl 'ERG',-njVl,ERG,"reference, compar_manner",,"form is also LOC, < N-time function? ",,SS,yes,,,,Simpson&Heath1993_31-33_82,"""267"", ""277"""
+sample,WMU,int_disc_misc,,[V]:ngari 'IRR',-ngari,IRR,"cond, contr_advers","cond-ctf, advers",past potential/expected/intended,,,,,,,Simpson&Heath1993_54_89,"""318"":""321"""
+sample,WMU,nfin,"converb, post-infl",[V:NMZ]:(k)kV 'DAT',:(k)kV,DAT,t_result_purp,,,,,yes,,,,Simpson&Heath1993_79,"""243"":""248"""
+sample,WMU,nfin,"converb, post-infl",[V:NMZ]:(k)kVwarta 'DESID',:(k)kVwarta,DESID,t_result_purp,,,,,yes,,,,Simpson&Heath1993_79-80,"""249"""
+sample,WMU,nfin,"converb, post-infl",[V:NMZ]-(k)kVna 'DS' [+O-ALL/DS],-(k)kVna,DS,"complement, t_simult_circ",,<ALL,+O-ALL/DS (essential arguments only),DS,yes,,,,Simpson&Heath1993_80-81,"""256"":""261"""
+sample,WMU,nfin,"converb, post-infl",[V:NMZ]-(k)kil 'SS',-(k)kil,SS,t_simult_circ,,<DAT.REFL,,SS,yes,,,,Simpson&Heath1993_80-81,"""250"":""255"""
+sample,WMU,nfin,"converb, post-infl",[V:NMZ]:(k)kajji 'LEST',:(k)kajji,LEST,appreh,,,,,yes,,,,Simpson&Heath1993_81-82,"""262"":""265"""
+sample,WMU,nfin,"converb, post-infl",[V:NMZ]:(k)kipurtu 'PRIV',:(k)kVpurtu,PRIV,compar_manner,privative,,,,yes,,,,Simpson&Heath1993_82,"""266"", ""267"""
+sample,WMU,nfin,"converb, post-infl",[V:NMZ]:ngara 'ABL',:ngara,ABL,t_prior_cause,,,,,yes,,,,Simpson&Heath1993_82,"""268"""
+sample,WMU,nfin,"converb, post-infl",[V:NMZ]:alkki 'ASSOC' [+X-REL],:alkki,ASSOC,t_prior_cause,,>lexical nominalisations,,,yes,,,,Simpson&Heath1993_82-83,"""269"":""274"""
+sample,WMU,nfin,"converb, post-infl",[V:NMZ]:arra 'INTENS',:arra,INTENS,reference,character-NMZ,,,,yes,,,,Simpson&Heath1993_83,"""275"":""278"""
+sample,WMU,int_disc_misc,,[V]:(k)kurn 'ADMON' [+N-LEST],:kurn,ADMON,appreh,,mood,[+N-LEST],,,,,,Simpson&Heath1993_88-89,"""316"":""317"""
+sample,WMU,cjxCla,left-edge,wanja 'but',wanja,but,contr_advers,advers,,,,,,,,Simpson&Heath1993_91_95,"""321"", ""334"", ""363"""
+sample,WMU,cjxCla,"left-edge, bound",(X-)apparra/alapparra 'CIRC.CONJ',(-)apparra/alapparra,CIRC.CONJ,"t_simult_circ, reference, cond, t_prior_cause",,,,,,,,,Simpson&Heath1993_91-93,"""336"":""352"""
+sample,WMU,int_disc_misc,timeAdv,ka(p)pi 'then' [+V:IRR],ka(p)pi,then,t_result_purp,cond-hyp apodosis,"N-conj, 'now', 'soon', 'then', <WAP/Warlmanpa?",[+V:IRR],,,,,,Simpson&Heath1993_95,"""362"""
+sample,WMU,int_disc_misc,timeAdv,"kapp(i) 'and, then, now, soon'",kapp(i),"and, then, now, soon",t_result_purp,,,,,,,,,Simpson&Heath1993_95,"""362"""
+sample,WMU,int_disc_misc,,kaminy(a) 'all.right',kaminy(a),all.right,concess,,"'finished', 'all.right'>'even.though'; one example",,,,,,,Simpson&Heath1993_95,"""361"""
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:rlarni 'OBLCOMP',:rlarni,OBLCOMP,"reference, t_simult_circ",,,,OBL=S',yes,,,,Simpson1983_438-446,"[S1983]""85"", ""50"", ""128"", ""131"", ""136"", "
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:kungarnti(-CCASE) 'PREPAT',:kungarnti,PREPAT,t_result_purp,,,,x,yes,,,,Simpson1983_489-495,
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:kVjaku [(+ADMON.AUX)] 'ADMON',:kVjaku,ADMON,appreh,,< PURP-NEG,,,yes,,,,Simpson1983_489-495_ 35,"[S1983]""39"", ""95b"", ""127"", ""421"", ""448"", [S1991]""114"""
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:warnu 'ASSOC',:warnu,ASSOC,"t_prior_cause, reference",,,,,yes,,,,Simpson1983_501-509,"[S1983]""38a"", ""77"", ""142"", ""170"", ""171"""
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:karra(-ERG) 'SUBJCOMP',:karra,SUBJCOMP,t_simult_circ,,,(ERG),SS,yes,,,,Simpson1988_205-217,
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:kurra[(-CCASE)] 'ALL>OBJCOMP',:kVrra,ALL>OBJCOMP,"reference, t_simult_circ, purpose, complement",,,(CCASE),O=S',yes,,,,Simpson1988_205-217,
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:ku 'DAT>PURP',:ku,DAT>PURP,t_result_purp,,,,x,yes,,,,Simpson1988_211-213,
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:puru 'TEMPCOMP',:puru,TEMPCOMP,t_simult_circ,,,,,yes,,,,Simpson1988_212,"[S1988]""17"", ""155"":""158"""
+sample,WAP,pivCase,external,[V:INFIN:SUBJCOMP/OBJCOMP/PREPAT]-CCASE,-CCASE,CCASE,"reference, t_simult_circ, purpose",,,,pivot case,yes,,,,Simpson1988_214,
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:rla 'SEQ',:rla,SEQ,t_prior_cause,,,,,yes,,,,Simpson1988_510-513,"[S1983]""44"":""46"", ""88"":""89"", ""137"", ""152"":""153"", ""208"", [S1991]""118"""
+sample,WAP,nfin,"converb, post-infl",[V:INFIN]:rlajinta 'COMITCOMP',:rlajinta,COMITCOMP,t_simult_circ,,,,,yes,,,,Simpson1988_510-513,"[S1983]""126"", ""202"":""206"""
+sample,MAW,cjxCla,left-edge,(articles),(articles),(articles),"reference, complement",,,,,,,,,"Singer2006_151-152, Singer2007, Singer2016_44","[S2006]""5-1"":""5-5"""
+sample,MAW,cjxCla,left-edge,ta 'land gender',ta,land gender,"t_simult_circ, compar_manner",,,,,,,,,"Singer2006_152-153_159-161, Singer2016_44-45","[S2006]""5-6"":""5:8"", [S2006]""5-24"""
+sample,MAW,cjxCla,left-edge,tuka 'LOC',tuka,LOC,reference,,,,,,,,,"Singer2006_153-154, Singer2016_45","[S2006]""5-11"":""5-13"""
+sample,MAW,cjxCla,left-edge,[perc_]ta 'land gender',ta,land gender,complement,,,,,,,,,"Singer2006_155-156_159-161, Singer2007","[S2006]""5-19"":""5-21"", [S2006]""5-24"""
+sample,MAW,cjxCla,left-edge,nuyu (ja) 'PURP (MA)',nuyu (ja),PURP (MA),t_result_purp,,,,,,,,,Singer2006_157-158,"[S2006]""5-26"":""5-28"""
+sample,MAW,int_disc_misc,infoStructure,pa 'PARTICLE.SEQ',pa,PARTICLE.SEQ,t_result_purp,,,,,,,,,"Singer2006_157, Singer2016","[S2006]""5-25"", [S2016]""15"", [S2016]""41"", [S2016]""45"", [S2016]""157"", [S2016]""160"""
+sample,MAW,int_disc_misc,phoric,kapin 'like',kapin,like,reference,,,,,,,,,Singer2006_85-87,"""T2-65"""
+sample,MAW,int_disc_misc,infoStructure,malany 'because/well/so/then',malany,because/well/so/then,"t_prior_cause, t_result_purp",,,,,,,,,Singer2006_91-92,"""20"", ""T1-6"", ""T1-41"""
+sample,MAW,int_disc_misc,infoStructure,makiny (la) 'so',makiny (la),so,t_result_purp,,,,,,,,,Singer2006_91-92,"""T1-49"", ""T1-62"""
+sample,MAW,int_disc_misc,infoStructure,la 'CONJ',la,CONJ,"t_result_purp, addit, contr_advers",,,,,,,,,Singer2006_91-92,"""126"", ""132"", ""135"", ""172"", ""T1-5"", ""T1-14:18"""
+sample,MAW,int_disc_misc,"mood, attitude",marnti 'lest' [_V:IRR1],marnti,lest,"cond, appreh",,,,,,,,,"Singer2006_X, Singer2016_X","[S2006]""6-6"", ""7-36"", [S2016]""56"", [S2016]""111"""
+sample,MAW,cjxCla,left-edge,nungpaka 'DEM',nungpaka,DEM,t_result_purp,,,,,,,,,"Singer2016_33, Capell&Hinch1970_102","[C&H1970_102]""12"""
+sample,UNG,cjxCla,left-edge,wana 'if',wana,if,cond,,epistemic,,,,,,,Spronck2015_106-107,
+sample,UNG,int_disc_misc,,maji 'in case',maji,in case,appreh,,,,,,,,,Spronck2015_142-143,
+sample,UNG,int_disc_misc,,di(-yu) 'then/after/nw-ANAPH(-LAT)',di(-yu),then/after/nw-ANAPH(-LAT),t_result_purp,,,,,,,,,Spronck2015_178,
+sample,UNG,int_disc_misc,,a/ya 'and',a/ya,and,addit,,,,,,,,,Spronck2015_38_177,
+sample,WTS,cjxCla,left-edge,matha 'until',matha,until,t_result_purp,endpoint,< 'only',,,,,,,"Stirling2012_163, Mitchell2015_421","""3"""
+sample,JAR,cjxCla,left-edge,nyangga [+V:POT/IRR],nyangga,nyangga,cond,cond-ctf,,[+V:POT/IRR],,,,,,Tsunoda1981_163-165,"""266"", ""268"":""274"""
+sample,JAR,cjxCla,left-edge,nyangga,nyangga,nyangga,"cond, t_simult_circ","cond-hyp, temp-circ",,,,,,,,Tsunoda1981_163-165,"""266"":""274"""
+sample,JAR,cjxCla,left-edge,guwa/guja,guwa/guja,guwa/guja,"reference, complement, t_simult_circ, t_prior_cause, t_result_purp",,,,,,,,,Tsunoda1981_165-171,"""276"":""287"", ""297"""
+sample,JAR,int_disc_misc,,[V]:gu/gura 'PURP/HORT',:gu/gura,PURP/HORT,t_result_purp,,,,,,,,,Tsunoda1981_171-172,"""289"":""293"""
+sample,JAR,cjxPbo,"external, sV-CVBZ",[V:VBD/sV]-ngga 'LOC',-ngga,LOC,t_simult_circ,,,,O=A'/S',yes,,,,Tsunoda1981_172-174,"""296"", ""299"", ""302"", ""304', ""306"", ""324"""
+sample,JAR,nfin,sV-CVBZ,[V]:u 'verbid',:u,verbid,"t_simult_circ, compar_manner",,,,,yes,,,,Tsunoda1981_172-176,"""317"":""318"""
+sample,JAR,cjxPbo,"external, sV-CVBZ",[V:VBD/sV]-nggawu 'ALL',-nggawu,ALL,"t_simult_circ, t_result_purp",,,,"SS, O=S', LOC=S'",yes,,,,Tsunoda1981_174-175,"""307"", ""308"", ""327"""
+sample,JAR,cjxPbo,"external, sV-CVBZ",[V:VBD/sV]-wu/wura 'DAT1/2',-wu/wura,DAT1/2,t_result_purp,,,,SS/O=S',yes,,,,Tsunoda1981_175-176,"""309"":""315"""
+sample,JAR,nfin,sV-CVBZ,[V]:u[-CASE] 'verbid',:u,verbid,complement,,,[-CASE],,yes,,,,Tsunoda1981_175-176,"""299"", ""302"""
+sample,JAR,int_disc_misc,"mood, attitude",ngara 'possibly' [+V:POT/PURP],ngara,possibly,appreh,,,[+V:POT/PURP],,,,,,Tsunoda1981_204-205,"""423"":""425"", ""T2-12"""
+sample,JAR,int_disc_misc,,gulanga 'as though',gulanga,as though,contr_advers,,,,,,,,,Tsunoda1981_206,"""434"""
+sample,JAR,int_disc_misc,,ngandu 'in fact',ngandu,in fact,contr_advers,,,,,,,,,Tsunoda1981_206-207,"""434"""
+sample,JAR,cjxPbo,"external, sV-CVBZ",[V:VBD/sV]-nyunga 'FROM',-nyunga,FROM,t_prior_cause,,,,"SS, A=O'",yes,,,,Tsunoda1981_224,"""455"", ""496"""
+sample,JAR,cjxPbo,"external, sV-CVBZ",[V:VBD/sV]-mulunga 'WITHOUT',-mulunga,WITHOUT,compar_manner,privative,,,?,yes,,,,Tsunoda1981_225,"""501"""
+sample,JAR,cjxPbo,"external, sV-CVBZ",[V:VBD/sV]-wara/g 'PREDICATIVE',-warha/g,PREDICATIVE,"t_result_purp, compar_manner",resultative / secondary predicate / adjunctive,,,,yes,,,,Tsunoda1991_119-124,"""113"":""133"""
+sample,WAO,nfin,converb,[V]:lgo/yal 'PURP1/2',:lgo/yal,PURP1/2,"cond, t_result_purp",,,,,,,,,Tsunoda2012_288-297_412-426,
+sample,WAO,cjxPbo,external,[V:NF]-ngomay[(-CCASE)] 'SUB',-ngomay,SUB,reference,,,(CCASE),pivot case,,,,,Tsunoda2012_506-513,
+sample,WAO,cjxPbo,external,[V:NF]-ngomay 'after/SUB',-ngomay,SUB,"cond, t_prior_cause",,,,,,,,,Tsunoda2012_506-513,
+sample,WAO,nfin,converb,[V]:nyo/nji/njirra 'PTCP1/2/3',:nyo/nji/njirra,PTCP1/2/3,"reference, complement, t_simult_circ, cond, t_prior_cause",,,,,,,,,Tsunoda2012_602-613,
+sample,WAO,nfin,converb,[V]:ngo[-CCASE] 'ADNOM',:ngo,ADNOM,reference,,,CCASE,pivot case,,,,,Tsunoda2012_613-614,"""4-707"":""4-708"""
+sample,WAO,int_disc_misc,"mood, attitude",[V]:lgo 'APPR',:lgo,APPR,appreh,,,,,,,,,Tsunoda2012_614-618,
+periph,WMK,cjxCla,,puth 'CONJ',puth,,"t_prior_cause, seq, contr_advers",,,,,,,,,Ray2015,
+periph,WMK,cjxCla,,[X]-an 'DEF',-an,,"reference, t_simult_circ",,,,,,,,,Ray2015,
+periph,WMK,cjxCla,,yipam 'so that',yipam,,t_result_purp,,,,,,,,,Ray2015,
+periph,WMK,cjxPbo,,[V:NF]-am 'ABL',-am,,t_prior_cause,,,,,,,,,Ray2015,
+periph,WMK,cjxPbo,,-ak 'ALL',-ak,,t_result_purp,,,,,,,,,Ray2015,
+periph,WMK,nfin,,[V]:SBJV,SBJV',,"cond, t_result_purp",,,,,,,,,Ray2015,
+periph,WMK,nfin,,[V]:an[-CASE] 'NF',:an,,reference,,,,,,,,,Ray2015,
+sample,WAO,int_disc_misc,mood,[V]:ya 'IMPER',:ya,IMPER,cond,,,,,,,,,Tsunoda2012_632-633,"""4-767"""
+sample,UPU,cjxPbo,"external, converb, post-infl",[V:SUB]-mun 'ABL',-mun,ABL,"complement, t_prior_cause",,,,,yes,,,,Verstraete2010_454-455,
+sample,UPU,nfin,converb,[V]:na 'SUB',:na,SUB,"reference, t_simult_circ",,aspect with posture verbs,,,yes,,,,Verstraete2010_454-456,"""7"":""11"""
+sample,UPU,int_disc_misc,mood,[V]:ku 'POT',:ku,POT,"cond, t_result_purp, appreh",,,,,,,,,Verstraete2010_457-458,
+sample,UPU,int_disc_misc,"mood, attitude",atya 'APPR' [+V:POT],atya,APPR,appreh,,,[+V:POT],,,,,,Verstraete2010_461,
+sample,UPU,int_disc_misc,N-marking,[N]-mpal 'ERG',-mpal,ERG,t_result_purp,,,,,,,,,Verstraete2010_462-466,
+sample,MUP,int_disc_misc,,ma 'but',ma,but,contr_advers,,"interjection ""oh!""",,,,,,,Walsh1976_136,"[N&C2012]""105"""
+sample,MUP,cjxCla,right-edge,ngatha 'if',ngatha,if,cond,,nominals ,,,,,,,"Walsh1976_197_247-248, Mansfield2019_185_186","[W1976]""217""_""267""_""278"", [N&C2012]""104"", [M2019]""5-77"""
+sample,MUP,int_disc_misc,,-nukun 'LEST',-nukun,LEST,appreh,,mod-epist,,,,,,,Walsh1976_215-217,"[W1976]""217"""
+sample,MUP,int_disc_misc,,i/yi 'and',i/yi,and,"addit, t_result_purp",,nominal coord,,,,,,,Walsh1976_244-245,"[W1976]""258"", [N&C2012]""28""_""74b"""
+sample,MUP,cjxCla,right-edge,yirda 'because',yirda,because,t_prior_cause,,"(one example, not in modern descriptions)",,,,,,,Walsh1976_248,"[W1976]""268"""
+sample,MUP,int_disc_misc,,=warda 'SEQ',=wardu,SEQ,t_result_purp,,"""nearly"", ""now"", ""soon"", ""INCH""",,,,,,,"Walsh1976_248-250, Mansfield2019_185",
+sample,DJN,cjxCla,"bound, free",[(X-)]bila(ng)/bilak 'FRAME',bila(ng)/bilak,FRAME,"cond, t_simult_circ, complement",comp-whether,,,,,,,,Waters1989_102,"""23"", ""50"", ""77"", ""190"":""193"", ""268"", ""287"", ""315"", ""T1-87"""
+sample,DJN,int_disc_misc,,miri/midhi 'like',miri/midhi,like,t_result_purp,result-justif,,,,,,,,Waters1989_155-156,"""175"", ""216"", ""295"""
+sample,DJN,int_disc_misc,,marri 'must.be',marri,must.be,t_result_purp,result-justif,?mod-epist,,,,,,,Waters1989_156,"""18"", ""168"", ""191b"", ""285"""
+sample,DJN,cjxCla,left-edge,a 'and',a,and,"addit, t_result_purp",temp-future,,,,,,,,Waters1989_157,"""327"", ""343b"""
+sample,DJN,int_disc_misc,,ga 'and',ga,and,t_result_purp,temp-future,<Dhuwal,,,,,,,Waters1989_157,"""19"", ""98b"""
+sample,DJN,int_disc_misc,,birt[_bil] 'seemingly',birt,seemingly,contr_advers,contrast-advers,,,,,,,,Waters1989_157_205,"""169"", ""297"""
+periph,WMY,nfin,,[V]:gu 'PURP',:gu,,"complement, t_result_purp",,,,,,,,,Dixon1981,
+periph,WMY,nfin,,[V]:nyu 'PURP',:nyu,,"reference, complement",,,,,,,,,Dixon1981,
+sample,DJN,cjxCla,left-edge,bil 'but',bil,but,contr_advers,contrast-advers,,,,,,,,Waters1989_158,"""264"""
+sample,DJN,cjxCla,left-edge,marrga 'so.that',marrga,so.that,t_result_purp,,"""therefore"" (free)",,,,,,,Waters1989_158,"""9"", ""205"""
+sample,DJN,int_disc_misc,,ban 'on.the.one/other.hand',ban,on.the.one/other.hand,contr_advers,,,,,,,,,Waters1989_158_214,"""18"", ""109"", ""306"""
+sample,DJN,int_disc_misc,,[X]-ban 'temporal focus',-ban,temporal focus,t_simult_circ,,,,,,,,,Waters1989_160-165,"""97"", ""99"", ""216"", ""297"""
+sample,DJN,cjxCla,left-edge,gim(a) 'because',gim(a),because,t_prior_cause,,(N-)gima: emphasis,,,,,,,Waters1989_205,"""96"", ""277"""
+sample,DJN,indepCla,,[V:IRR/NMZ]-kinhing 'PROP',-kinhing,PROP,nominalisation,,(one example),,,,,marginal,,Waters1989_41,"""16"""
+sample,DJN,cjxPbo,"external, converb, post-infl",[V:IRR/NMZ]-gi 'DAT',-gi,DAT,t_result_purp,,,,,,,,,Waters1989_66-67,"""98a"", ""99"", ""T24-117"""
+sample,DJN,cjxPbo,"external, converb, post-infl",[V:IRR/NMZ]-li 'ALL',-li,ALL,t_result_purp,,,,,,,,,Waters1989_68,"""103"":""105"""
+sample,DJN,cjxPbo,"external, converb, post-infl",[V:IRR/NMZ]-bi 'OR',-bi,ORIG,"t_prior_cause, reference",,,,,,,,,Waters1989_78_101,"""139"", ""189"""
+sample,MPA,int_disc_misc,,nhenge 'REMEMB',nhenge,REMEMB,t_simult_circ,,,,,,,,,Wilkins1989_121-122,
+sample,MPA,indepCla,,[V]:(n)tye[-SFX] 'NMZ',:(n)tye,NMZ,,,true nominaliser,,,,,no,,Wilkins1989_138-139,"""3-48"":""3-52"""
+sample,MPA,cjxPbo,"external, converb, post-infl",[V:PURP]-kerte 'PROP',-kerte,PROP,t_result_purp,"bound, int-endpoint",,,,,,,,Wilkins1989_197,"""4-75"""
+sample,MPA,cjxPbo,"external, converb, post-infl",[V:INFL-SS|V:NMZ]-iperre/ipenhe 'AFTER',-iperre/ipenhe,AFTER,t_prior_cause,,,,,,,,,Wilkins1989_205-210,"""5-21"""
+sample,MPA,cjxCla,"external, bound, fluid",[X/N/V:INFL]-rle 'REL' [+X-CASE],-rle,REL,reference,,?,[+X-CASE],,,,,,Wilkins1989_231-232_354-355_414-431,
+sample,MPA,int_disc_misc,,[V]:mere 'HYP',:mere,HYP,cond,,"dynamic, epistemic",,,,,,,Wilkins1989_233-234,"""34"", ""35"""
+sample,MPA,nfin,converb,[V]:tyeke 'PURP',:tyeke,PURP,t_result_purp,"comp-purpose, ...","mod-deontic, hortative, intentional, future predictions (insub)",,,,,,,Wilkins1989_236-237,"""5-37"":""5-41"", ""10-46"":""10-49"""
+sample,MPA,int_disc_misc,,[X]-ante 'ONLY' [+V:PURP],-ante,ONLY,t_result_purp,int-endpoint,,,,,,,,Wilkins1989_237,"""5-41"""
+sample,MPA,nfin,converb,[V]:eyemenge 'HOPE',:eyemenge,HOPE,t_result_purp,past intentional,desid (insub),,,,,,,Wilkins1989_238,"""5-42"", ""5-43"""
+sample,MPA,int_disc_misc,mood,[V:SBSQNT_V]:eye 'PERMISS',:eye,PERMISS,cond,,deontic,,,,,,,Wilkins1989_239,"""5-44"""
+sample,MPA,nfin,converb,[V]:tyenhenge 'SBSQNT',:tyenhenge,SBSQNT,t_result_purp,,"set expression ""goodbye"" (insub)",,,,,,,Wilkins1989_239-240,"""5-44"", ""5-45"""
+sample,MPA,nfin,converb,[V]:ketye(-nge) 'AVER(-ABL)',:ketye(-nge),AVER(-ABL),appreh,"avert, incase",neg-imper (EL: insub),,,,,,,Wilkins1989_240-242,"""5-46"":""5-49"""
+sample,MPA,cjxPbo,"external, converb, post-infl",[V:NMZ]-l-ureke 'LOC-during',-l-ureke,LOC-during,t_simult_circ,,,,,,,,,Wilkins1989_330-331,"""7-60"", ""7-61"""
+sample,MPA,cjxCla,"fluid, bound, free, external",[X/V:INFL]-warte 'SINCE',-warte,SINCE,t_prior_cause,,,,,,,,,Wilkins1989_348-349,"""8-3"""
+sample,MPA,int_disc_misc,mood,(a)peke 'maybe',(a)peke,maybe,"disjunct, cond",,mod-epist,,,,,,,Wilkins1989_361-362,"""37"", ""5-35"", ""8-36"""
+sample,MPA,int_disc_misc,,kele 'O.K.',kele,O.K.,t_result_purp,,,,,,,,,Wilkins1989_365-366,
+sample,MPA,int_disc_misc,,wale 'well',wale,well,t_result_purp,,,,,,,,,Wilkins1989_366,
+sample,MPA,int_disc_misc,timeAdverbial,imerte 'then',imerte,then,t_result_purp,,,,,,,,,Wilkins1989_366-367,
+sample,MPA,int_disc_misc,timeAdverbial,anteme 'now',anteme,now,t_result_purp,,,,,,,,,Wilkins1989_367,
+sample,MPA,cjxCla,right-edge,ante/ane 'and',ante/ane,and,addit,,,,,,,,,Wilkins1989_368-369,
+sample,MPA,int_disc_misc,,kenhe 'BUT',kenhe,BUT,contr_advers,,,,,,,,,Wilkins1989_372-373,
+sample,MPA,cjxPbo,"external, converb, post-infl",[V:NMZ|V:INFL]-ke 'DAT',-ke,DAT,"t_result_purp, complement",jussive/speech complements,,,,,,,,Wilkins1989_373,"""4-41"", ""8-52"""
+sample,MPA,cjxCla,free,perre 'THOUGH',perre,THOUGH,concess,,,,,,,,,Wilkins1989_373,"""8-23b"", ""8-52a"":""8-52b"""
+sample,MPA,cjxCla,right-edge,athathe 'before' [+V:AVER] ,athathe,before,appreh,,,[+V:AVER],,,,,,Wilkins1989_373-374,"""8.53a"":""8.53c"""
+sample,MPA,int_disc_misc,N-marking,[N]-itanye 'DESPITE',-itanye,DESPITE,concess,,,,,,,,,Wilkins1989_388-390,
+sample,MPA,cjxCla,"fluid, bound, external",['know'/'see'/'tell'_X/N/V:INFL]-rle 'REL',-rle,REL,complement,,?,,,,,,,Wilkins1989_452-453,
+sample,MPA,cjxPbo,external,[V(:INFL)]-rlenge/-rleke 'DS',-rlenge/-rleke,DS,"complement, t_simult_circ, t_prior_cause",,<REL+DAT/ABL,,DS,,,,,Wilkins1989_458-487,
+sample,MPA,cjxPbo,external,[V:INFL]-le 'SS',-le,SS,"t_simult_circ, t_prior_cause, t_result_purp",,<LOC/ERG,,SS,,,,,Wilkins1989_458-487,
+sample,MPA,nfin,converb,[V]:me.le 'MANNER/SERIAL',:me.le,MANNER/SERIAL,"compar_manner, t_result_purp",,,,SS,,,,,Wilkins1989_474-476,"""11-24"":""11-29"", ""11-30"":""11-31"""
+sample,DJM,cjxPbo,"external, converb, post-infl",[V:4th]-ngur 'LOC' [+O-OBL],-ngur[2],LOC,compar_manner,,,[+O-OBL],,,,,,Wilkinson1991_132-133_637-638,
+sample,DJM,cjxPbo,"external, converb, post-infl",[perc_V:4th]-lil 'ALL',-lil,ALL,complement,,,[perc_,"SS, A=S', no DS",,,,,Wilkinson1991_132-133_639,
+sample,DJM,cjxCla,left-edge,bili 'because',bili/linygu/linggu,because,t_prior_cause,,"completive, same, similar, iterative, durative, always",,,,,,,Wilkinson1991_293-296_367-368_668-669,"""949"":""952"""
+sample,DJM,int_disc_misc,,ga 'and',ga,and,addit,,,,,,,,,Wilkinson1991_347-352_667-668,"""918"", ""947"""
+sample,DJM,int_disc_misc,"aspect, mood",nguli 'HAB/HYP' [+FUT] [+V:1st|2nd|4th],nguli,HAB/HYP,cond,,"aspect-habitual, mod-hypo",[+FUT] [+V:1st/2nd/4th],,,,,,Wilkinson1991_351-353_667-668,"""229"":""235"", ""245"", ""918"", ""947"", ""976"", ""1013"", ""1022"""
+sample,DJM,cjxPbo,"external, converb, post-infl",[V:4th]-wuy/puy 'ASS',-wuy/-puy,ASS,reference,,nominalisation,,,,,,,Wilkinson1991_464-475,"""288"", ""485"":""516"""
+sample,DJM,cjxPbo,"external, converb, post-infl","[V:4th]-y 'ERG' [+S-OBL, +O-ERG]",-y,ERG,"compar_manner, t_prior_cause",,,"[+S-OBL, +O-ERG]",,,,,,Wilkinson1991_634-635,
+sample,DJM,cjxPbo,"external, converb, post-infl",[V:4th]-ngur 'ABL' [+O-OBL],-ngur[1],ABL,t_prior_cause,,,[+O-OBL],,,,,,Wilkinson1991_636,
+sample,DJM,cjxPbo,"external, converb, post-infl",[V:4th]-lil 'ALL',-lil,ALL,t_result_purp,,,,,,,,,Wilkinson1991_639,
+sample,DJM,cjxPbo,"external, converb, post-infl",[V:4th]-wurr/kurr 'PERL',-wurr/kurr,PERL,"t_simult_circ, compar_manner",,,,,,,,,Wilkinson1991_640-641,
+sample,DJM,cjxPbo,"external, converb, post-infl",[desid/cog/info/'say'_V:4th]-w 'DAT',-w,DAT,complement,,,[desid/cog/info/'say'_,,,,,,Wilkinson1991_642-647,
+sample,DJM,cjxPbo,"external, converb, post-infl",[V:4th]-w 'DAT',-w,DAT,t_result_purp,,,,,,,,,Wilkinson1991_647-651,
+sample,DJM,cjxCla,left-edge,ngunhi 'SUB',ngunhi,SUB,"reference, complement, t_simult_circ, cond",,,,,,,,,Wilkinson1991_656-659,"""912"":""919"", ""925"""
+sample,DJM,cjxCla,left-edge,(interrogatives/indefinites),(interrogatives/indefinites),(interrogatives/indefinites),reference,,,,,,,,,Wilkinson1991_659-661_661-666,"""920"":""925"", ""926"":""946"""
+sample,DJM,cjxCla,left-edge,[utter/cog/desid_](interrogatives/indefinites),(interrogatives/indefinites),(interrogatives/indefinites),complement,,,,,,,,,Wilkinson1991_661-666,"""926"":""946"""
+sample,DJM,cjxCla,left-edge,marr(ga) 'so that',marr(ga),so that,t_result_purp,,,,,,,,,Wilkinson1991_668,"""948"", ""267"", ""237"", ""288"", ""610"", ""983"""
+sample,DJM,cjxCla,left-edge,baay(nha) 'until/once',baay(nha),until/once,"t_simult_circ, t_result_purp",endpoint,,,,,,,,Wilkinson1991_669-670,"""953"":""955"""
+sample,DJM,cjxCla,left-edge,baay(nha) [+IRR/HAB] 'until/once',baay(nha),until/once,appreh,,,[+IRR/HAB],,,,,,Wilkinson1991_670-671,"""956"", ""957"""
+sample,DJM,int_disc_misc,,yurr 'but/AND',yurr,but/AND,"addit, contr_advers",,,,,,,,,Wilkinson1991_672,"""960"":""962"""
+sample,DJM,int_disc_misc,timeAdverbial,yurr(nha) 'and.then',yurr(nha),and.then,t_result_purp,,,,,,,,,Wilkinson1991_672-674,"""963"":""969"""
+sample,DJM,cjxCla,right-edge,warray 'indeed',warray,indeed,"contr_advers, concess",,,,,,,,,Wilkinson1991_687-688,"""1009"":""1011"""
+sample,DJM,cjxCla,left-edge,yurr 'AND' [_warray 'indeed'],yurr,AND,concess,,,,,,,,,Wilkinson1991_688,"""1011"""
+sample,DJM,int_disc_misc,mood,mak 'perhaps/maybe',mak,perhaps/maybe,disjunct,,mod-epist,,,,,,,Wilkinson1991_688-689_692-693,"""1013"":""1017"", ""1029"""
+sample,DJM,int_disc_misc,timeAdverbial,bala 'then',bala,then,t_result_purp,,,,,,,,,Wilkinson1991_692,"""1027"", ""1028"""
+sample,DJM,cjxCla,left-edge,mak [+DEM] 'perhaps/maybe',mak,perhaps/maybe,disjunct,,mod-epist,[+DEM],,,,,,Wilkinson1991_693,"""1030"":""1031"""
+sample,DJM,cjxCla,left-edge,wo 'or',wo,or,disjunct,,< Eng ?,,,,,,,Wilkinson1991_694,"""1032"":""1034"""
+sample,DJM,cjxCla,left-edge,ngany(dja) 'actually',ngany(dja),actually,contr_advers,,,,,,,,,Wilkinson1991_694-696,"""1035"":""1038"""
+sample,DJM,cjxCla,left-edge,nhakun 'like/as if',nhakun,like/as if,compar_manner,,,,,,,,,Wilkinson1991_714-715,"""1106"""
+sample,DJM,int_disc_misc,timeAdverbial,[X]-NHa 'SEQ',-NHa,SEQ,t_result_purp,,,,,,,,,Wilkinson1991_92-93,
+sample,WAG,int_disc_misc,infoStructure,[X]-di 'contrastive.topic',-di,contrastive.topic,contr_advers,,,,,,,,,Wilson1999_16,"[W1999]""15"""
+sample,WAG,int_disc_misc,,[X]-nyamu 'also',-nyamu,also,addit,,,,,,,,,Wilson1999_16,"[W1999]""16"""
+sample,WAG,nfin,sV-RECO,[sV]-ma 'UNM/NPFV',-ma,ASP/UNM/NPFV,"t_simult_circ, compar_manner",,,,,yes,,,,Wilson2006_66-68,"[W2006]""142"", ""148"":""150"""
+sample,WAP,indepCla,,"AUX(-SUBJ/OBJ/DAT), V:INFL",,,,,,,,,clitic,yes,,,
+sample,ARW,indepCla,,V(...)-TNS,,,,,,,,,,no,,,
+sample,BGB,indepCla,,"(X), V-INFL",,,,,,,,,,no,,,
+sample,BKW,indepCla,,SUBJ+OBJ-V-TAM,,,,,,,,,head,no,,,
+sample,BLN,indepCla,,"X-PRO, V-TMA, (sV(-CASE))",,,,,,,,,clitic,yes,,,
+sample,BTJ,indepCla,,"sV(-CASE), PRO+MOD-(...-)V(-...ASP...)",,,,,,,,,aux,yes,,,
+sample,DAL,indepCla,,MOD+OBJ+SUBJ-V-TAM,,,,,,,,,head,marginal,,,
+sample,DAL,indepCla,,OBJ+SUBJ-REAL-V-TAM,,,,,,,,,head,marginal,,,
+sample,DHG,indepCla,,V-TAM,,,,,,,,,,no,,,
+sample,DIY,indepCla,[Diyeri],"V-NFIN, AUX-INFL",,,,,,,,,,yes,,,
+sample,DIY,indepCla,[Diyeri],"V(...)-INFL, (AUX)",,,,,,,,,,yes,,,
+sample,DIY,indepCla,[Thirrari],"V(...)-PTCP-INFL, (AUX)",,,,,,,,,,yes,,,
+sample,DJM,indepCla,,(PART)_V-INFL,,,,,,,,,,no,,,
+sample,DJN,indepCla,,PRO_V-INFL(_AUX-INFL),,,,,,,,,,marginal,,,
+sample,DUU,indepCla,,V(-DERIV)-INFL(...),,,,,,,,,,no,,,
+sample,DYB,indepCla,,V(-...)-TNS,,,,,,,,,,no,,,
+sample,EMM,indepCla,,(sV-)PRO+AUX:STAT(-...)(-sV)(-...PROPOS),,,,,,,,,aux,yes,,,
+sample,GAA,indepCla,,V,,,"mod-imper, pos",,,,,,head,marginal,,,
+sample,GAA,indepCla,,PRO+DIR+TM-{sV+AUX/V}-INFL,,,mod-indic,,simple/compound,,,,head,marginal,,,
+sample,GAA,indepCla,,"PRO+DIR+TM-AUX-INFL, sV",,,mod-indic,,phrasal verb,,,,head,marginal,,,
+sample,GGL,indepCla,,"X-PRO+TRVY+TM, V:INFL",,,,,,,,,clitic,no,,,
+sample,GND,indepCla,,sV-(ASP-)(MOOD-)V+PRO+TNS(-MODE),,,,,,,,,head,similar,,,
+sample,GUB,indepCla,,V-INFL,,,,,,,,,,no,,,
+sample,GUG,indepCla,,PRO+TRVY+MOOD-(...-)V(-...)-TNS/STATUS(...),,,,,,,,,head,no,,,
+sample,GWA,indepCla,,"V(-STEM.AFF)(-WORD.AFF), X-TA, (PRO)",,,,,,,,,"clitic, but",no,,,
+sample,IWA,indepCla,,PRO+STAT(+DIRECT)-V-INFL,,,,,,,,,head,marginal,,,
+sample,JAR,indepCla,,"X-PRO, (V:VBD/sV), V:INFL",,,,,,,,,aux,yes,,,
+sample,JLU,indepCla,complex verb,,,,,,,,,,aux,yes,,,
+sample,JNG,indepCla,complex verb,sV_V:INFL(_sV),,,mod-indic,,,,,,aux,yes,,,
+sample,KAM,indepCla,,sV(-PROM),,,mod-imper,,,,,,aux,yes,,,
+sample,KAM,indepCla,,NEG_NF-sV-PRIV-AUX(...),,,"mod-imper, neg",,,,,,aux,yes,,,
+sample,KAM,indepCla,,sV(:IPFV)-(...-)AUX+PRO+TAM(-...),,,,,,,,,aux,yes,,,
+sample,KKT,indepCla,,V(-...)-INFL,,,,,,,,,,no,,,
+sample,KRL,indepCla,,"S_V(-TR), (TAM)",,,,,,,,,,no,,,
+sample,KTH,indepCla,,V(-...)-INFL,,,,,,,,,,yes,,,
+sample,KYD,indepCla,,V(-...)-INFL,,,,,,,,,,no,,,
+sample,KYJ,indepCla,,V(+COJG):INFL,,,,,,,,,,no,,,
+sample,LML,indepCla,,PRO+MOD-V-TAM(-...),,,,,,,,,aux,no,,,
+sample,MAK,indepCla,,(sV_)PRO:AUX:TAM,,,,,,,,,aux,yes,,,
+sample,MAR,indepCla,,(sV_)PRO-V-TAM,,,,,,,,,head,yes,,,
+sample,MAW,indepCla,,PRO.TNS-V-TAM,,,,,,,,,head,marginal,,,
+sample,MAY,indepCla,,V-INFL,,,,,,,,,,no,,,
+sample,MIY,indepCla,,,,,,,,,,,aux,yes,,,
+sample,MPA,indepCla,,V-TAM,,,,,,,,,,no,,,
+sample,MRW,indepCla,,(sV_)PRO-V-TAM,,,,,,,,,aux,yes,,,
+sample,MTH,indepCla,,V-INFL,,,,,,,,,,no,,,
+sample,MUP,indepCla,,CLASS+SUJ+TAM1-(V)(-TAM2),,,,,,,,,aux,yes,,,
+sample,MUW,indepCla,,V(:DERIV)(-REALIS)(-VOI)(-T+A/M)(-REAL)(-PRO)(-…),,,,,,,,,"clitic, but",no,,,
+sample,MYI,indepCla,,(sV)_PRO-V-TAM,,,,,,,,,head,yes,,,
+sample,NDJ,indepCla,,PRO(+IMPER)-(STAT-)(AVS-)(...)V-TAM(...),,,,,,,,,head,no,,,
+sample,NGG,indepCla,,V,,,"mod-imper, pos",,,,,,aux,yes,,,
+sample,NGG,indepCla,,PRO+AUX+TAM-V(-TNS)(-PRO+AUX+TAM),,,,,,,,,aux,yes,,,
+sample,NGI,indepCla,,"X-PRO, V(:ANTIPASS)-INFL",,,,,,,,,clitic,no,,,
+sample,NGM,indepCla,,V(...):INFL(...),,,,,,,,,,no,,,
+sample,NGY,indepCla,,"X-PRO, V(…)-TMA",,,,,,,,,clitic,no,,,
+sample,NHD,indepCla,,"(X-SUBJ), V(:DERIV)-TAM-OBJ/OBL(-COLL)",,,,,,,,,"clitic, but",no,,,
+sample,NYL,indepCla,,"(sV), NOM(-TNS/MOOD)(...)(-CJG)(-TNS)(...)-V(-TNS/ASP)(...)(-ACC/OBL)",,,,,,,,,head,yes,,,
+sample,NYM,indepCla,,V:INFL-PRO,,,,,,,,,clitic,no,,,
+sample,PAK,indepCla,,"V(:INFL), X-PRO",,,,,,,,,clitic,no,,,
+sample,SOC,indepCla,,V-INFL-PRO,,,,,,,,,clitic,no,,,
+sample,TIW,indepCla,,(sV)_PRO:TNS-(...)-V,,,,,,,,,head,marginal,,,
+sample,UNG,indepCla,,(sV-INFL)_OBJ+SUBJ-(FUT/IRR-)(…)V(…)-T/M(…)(-CONT)(…)(-IOBJ),,,,,,,,,aux,yes,,,
+sample,UPU,indepCla,,"V:INFL, X-PRO",,,,,,,,,clitic,no,,,
+sample,URI,indepCla,,"V:INFL, ?PRO",,,,,,,,,,no,,,
+sample,WAG,indepCla,,"PRO+TAM-V-INFL(-…), (sV-PTCP)",,,,,,,,,aux,yes,,,
+sample,WAI,indepCla,,V-INFL,,,,,,,,,,no,,,
+sample,WAO,indepCla,,V-INFL,,,,,,,,,,no,,,
+sample,WAY,indepCla,,PRO-(...)-V(-AUX)(-...)-TAM(-...),,,,,,,,,head,no,,,
+sample,WBY,indepCla,,(sV(-INFL))_PRO-TAM,,,,,,,,,aux,yes,,,
+sample,WGA,indepCla,,X-PRO_V-INFL,,,,,,,,,clitic,no,,,
+sample,WIR,indepCla,,V(-ASP*)(-VOI)-TM,,,,,,,,,,no,,,
+sample,WKJ,indepCla,,"X-PRO, V:INFL",,,,,,,,,clitic,no,,,
+sample,WMU,indepCla,,"X-PRO/..., V:INFL(-PRO)",,,,,,,,,clitic,yes,,,
+sample,WOA,indepCla,,,,,,,,,,,aux,yes,,,
+sample,WRD,indepCla,,"sV-ASP, PRO(+IRR)-V-INFL",,,,,,,,,aux,yes,,,
+sample,WTS,indepCla,,"X, V-INFIN(-NEG)-PRED",,,,,,,,,,no,,,
+sample,WTS,indepCla,,"X, V-TAM",,,,,,,,,,no,,,
+sample,YAW,indepCla,,sV-INFL_SBJ+IRR/N/FUT-...-V(-RR)(-I/PFV),,,,,,,,,aux,yes,,,
+sample,YGB,indepCla,,V:INFL*,,,,,,,,,,no,,,
+sample,YNY,indepCla,,V(-COJG)(+DERIV)-COJG:INFL,,,,,,,,,,no,,,
+sample,YTJ,indepCla,,V(...)-TAM,,,,,,,,,,no,,,
+sample,YWA,indepCla,,PRO-V-IMPER,,,mod-imper,,,,,,clitic,no,,,
+sample,YWA,indepCla,,(ASP-)PRO-(RR-)V(-TAM),,,,,,,,,clitic,no,,,
+sample,YWG,indepCla,,V(-...)-INFL,,,,,,,,,,no,,,

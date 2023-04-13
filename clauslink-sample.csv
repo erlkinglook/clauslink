@@ -1,0 +1,76 @@
+code_EL,language,code_Glotto,code_ISO,codeAIATSIS,phylum,stock,lat,long,notes
+BTJ,"Batjamalh (Wadjiginy, Wogait)",wadj1254,wdj,N31,non-PN,Anson Bay (isolate),-12.86,130.74,"spelling of B and Wa and classification based on Nordlinger 2017, Wo from Ford, Western Daly according to Tryon 1974/1981, ""Wagaydyic"" recorded in various sources listed in AIATSIS"
+GND,Gooniyandi,goon1238,gni,K6,non-PN,Bunaban,-18.26153435,126.2884882,community spelling (rather than 'Kuniyanti')
+KAM,Kamu,kamu1258,xmu,N33,non-PN,Eastern Daly,-13.54,131.1,classification based on Nordlinger 2017
+GAA,Gaagudju,gaga1251,gbu,N50,non-PN,Gaagudju (isolate),-12.52,132.64,"Arnhem affiliation proposed passingly in Evans 2003:14, Harvey remains conservative"
+GWA,Garrwa,gara1269,wrk,N155,non-PN,Garrwan,-17.17828212,136.5329137,
+ALY,Anindilyakwa,anin1240,aoi,N151,non-PN,Gunwinyguan > bak group,-14.05312996,136.6124148,"also Leeding 1989, Van Egmond 2011, classification by Van Egmond (2012)"
+BKW,Bininj Kunwok,gunw1252,gup,N186,non-PN,Gunwinyguan > marne group,-12.26525431,133.6466651,Gunwinyguan internal structure from Evans 2003 intro
+DAL,Dalabon (Ngalkbun),ngal1292,ngk,N60,non-PN,Gunwinyguan > marne group,-13.98,133.94,Gunwinyguan internal structure from Evans 2003 intro
+WAY,Warray,wara1290,wrz,N25,non-PN,Gunwinyguan > Western,-13.62902944,131.8232754,"Harvey 1999 ?, Gunwinyguan internal structure from Evans 2003 intro"
+KRL,Kriol,krio1252,rop,P1,Indo-European,IE: Germanic > Pacific Creole English,-18.14,137.67,"coordinates (Barkly Kriol?), Denise Angelo"
+IWA,Iwaidja,iwai1244,ibd,N39,non-PN,Iwaidjan > Central,-11.34,132.45,"sources: Mailhammer, Teo, Evans... classification based on Mailhammer & Harvey 2018"
+MAW,Mawng,maun1240,mph,N64,non-PN,Iwaidjan > Eastern,-11.84,133.19,"also Capell & Hinch 1970, Singer 2006, classification based on Mailhammer & Harvey 2018"
+MRW,Miriwoong,miri1266,mep,K29,non-PN,Jarrakan,-16.01698315,128.7965195,contact Knut Olawsky for updated grammar
+LML,Limilngan,nucl1327,lmc,N42,non-PN,Limilngan–Wulna,-12.47762877,131.8581747,"""Darwin Region"" purportedly Harvey's label, seems to only be mentioned in GAA as a sprachbund and used in Bowern 2012's database"
+MYI,Mangarrayi,mang1381,mpc,N78,non-PN,Mangarrayi–Maran,-14.8,133.8,"Mangarrayi–Maran grouping supported by Merlan 2003, Arnhem grouping supported by Evans 2003:13"
+MAR,Marra,mara1385,mec,N112,non-PN,Mangarrayi–Maran > Maran,-14.79,134.87,"Mangarrayi–Maran grouping supported by Merlan 2003, Arnhem grouping supported by Evans 2003:13"
+NDJ,Ndjébbana,djee1236,djj,N74,non-PN,Maningrida,-12.01,134.1,"Arnhem membership tentatively included by Evans 2003, supported by Green, R 2003"
+GUG,Gurr-goni,gura1252,gge,N75,non-PN,Maningrida > Burera–Nakara,-12.67,134.1,"Arnhem membership tentatively included by Evans 2003, supported by Green, R 2003"
+JLU,Jingulu,djin1251,jig,C22,non-PN,Mirndi,-17.16,133.66,
+WBY,Wambaya,wamb1258,wmb,C19,non-PN,Mirndi > Ngurlun,-18.16780391,135.2714652,
+JNG,Jaminjung–Ngaliwurru,djam1255,djd,"N18, N19",non-PN,Mirndi > Yirram,-15.02818965,130.3565783,
+MAK,MalakMalak,mull1237,mpb,N22,non-PN,Northern Daly (isolate),-13.75351587,130.7147028,"also Cahir 2006 (on complex predicates), Dorothea Hoffmann, spelling, classification based on Nordlinger 2017"
+YAW,Yawuru,yawu1244,ywr,K1,non-PN,Nyulnyulan > East,-18.20094984,122.5732263,
+NYL,Nyulnyul,nyul1247,nyv,K13,non-PN,Nyulnyulan > West,-16.87658868,122.8231991,
+MPA,Mparntwe (Eastern) Arrernte,mpar1238,aer,C8,Pama–Nyungan,PN: Central > A–TY > Arandic,-23.24779965,135.559361,
+WIR,Wirangu,wira1265,wgu,C1,Pama–Nyungan,PN: Central > A–TY > Thura–Yura,-31.57687017,132.8519652,
+ARW,Arabana–Wangkangurru,arab1266,ard,"L13, L27",Pama–Nyungan,PN: Central > SW Qld > Karnic,-28.7,135.45,coordinates for Arabana
+DIY,Diyari,dier1241,dif,L17,Pama–Nyungan,PN: Central > SW Qld > Karnic,-28.58486621,139.0862193,
+PAK,Paakantyi,darl1243,drl,D12,Pama–Nyungan,PN: Central > SW Qld > Yarli–Baagandji,-31.12813021,144.2235677,Yarli–Baagandji from Bowern & Atkinson 2012
+WTS,Western Torres Strait language,kala1377,mwp,"Y1, ...",Pama–Nyungan,PN: Northern > ?,-10.67,142.2,"also Ford & Ober 1987,1991, Stirling 2008"
+KKT,Kalkatungu,kalk1246,ktg,G13,Pama–Nyungan,PN: Northern > Gulf > Kalkatungic,-20.8213821,139.0590511,"based on Blake 1979, affiliation with Yalarnnga rather tenuous"
+MAY,Mayi languages,mayk1239,mnt,G17,Pama–Nyungan,PN: Northern > Gulf > Mayabic,-18.56,141.46,"glottolog has Mayi as Paman; coordinates for Mayi Kulan, Breen 1981 mainly on Ngawun (codeAIATSIS)"
+KYJ,Kuku Yalanji,kuku1273,gvn,Y78,Pama–Nyungan,PN: Northern > P–M?,-16,145.19,YYY somewhat suggested by Black 2004
+YNY,Yidiny,yidi1250,yii,Y117,Pama–Nyungan,PN: Northern > P–M?,-17.11594422,145.7736814,YYY somewhat suggested by Black 2004
+DYB,Dyirbal,dyir1250,dbl,Y123,Pama–Nyungan,PN: Northern > P–M? > Dyirbalic,-17.74,145.742,
+BGB,Bidjara–Gungabula,bidy1243,bym,"E37, E35",Pama–Nyungan,PN: Northern > P–M? > Maric,-25.55,146.15,coordinates (Bidjara)
+WAO,Warrongo,waru1264,wrg,Y133,Pama–Nyungan,PN: Northern > P–M? > Maric,-18.25,144.37,
+KTH,Kuuk Thayorre,thay1249,thd,Y69,Pama–Nyungan,PN: Northern > P–M? > Paman,-14.818,141.847,
+UPU,Umpithamu,umbi1243,umd,Y50,Pama–Nyungan,PN: Northern > P–M? > Paman,-13.92,143.33,unpublished data
+URI,Uradhi (Injinoo Ikya),urad1238,avm,Y184,Pama–Nyungan,PN: Northern > P–M? > Paman,-11.94033482,142.2310819,
+YGB,Yugambeh–Bundjalung,band1339,bdy,"E17, E12",Pama–Nyungan,PN: Southeastern > North Coast > Bandjalangic,-28.70539724,152.9889939,coordinates (Bandjalang)
+GUB,Gumbaynggir,kumb1268,kgs,E7,Pama–Nyungan,PN: Southeastern > North Coast > Gumbaynggiric,-29.99947323,152.7216997,"name ends in a trill (<r> in Eades' orthography, <rr> in modern spelling)"
+DUU,Duuŋidjawu,duun1241,wkw,E20,Pama–Nyungan,PN: Southeastern > North Coast > Waka–Kabic,-25.3987,152.345,name from grammar
+MUW,Muruwari,muru1266,zmu,D32,Pama–Nyungan,PN: Southeastern > NSW > Central NSW+Muruwaric,-28.96,146.55,
+NGY,Ngiyambaa,wang1291,wyb,D22,Pama–Nyungan,PN: Southeastern > NSW > Central NSW+Muruwaric,-31.27664417,146.0548388,
+YWG,Yuwaalaraay–Gamilaraay,gami1243,kld,"D27, D23",Pama–Nyungan,PN: Southeastern > NSW > Central NSW+Muruwaric,-29.85302243,147.9291115,"coordinates (Yuwaalaraay), also Williams 1980 on Yuwalaraay, Austin 1993 on Gamilaaray"
+SOC,South Coast languages,dhur1239,dhu,"S59, S55, S53, S51",Pama–Nyungan,PN: Southeastern > NSW > Yuin–Kuri,-35.54363597,150.1793725,"Dharrawal, Dharumba, Dhurga (coordinates), Djirringanj"
+DHG,Dhanggati,dyan1250,dyn,E6,Pama–Nyungan,PN: Southeastern > NSW > Yuin–Kuri?,-30.85,152.6,"classification (Wafer & Lissarrague 2008: 194-214), Kuric according to Bowern"
+NGI,Ngarrindjeri,narr1259,nay,S69,Pama–Nyungan,PN: Southeastern > Victorian > Lower Murray,-36.23,140.16,also Yallop 1975
+NYM,Nyangumarta,nyan1301,nna,A61,Pama–Nyungan,PN: Western > Nyungic > Desert > Marrngu,-20.49615825,122.2137447,
+BLN,Bilinarra,bili1250,nbj,N36,Pama–Nyungan,PN: Western > Nyungic > Desert > Ngumpin–Yapa,-16.87,130.89,classification following Meakins et al 2019
+JAR,Jaru,jaru1254,ddj,K12,Pama–Nyungan,PN: Western > Nyungic > Desert > Ngumpin–Yapa,-19.14885981,127.88086,classification following Meakins et al 2019
+WAP,Warlpiri,warl1254,wbp,C15,Pama–Nyungan,PN: Western > Nyungic > Desert > Ngumpin–Yapa,-20.1,131.05,"also Nash, Hale et al. Swartz etc.; classification following Meakins et al 2019"
+WMU,Warumungu,waru1265,wrm,C18,Pama–Nyungan,PN: Western > Nyungic > Desert > Ngumpin–Yapa,-20.65,134.38,"manuscript (1993?), exact placement in Ng-Y problematic (Bowern & Atkinson 2012)"
+WKJ,Wangkajunga,wang1288,mpj,A87,Pama–Nyungan,PN: Western > Nyungic > Desert > Wati,-24.32,121.95,coordinates very different from Bowern 2012
+YTJ,Yankunytjatjara,yank1247,kdd,C4,Pama–Nyungan,PN: Western > Nyungic > Desert > Wati,-27.26048662,131.9855272,
+NHD,Nhanda,nhan1238,nha,W14,Pama–Nyungan,PN: Western > Nyungic > SW > Kartu,-27.43,114.27,
+WAI,Wajarri,tiwi1244,tiw,A39,Pama–Nyungan,PN: Western > Nyungic > SW > Kartu,-28.18,117.15,"also Douglas 1981, coordinates very different from Bowern 2012"
+NGM,Ngadjunmaya,ngad1258,nju,A3,Pama–Nyungan,PN: Western > Nyungic > SW > Mirning,-32.51750231,123.8164106,"also Marmion ?, Roberts 1995 (ms)"
+MTH,Martuthunira,mart1255,vma,W35,Pama–Nyungan,PN: Western > Nyungic > SW > Pilbara,-21.91408273,115.8212481,
+WGA,Wagaya,waga1260,wga,C16,Pama–Nyungan,PN: Western > W–Y? > Warluwaric,-20.33,137.62,"""ngarna"" > Warluwarric (Breen 2004), classification (Breen 2004)"
+YWA,Yanyuwa,yany1243,jao,N153,Pama–Nyungan,PN: Western > W–Y? > Warluwaric,-16.49279406,136.7840759,"also Kirton 1978, ""ngarna"" > Warluwarric (Breen 2004)"
+DJM,Djambarrpuyŋu,djam1256,djr,N115,Pama–Nyungan,PN: Western > W–Y? > Yolngu,-12.61979016,135.5309461,
+DJN,Djinang–Djinba,djin1253,dji,"N94:1, N97",Pama–Nyungan,PN: Western > W–Y? > Yolngu,-12.46,134.82,coordinates (Djinang)
+MUP,Murrinhpatha,murr1258,mwf,N3,non-PN,Southern Daly,-14.64409151,129.7406449,"also Walsh 1976, Mansfield 2019 (current spelling), classification based on Nordlinger 2017"
+NGG,Ngan'gityemerri,nang1259,nam,N157,non-PN,Southern Daly,-14.27,131.24,"also Hoddinott & Kofod 1988 on Ngankikurrungurr, classification based on Nordlinger 2017"
+GGL,Gangalidda (Yukulta),gang1267,gcd,G34,non-PN,Tangkic > Southern,-17.54,139.43,"also Keen 1983, phonetically ""Ganggalida"", but orthographically ""Gangalidda"" (Round 2014)"
+KYD,Kayardild,kaya1319,gyd,G35,non-PN,Tangkic > Southern,-17.08808051,139.4873823,also Round 2009/2013
+TIW,Tiwi,tiwi1244,tiw,N20,non-PN,Tiwi (isolate),-11.6788294,130.8353696,"also Osborne 1974, Wilson 2013"
+MIY,Marrithiyel,mari1424,mfr,N7,non-PN,Western Daly > Bringen,-13.83887457,130.0009396,classification based on Nordlinger 2017
+EMM,Emmi,amii1238,amy,N15,non-PN,Western Daly > Merranunggu–Emmi–Menthe,-13.56,130.04,"book as 2011, classification based on Nordlinger 2017"
+UNG,Ungarinyin,ngar1284,ung,K18,non-PN,Worrorran > Eastern,-15.98488583,126.5727527,also Spronck 2015
+WOA,Worrorra,worr1237,wro,K17,non-PN,Worrorran > Western,-15.69549526,124.8442304,
+WAG,Wagiman,wage1238,waq,N27,non-PN,Yangmanic? / (isolate),-14.18804631,131.6147964,"also Wilson A. 2006, Wilson S. 1999; Merlan 1994 pro-Yangmanic, Arnhem affiliation proposed passingly in Evans 2003:14"
+WRD,Wardaman,ward1246,wrr,N35,non-PN,Yangmanic? / (isolate),-15.5306437,131.8788657,"Merlan 1994 pro-Yangmanic, Arnhem affiliation proposed passingly in Evans 2003:14"
